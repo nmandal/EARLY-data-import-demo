@@ -1,0 +1,240 @@
+health Q 2017-03-19
+13 days of tracked health for Q 2017-03-19
+nan Active energy burned(Cal) n/a% QoQ (prev: nan), (n=0)
+nan Basal energy burned(Cal) n/a% QoQ (prev: nan), (n=0)
+nan Exercise time(min) n/a% QoQ (prev: nan), (n=0)
+12.0 Flights climbed(count) n/a% QoQ (prev: nan), (n=13)
+nan Resting heart rate(count/min) n/a% QoQ (prev: nan), (n=0)
+7800.0 Step count(count) n/a% QoQ (prev: nan), (n=13)
+nan VO2 Max(mL/min·kg) n/a% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) n/a% QoQ (prev: nan), (n=0)
+health Q 2017-04-01
+91 days of tracked health for Q 2017-04-01
+nan Active energy burned(Cal) nan% QoQ (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% QoQ (prev: nan), (n=0)
+nan Exercise time(min) nan% QoQ (prev: nan), (n=0)
+10.0 Flights climbed(count) -17.7% QoQ (prev: 12.0), (n=90)
+nan Resting heart rate(count/min) nan% QoQ (prev: nan), (n=0)
+7243.0 Step count(count) -7.1% QoQ (prev: 7800.0), (n=91)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2017-07-01
+92 days of tracked health for Q 2017-07-01
+nan Active energy burned(Cal) nan% QoQ (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% QoQ (prev: nan), (n=0)
+nan Exercise time(min) nan% QoQ (prev: nan), (n=0)
+13.0 Flights climbed(count) 28.1% QoQ (prev: 10.0), (n=91)
+nan Resting heart rate(count/min) nan% QoQ (prev: nan), (n=0)
+7271.0 Step count(count) 0.4% QoQ (prev: 7243.0), (n=92)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2017-10-01
+92 days of tracked health for Q 2017-10-01
+nan Active energy burned(Cal) nan% QoQ (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% QoQ (prev: nan), (n=0)
+nan Exercise time(min) nan% QoQ (prev: nan), (n=0)
+24.0 Flights climbed(count) 81.8% QoQ (prev: 13.0), (n=92)
+nan Resting heart rate(count/min) nan% QoQ (prev: nan), (n=0)
+8488.0 Step count(count) 16.7% QoQ (prev: 7271.0), (n=92)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2018-01-01
+90 days of tracked health for Q 2018-01-01
+nan Active energy burned(Cal) nan% QoQ (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% QoQ (prev: nan), (n=0)
+nan Exercise time(min) nan% QoQ (prev: nan), (n=0)
+26.0 Flights climbed(count) 11.1% QoQ (prev: 24.0), (n=90)
+nan Resting heart rate(count/min) nan% QoQ (prev: nan), (n=0)
+7442.0 Step count(count) -12.3% QoQ (prev: 8488.0), (n=90)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2018-04-01
+91 days of tracked health for Q 2018-04-01
+531.0 Active energy burned(Cal) nan% QoQ (prev: nan), (n=12)
+1812.0 Basal energy burned(Cal) nan% QoQ (prev: nan), (n=12)
+53.0 Exercise time(min) nan% QoQ (prev: nan), (n=11)
+21.0 Flights climbed(count) -21.0% QoQ (prev: 26.0), (n=91)
+56.0 Resting heart rate(count/min) nan% QoQ (prev: nan), (n=9)
+8702.0 Step count(count) 16.9% QoQ (prev: 7442.0), (n=91)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2018-07-01
+92 days of tracked health for Q 2018-07-01
+532.0 Active energy burned(Cal) 0.1% QoQ (prev: 531.0), (n=88)
+1863.0 Basal energy burned(Cal) 2.8% QoQ (prev: 1812.0), (n=88)
+47.0 Exercise time(min) -11.3% QoQ (prev: 53.0), (n=88)
+17.0 Flights climbed(count) -20.7% QoQ (prev: 21.0), (n=89)
+63.0 Resting heart rate(count/min) 12.9% QoQ (prev: 56.0), (n=78)
+9972.0 Step count(count) 14.6% QoQ (prev: 8702.0), (n=92)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2018-10-01
+92 days of tracked health for Q 2018-10-01
+462.0 Active energy burned(Cal) -13.2% QoQ (prev: 532.0), (n=92)
+1892.0 Basal energy burned(Cal) 1.6% QoQ (prev: 1863.0), (n=92)
+26.0 Exercise time(min) -44.7% QoQ (prev: 47.0), (n=92)
+11.0 Flights climbed(count) -32.7% QoQ (prev: 17.0), (n=92)
+63.0 Resting heart rate(count/min) 0.7% QoQ (prev: 63.0), (n=90)
+7920.0 Step count(count) -20.6% QoQ (prev: 9972.0), (n=92)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2019-01-01
+90 days of tracked health for Q 2019-01-01
+494.0 Active energy burned(Cal) 7.1% QoQ (prev: 462.0), (n=88)
+1855.0 Basal energy burned(Cal) -2.0% QoQ (prev: 1892.0), (n=90)
+40.0 Exercise time(min) 51.9% QoQ (prev: 26.0), (n=85)
+20.0 Flights climbed(count) 80.0% QoQ (prev: 11.0), (n=89)
+62.0 Resting heart rate(count/min) -1.6% QoQ (prev: 63.0), (n=84)
+7451.0 Step count(count) -5.9% QoQ (prev: 7920.0), (n=90)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2019-04-01
+91 days of tracked health for Q 2019-04-01
+607.0 Active energy burned(Cal) 22.8% QoQ (prev: 494.0), (n=91)
+1830.0 Basal energy burned(Cal) -1.3% QoQ (prev: 1855.0), (n=85)
+55.0 Exercise time(min) 39.3% QoQ (prev: 40.0), (n=84)
+21.0 Flights climbed(count) 3.1% QoQ (prev: 20.0), (n=89)
+62.0 Resting heart rate(count/min) 0.6% QoQ (prev: 62.0), (n=81)
+10424.0 Step count(count) 39.9% QoQ (prev: 7451.0), (n=91)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2019-07-01
+92 days of tracked health for Q 2019-07-01
+562.0 Active energy burned(Cal) -7.4% QoQ (prev: 607.0), (n=92)
+1840.0 Basal energy burned(Cal) 0.5% QoQ (prev: 1830.0), (n=92)
+36.0 Exercise time(min) -35.5% QoQ (prev: 55.0), (n=91)
+10.0 Flights climbed(count) -52.7% QoQ (prev: 21.0), (n=91)
+61.0 Resting heart rate(count/min) -2.2% QoQ (prev: 62.0), (n=88)
+7022.0 Step count(count) -32.6% QoQ (prev: 10424.0), (n=92)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2019-10-01
+92 days of tracked health for Q 2019-10-01
+561.0 Active energy burned(Cal) -0.1% QoQ (prev: 562.0), (n=92)
+1686.0 Basal energy burned(Cal) -8.4% QoQ (prev: 1840.0), (n=16)
+44.0 Exercise time(min) 24.8% QoQ (prev: 36.0), (n=15)
+10.0 Flights climbed(count) 0.5% QoQ (prev: 10.0), (n=91)
+63.0 Resting heart rate(count/min) 2.6% QoQ (prev: 61.0), (n=13)
+6849.0 Step count(count) -2.5% QoQ (prev: 7022.0), (n=92)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2020-01-01
+91 days of tracked health for Q 2020-01-01
+564.0 Active energy burned(Cal) 0.5% QoQ (prev: 561.0), (n=91)
+1707.0 Basal energy burned(Cal) 1.2% QoQ (prev: 1686.0), (n=62)
+23.0 Exercise time(min) -48.7% QoQ (prev: 44.0), (n=49)
+9.0 Flights climbed(count) -11.6% QoQ (prev: 10.0), (n=86)
+59.0 Resting heart rate(count/min) -5.8% QoQ (prev: 63.0), (n=40)
+6776.0 Step count(count) -1.1% QoQ (prev: 6849.0), (n=91)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2020-04-01
+91 days of tracked health for Q 2020-04-01
+565.0 Active energy burned(Cal) 0.1% QoQ (prev: 564.0), (n=91)
+1755.0 Basal energy burned(Cal) 2.8% QoQ (prev: 1707.0), (n=91)
+47.0 Exercise time(min) 108.5% QoQ (prev: 23.0), (n=66)
+8.0 Flights climbed(count) -11.1% QoQ (prev: 9.0), (n=83)
+53.0 Resting heart rate(count/min) -9.6% QoQ (prev: 59.0), (n=55)
+7467.0 Step count(count) 10.2% QoQ (prev: 6776.0), (n=90)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2020-07-01
+92 days of tracked health for Q 2020-07-01
+639.0 Active energy burned(Cal) 13.1% QoQ (prev: 565.0), (n=92)
+1806.0 Basal energy burned(Cal) 2.9% QoQ (prev: 1755.0), (n=91)
+57.0 Exercise time(min) 19.4% QoQ (prev: 47.0), (n=91)
+9.0 Flights climbed(count) 10.5% QoQ (prev: 8.0), (n=86)
+49.0 Resting heart rate(count/min) -8.8% QoQ (prev: 53.0), (n=90)
+8885.0 Step count(count) 19.0% QoQ (prev: 7467.0), (n=92)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2020-10-01
+92 days of tracked health for Q 2020-10-01
+701.0 Active energy burned(Cal) 9.6% QoQ (prev: 639.0), (n=92)
+1845.0 Basal energy burned(Cal) 2.2% QoQ (prev: 1806.0), (n=92)
+60.0 Exercise time(min) 6.2% QoQ (prev: 57.0), (n=92)
+11.0 Flights climbed(count) 24.4% QoQ (prev: 9.0), (n=85)
+52.0 Resting heart rate(count/min) 7.8% QoQ (prev: 49.0), (n=90)
+6829.0 Step count(count) -23.1% QoQ (prev: 8885.0), (n=92)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2021-01-01
+90 days of tracked health for Q 2021-01-01
+661.0 Active energy burned(Cal) -5.7% QoQ (prev: 701.0), (n=90)
+1837.0 Basal energy burned(Cal) -0.4% QoQ (prev: 1845.0), (n=90)
+59.0 Exercise time(min) -1.9% QoQ (prev: 60.0), (n=88)
+5.0 Flights climbed(count) -49.0% QoQ (prev: 11.0), (n=82)
+49.0 Resting heart rate(count/min) -6.6% QoQ (prev: 52.0), (n=87)
+5431.0 Step count(count) -20.5% QoQ (prev: 6829.0), (n=90)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2021-04-01
+91 days of tracked health for Q 2021-04-01
+695.0 Active energy burned(Cal) 5.1% QoQ (prev: 661.0), (n=91)
+1841.0 Basal energy burned(Cal) 0.2% QoQ (prev: 1837.0), (n=91)
+62.0 Exercise time(min) 5.4% QoQ (prev: 59.0), (n=91)
+6.0 Flights climbed(count) 6.4% QoQ (prev: 5.0), (n=88)
+50.0 Resting heart rate(count/min) 2.6% QoQ (prev: 49.0), (n=89)
+6734.0 Step count(count) 24.0% QoQ (prev: 5431.0), (n=91)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2021-07-01
+92 days of tracked health for Q 2021-07-01
+706.0 Active energy burned(Cal) 1.6% QoQ (prev: 695.0), (n=92)
+1847.0 Basal energy burned(Cal) 0.3% QoQ (prev: 1841.0), (n=92)
+65.0 Exercise time(min) 4.5% QoQ (prev: 62.0), (n=91)
+6.0 Flights climbed(count) 8.5% QoQ (prev: 6.0), (n=91)
+49.0 Resting heart rate(count/min) -2.2% QoQ (prev: 50.0), (n=90)
+7479.0 Step count(count) 11.1% QoQ (prev: 6734.0), (n=92)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2021-10-01
+92 days of tracked health for Q 2021-10-01
+653.0 Active energy burned(Cal) -7.5% QoQ (prev: 706.0), (n=92)
+1847.0 Basal energy burned(Cal) -0.0% QoQ (prev: 1847.0), (n=92)
+65.0 Exercise time(min) -0.1% QoQ (prev: 65.0), (n=91)
+6.0 Flights climbed(count) -0.7% QoQ (prev: 6.0), (n=87)
+50.0 Resting heart rate(count/min) 1.7% QoQ (prev: 49.0), (n=91)
+6670.0 Step count(count) -10.8% QoQ (prev: 7479.0), (n=92)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2022-01-01
+90 days of tracked health for Q 2022-01-01
+595.0 Active energy burned(Cal) -8.8% QoQ (prev: 653.0), (n=90)
+1854.0 Basal energy burned(Cal) 0.4% QoQ (prev: 1847.0), (n=90)
+52.0 Exercise time(min) -19.3% QoQ (prev: 65.0), (n=90)
+6.0 Flights climbed(count) -5.3% QoQ (prev: 6.0), (n=89)
+52.0 Resting heart rate(count/min) 4.0% QoQ (prev: 50.0), (n=88)
+6326.0 Step count(count) -5.2% QoQ (prev: 6670.0), (n=90)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2022-04-01
+91 days of tracked health for Q 2022-04-01
+647.0 Active energy burned(Cal) 8.6% QoQ (prev: 595.0), (n=91)
+1843.0 Basal energy burned(Cal) -0.6% QoQ (prev: 1854.0), (n=88)
+64.0 Exercise time(min) 22.3% QoQ (prev: 52.0), (n=86)
+6.0 Flights climbed(count) 6.8% QoQ (prev: 6.0), (n=88)
+60.0 Resting heart rate(count/min) 14.8% QoQ (prev: 52.0), (n=88)
+8000.0 Step count(count) 26.5% QoQ (prev: 6326.0), (n=91)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2022-07-01
+92 days of tracked health for Q 2022-07-01
+750.0 Active energy burned(Cal) 15.9% QoQ (prev: 647.0), (n=92)
+1884.0 Basal energy burned(Cal) 2.3% QoQ (prev: 1843.0), (n=92)
+66.0 Exercise time(min) 3.2% QoQ (prev: 64.0), (n=92)
+10.0 Flights climbed(count) 67.2% QoQ (prev: 6.0), (n=85)
+59.0 Resting heart rate(count/min) -0.8% QoQ (prev: 60.0), (n=90)
+9362.0 Step count(count) 17.0% QoQ (prev: 8000.0), (n=92)
+nan VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=0)
+nan Mindfulness(min) nan% QoQ (prev: nan), (n=0)
+health Q 2022-10-01
+31 days of tracked health for Q 2022-10-01
+821.0 Active energy burned(Cal) 9.5% QoQ (prev: 750.0), (n=31)
+1886.0 Basal energy burned(Cal) 0.1% QoQ (prev: 1884.0), (n=31)
+80.0 Exercise time(min) 20.6% QoQ (prev: 66.0), (n=31)
+10.0 Flights climbed(count) -0.8% QoQ (prev: 10.0), (n=29)
+59.0 Resting heart rate(count/min) -0.3% QoQ (prev: 59.0), (n=31)
+8676.0 Step count(count) -7.3% QoQ (prev: 9362.0), (n=31)
+48.02 VO2 Max(mL/min·kg) nan% QoQ (prev: nan), (n=28)
+8.0 Mindfulness(min) nan% QoQ (prev: nan), (n=28)

@@ -1,0 +1,8 @@
+Date,Active energy burned(Cal),Activity,Duration(s),Heart rate zone: A Easy (<115bpm)(%),Heart rate zone: B Fat Burn (115-135bpm)(%),Heart rate zone: C Moderate Training (135-155bpm)(%),Heart rate zone: D Hard Training (155-175bpm)(%),Heart rate zone: E Extreme Training (>175bpm)(%),Heart rate: Average(count/min),Heart rate: Maximum(count/min),METs Average(kcal/hr·kg)
+2021-02-22 10:16:25,125.694,Yoga,1828.746,1.0,0.0,0.0,0.0,0.0,87.143,92.907,4.123
+2021-02-22 10:16:55,132.0,Yoga (Indoor),1800.0,1.0,0.0,0.0,0.0,0.0,88.826,92.907,
+2021-02-22 14:27:39,75.932,Walking,1229.442,1.0,0.0,0.0,0.0,0.0,86.251,86.753,4.445
+2021-02-22 17:44:37,120.066,Traditional Strength Training,1207.099,0.667,0.0,0.333,0.0,0.0,96.623,138.975,3.714
+2021-02-22 17:45:03,125.0,Functional Strength Training (Indoor),2070.0,0.333,0.0,0.333,0.334,0.0,126.081,159.0,
+2021-02-23 07:57:08,91.195,Walking,1169.008,1.0,0.0,0.0,0.0,0.0,92.831,94.273,
+2021-02-25 11:49:07,132.137,Walking,1648.636,1.0,0.0,0.0,0.0,0.0,99.376,106.244,

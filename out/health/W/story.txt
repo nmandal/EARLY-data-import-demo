@@ -1,0 +1,2950 @@
+health W 2017-03-19
+1 days of tracked health for W 2017-03-19
+nan Active energy burned(Cal) n/a% WoW (prev: 1.58), (n=0)
+nan Basal energy burned(Cal) n/a% WoW (prev: 1.58), (n=0)
+nan Exercise time(min) n/a% WoW (prev: 1.58), (n=0)
+5.0 Flights climbed(count) n/a% WoW (prev: 1.58), (n=1)
+nan Resting heart rate(count/min) n/a% WoW (prev: 1.58), (n=0)
+1546.0 Step count(count) n/a% WoW (prev: 1.58), (n=1)
+nan VO2 Max(mL/min·kg) n/a% WoW (prev: 1.58), (n=0)
+nan Mindfulness(min) n/a% WoW (prev: 1.58), (n=0)
+health W 2017-03-20
+7 days of tracked health for W 2017-03-20
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+7.0 Flights climbed(count) 31.4% WoW (prev: 5.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+7291.0 Step count(count) 371.6% WoW (prev: 1546.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-03-27
+7 days of tracked health for W 2017-03-27
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+17.0 Flights climbed(count) 154.3% WoW (prev: 7.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+9112.0 Step count(count) 25.0% WoW (prev: 7291.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-04-03
+7 days of tracked health for W 2017-04-03
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+15.0 Flights climbed(count) -9.4% WoW (prev: 17.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+10958.0 Step count(count) 20.3% WoW (prev: 9112.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-04-10
+7 days of tracked health for W 2017-04-10
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+18.0 Flights climbed(count) 20.8% WoW (prev: 15.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+9932.0 Step count(count) -9.4% WoW (prev: 10958.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-04-17
+7 days of tracked health for W 2017-04-17
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+17.0 Flights climbed(count) -4.7% WoW (prev: 18.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+13395.0 Step count(count) 34.9% WoW (prev: 9932.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-04-24
+7 days of tracked health for W 2017-04-24
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+15.0 Flights climbed(count) -15.6% WoW (prev: 17.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+11483.0 Step count(count) -14.3% WoW (prev: 13395.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-05-01
+7 days of tracked health for W 2017-05-01
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+16.0 Flights climbed(count) 9.7% WoW (prev: 15.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+10547.0 Step count(count) -8.2% WoW (prev: 11483.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-05-08
+7 days of tracked health for W 2017-05-08
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+6.0 Flights climbed(count) -60.2% WoW (prev: 16.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+3610.0 Step count(count) -65.8% WoW (prev: 10547.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-05-15
+7 days of tracked health for W 2017-05-15
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+7.0 Flights climbed(count) 13.3% WoW (prev: 6.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+5132.0 Step count(count) 42.2% WoW (prev: 3610.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-05-22
+7 days of tracked health for W 2017-05-22
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+5.0 Flights climbed(count) -31.4% WoW (prev: 7.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+3673.0 Step count(count) -28.4% WoW (prev: 5132.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-05-29
+7 days of tracked health for W 2017-05-29
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+7.0 Flights climbed(count) 31.4% WoW (prev: 5.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+4956.0 Step count(count) 34.9% WoW (prev: 3673.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-06-05
+7 days of tracked health for W 2017-06-05
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+6.0 Flights climbed(count) -3.6% WoW (prev: 7.0), (n=6)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+5213.0 Step count(count) 5.2% WoW (prev: 4956.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-06-12
+7 days of tracked health for W 2017-06-12
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+5.0 Flights climbed(count) -18.8% WoW (prev: 6.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+4297.0 Step count(count) -17.6% WoW (prev: 5213.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-06-19
+7 days of tracked health for W 2017-06-19
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+9.0 Flights climbed(count) 75.0% WoW (prev: 5.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+5577.0 Step count(count) 29.8% WoW (prev: 4297.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-06-26
+7 days of tracked health for W 2017-06-26
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+6.0 Flights climbed(count) -33.3% WoW (prev: 9.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+4390.0 Step count(count) -21.3% WoW (prev: 5577.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-07-03
+7 days of tracked health for W 2017-07-03
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+8.0 Flights climbed(count) 41.7% WoW (prev: 6.0), (n=6)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+4739.0 Step count(count) 8.0% WoW (prev: 4390.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-07-10
+7 days of tracked health for W 2017-07-10
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+7.0 Flights climbed(count) -17.6% WoW (prev: 8.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+5184.0 Step count(count) 9.4% WoW (prev: 4739.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-07-17
+7 days of tracked health for W 2017-07-17
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+5.0 Flights climbed(count) -30.6% WoW (prev: 7.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+5516.0 Step count(count) 6.4% WoW (prev: 5184.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-07-24
+7 days of tracked health for W 2017-07-24
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+9.0 Flights climbed(count) 85.3% WoW (prev: 5.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+5079.0 Step count(count) -7.9% WoW (prev: 5516.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-07-31
+7 days of tracked health for W 2017-07-31
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+14.0 Flights climbed(count) 54.0% WoW (prev: 9.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+12351.0 Step count(count) 143.2% WoW (prev: 5079.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-08-07
+7 days of tracked health for W 2017-08-07
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+8.0 Flights climbed(count) -41.2% WoW (prev: 14.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+2868.0 Step count(count) -76.8% WoW (prev: 12351.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-08-14
+7 days of tracked health for W 2017-08-14
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+7.0 Flights climbed(count) -10.5% WoW (prev: 8.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+3559.0 Step count(count) 24.1% WoW (prev: 2868.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-08-21
+7 days of tracked health for W 2017-08-21
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+17.0 Flights climbed(count) 127.5% WoW (prev: 7.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+5962.0 Step count(count) 67.5% WoW (prev: 3559.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-08-28
+7 days of tracked health for W 2017-08-28
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+14.0 Flights climbed(count) -16.4% WoW (prev: 17.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+7229.0 Step count(count) 21.2% WoW (prev: 5962.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-09-04
+7 days of tracked health for W 2017-09-04
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+25.0 Flights climbed(count) 79.4% WoW (prev: 14.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+9922.0 Step count(count) 37.3% WoW (prev: 7229.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-09-11
+7 days of tracked health for W 2017-09-11
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+15.0 Flights climbed(count) -40.8% WoW (prev: 25.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+10245.0 Step count(count) 3.2% WoW (prev: 9922.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-09-18
+7 days of tracked health for W 2017-09-18
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+20.0 Flights climbed(count) 36.9% WoW (prev: 15.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+11856.0 Step count(count) 15.7% WoW (prev: 10245.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-09-25
+7 days of tracked health for W 2017-09-25
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+23.0 Flights climbed(count) 14.9% WoW (prev: 20.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+11225.0 Step count(count) -5.3% WoW (prev: 11856.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-10-02
+7 days of tracked health for W 2017-10-02
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+22.0 Flights climbed(count) -3.7% WoW (prev: 23.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+10223.0 Step count(count) -8.9% WoW (prev: 11225.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-10-09
+7 days of tracked health for W 2017-10-09
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+18.0 Flights climbed(count) -17.9% WoW (prev: 22.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+9869.0 Step count(count) -3.5% WoW (prev: 10223.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-10-16
+7 days of tracked health for W 2017-10-16
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+18.0 Flights climbed(count) -0.8% WoW (prev: 18.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+9571.0 Step count(count) -3.0% WoW (prev: 9869.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-10-23
+7 days of tracked health for W 2017-10-23
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+27.0 Flights climbed(count) 46.5% WoW (prev: 18.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+9231.0 Step count(count) -3.5% WoW (prev: 9571.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-10-30
+7 days of tracked health for W 2017-10-30
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+17.0 Flights climbed(count) -34.4% WoW (prev: 27.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+7807.0 Step count(count) -15.4% WoW (prev: 9231.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-11-06
+7 days of tracked health for W 2017-11-06
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+34.0 Flights climbed(count) 95.9% WoW (prev: 17.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+9968.0 Step count(count) 27.7% WoW (prev: 7807.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-11-13
+7 days of tracked health for W 2017-11-13
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+30.0 Flights climbed(count) -12.6% WoW (prev: 34.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+9754.0 Step count(count) -2.1% WoW (prev: 9968.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-11-20
+7 days of tracked health for W 2017-11-20
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+18.0 Flights climbed(count) -39.7% WoW (prev: 30.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+6644.0 Step count(count) -31.9% WoW (prev: 9754.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-11-27
+7 days of tracked health for W 2017-11-27
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+29.0 Flights climbed(count) 61.1% WoW (prev: 18.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+9285.0 Step count(count) 39.7% WoW (prev: 6644.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-12-04
+7 days of tracked health for W 2017-12-04
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+35.0 Flights climbed(count) 22.2% WoW (prev: 29.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+9072.0 Step count(count) -2.3% WoW (prev: 9285.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-12-11
+7 days of tracked health for W 2017-12-11
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+27.0 Flights climbed(count) -23.4% WoW (prev: 35.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+8620.0 Step count(count) -5.0% WoW (prev: 9072.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-12-18
+7 days of tracked health for W 2017-12-18
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+19.0 Flights climbed(count) -30.0% WoW (prev: 27.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+6581.0 Step count(count) -23.7% WoW (prev: 8620.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2017-12-25
+7 days of tracked health for W 2017-12-25
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+13.0 Flights climbed(count) -30.8% WoW (prev: 19.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+3610.0 Step count(count) -45.1% WoW (prev: 6581.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-01-01
+7 days of tracked health for W 2018-01-01
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+12.0 Flights climbed(count) -7.6% WoW (prev: 13.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+3868.0 Step count(count) 7.1% WoW (prev: 3610.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-01-08
+7 days of tracked health for W 2018-01-08
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+11.0 Flights climbed(count) -7.1% WoW (prev: 12.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+3317.0 Step count(count) -14.2% WoW (prev: 3868.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-01-15
+7 days of tracked health for W 2018-01-15
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+18.0 Flights climbed(count) 63.3% WoW (prev: 11.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+5159.0 Step count(count) 55.5% WoW (prev: 3317.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-01-22
+7 days of tracked health for W 2018-01-22
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+33.0 Flights climbed(count) 81.4% WoW (prev: 18.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+8851.0 Step count(count) 71.6% WoW (prev: 5159.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-01-29
+7 days of tracked health for W 2018-01-29
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+25.0 Flights climbed(count) -23.9% WoW (prev: 33.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+7607.0 Step count(count) -14.1% WoW (prev: 8851.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-02-05
+7 days of tracked health for W 2018-02-05
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+30.0 Flights climbed(count) 18.0% WoW (prev: 25.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+8055.0 Step count(count) 5.9% WoW (prev: 7607.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-02-12
+7 days of tracked health for W 2018-02-12
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+35.0 Flights climbed(count) 15.2% WoW (prev: 30.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+8830.0 Step count(count) 9.6% WoW (prev: 8055.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-02-19
+7 days of tracked health for W 2018-02-19
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+33.0 Flights climbed(count) -3.7% WoW (prev: 35.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+7903.0 Step count(count) -10.5% WoW (prev: 8830.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-02-26
+7 days of tracked health for W 2018-02-26
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+33.0 Flights climbed(count) -1.3% WoW (prev: 33.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+8530.0 Step count(count) 7.9% WoW (prev: 7903.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-03-05
+7 days of tracked health for W 2018-03-05
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+42.0 Flights climbed(count) 27.4% WoW (prev: 33.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+10516.0 Step count(count) 23.3% WoW (prev: 8530.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-03-12
+7 days of tracked health for W 2018-03-12
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+24.0 Flights climbed(count) -42.0% WoW (prev: 42.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+7444.0 Step count(count) -29.2% WoW (prev: 10516.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-03-19
+7 days of tracked health for W 2018-03-19
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+30.0 Flights climbed(count) 23.5% WoW (prev: 24.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+8996.0 Step count(count) 20.9% WoW (prev: 7444.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-03-26
+7 days of tracked health for W 2018-03-26
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+15.0 Flights climbed(count) -51.0% WoW (prev: 30.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+7510.0 Step count(count) -16.5% WoW (prev: 8996.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-04-02
+7 days of tracked health for W 2018-04-02
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+37.0 Flights climbed(count) 153.4% WoW (prev: 15.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+9340.0 Step count(count) 24.4% WoW (prev: 7510.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-04-09
+7 days of tracked health for W 2018-04-09
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+30.0 Flights climbed(count) -19.2% WoW (prev: 37.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+9469.0 Step count(count) 1.4% WoW (prev: 9340.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-04-16
+7 days of tracked health for W 2018-04-16
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+26.0 Flights climbed(count) -13.3% WoW (prev: 30.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+8177.0 Step count(count) -13.6% WoW (prev: 9469.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-04-23
+7 days of tracked health for W 2018-04-23
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+31.0 Flights climbed(count) 17.5% WoW (prev: 26.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+10381.0 Step count(count) 27.0% WoW (prev: 8177.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-04-30
+7 days of tracked health for W 2018-04-30
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+23.0 Flights climbed(count) -25.6% WoW (prev: 31.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+9823.0 Step count(count) -5.4% WoW (prev: 10381.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-05-07
+7 days of tracked health for W 2018-05-07
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+30.0 Flights climbed(count) 30.6% WoW (prev: 23.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+10682.0 Step count(count) 8.8% WoW (prev: 9823.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-05-14
+7 days of tracked health for W 2018-05-14
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+6.0 Flights climbed(count) -79.4% WoW (prev: 30.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+6987.0 Step count(count) -34.6% WoW (prev: 10682.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-05-21
+7 days of tracked health for W 2018-05-21
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+9.0 Flights climbed(count) 53.5% WoW (prev: 6.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+5486.0 Step count(count) -21.5% WoW (prev: 6987.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-05-28
+7 days of tracked health for W 2018-05-28
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+14.0 Flights climbed(count) 47.0% WoW (prev: 9.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+6192.0 Step count(count) 12.9% WoW (prev: 5486.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-06-04
+7 days of tracked health for W 2018-06-04
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+10.0 Flights climbed(count) -26.8% WoW (prev: 14.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+7562.0 Step count(count) 22.1% WoW (prev: 6192.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-06-11
+7 days of tracked health for W 2018-06-11
+nan Active energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+16.0 Flights climbed(count) 59.2% WoW (prev: 10.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+9723.0 Step count(count) 28.6% WoW (prev: 7562.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-06-18
+7 days of tracked health for W 2018-06-18
+462.0 Active energy burned(Cal) nan% WoW (prev: nan), (n=6)
+1645.0 Basal energy burned(Cal) nan% WoW (prev: nan), (n=6)
+53.0 Exercise time(min) nan% WoW (prev: nan), (n=5)
+20.0 Flights climbed(count) 22.1% WoW (prev: 16.0), (n=7)
+53.0 Resting heart rate(count/min) nan% WoW (prev: nan), (n=3)
+8970.0 Step count(count) -7.7% WoW (prev: 9723.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-06-25
+7 days of tracked health for W 2018-06-25
+612.0 Active energy burned(Cal) 32.5% WoW (prev: 462.0), (n=7)
+1973.0 Basal energy burned(Cal) 20.0% WoW (prev: 1645.0), (n=7)
+60.0 Exercise time(min) 13.2% WoW (prev: 53.0), (n=7)
+16.0 Flights climbed(count) -18.8% WoW (prev: 20.0), (n=7)
+57.0 Resting heart rate(count/min) 7.6% WoW (prev: 53.0), (n=6)
+11794.0 Step count(count) 31.5% WoW (prev: 8970.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-07-02
+7 days of tracked health for W 2018-07-02
+583.0 Active energy burned(Cal) -4.8% WoW (prev: 612.0), (n=7)
+1956.0 Basal energy burned(Cal) -0.9% WoW (prev: 1973.0), (n=7)
+47.0 Exercise time(min) -21.9% WoW (prev: 60.0), (n=7)
+14.0 Flights climbed(count) -10.7% WoW (prev: 16.0), (n=7)
+59.0 Resting heart rate(count/min) 4.1% WoW (prev: 57.0), (n=6)
+10013.0 Step count(count) -15.1% WoW (prev: 11794.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-07-09
+7 days of tracked health for W 2018-07-09
+491.0 Active energy burned(Cal) -15.7% WoW (prev: 583.0), (n=7)
+1773.0 Basal energy burned(Cal) -9.3% WoW (prev: 1956.0), (n=7)
+39.0 Exercise time(min) -15.9% WoW (prev: 47.0), (n=7)
+18.0 Flights climbed(count) 25.0% WoW (prev: 14.0), (n=7)
+58.0 Resting heart rate(count/min) -1.5% WoW (prev: 59.0), (n=5)
+10199.0 Step count(count) 1.9% WoW (prev: 10013.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-07-16
+7 days of tracked health for W 2018-07-16
+348.0 Active energy burned(Cal) -29.1% WoW (prev: 491.0), (n=3)
+1459.0 Basal energy burned(Cal) -17.7% WoW (prev: 1773.0), (n=3)
+24.0 Exercise time(min) -39.1% WoW (prev: 39.0), (n=3)
+14.0 Flights climbed(count) -22.4% WoW (prev: 18.0), (n=7)
+69.0 Resting heart rate(count/min) 18.8% WoW (prev: 58.0), (n=2)
+7871.0 Step count(count) -22.8% WoW (prev: 10199.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-07-23
+7 days of tracked health for W 2018-07-23
+454.0 Active energy burned(Cal) 30.2% WoW (prev: 348.0), (n=7)
+1867.0 Basal energy burned(Cal) 27.9% WoW (prev: 1459.0), (n=7)
+31.0 Exercise time(min) 31.0% WoW (prev: 24.0), (n=7)
+18.0 Flights climbed(count) 28.5% WoW (prev: 14.0), (n=5)
+59.0 Resting heart rate(count/min) -15.2% WoW (prev: 69.0), (n=5)
+6779.0 Step count(count) -13.9% WoW (prev: 7871.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-07-30
+7 days of tracked health for W 2018-07-30
+585.0 Active energy burned(Cal) 29.0% WoW (prev: 454.0), (n=7)
+1869.0 Basal energy burned(Cal) 0.1% WoW (prev: 1867.0), (n=7)
+52.0 Exercise time(min) 64.5% WoW (prev: 31.0), (n=7)
+20.0 Flights climbed(count) 12.4% WoW (prev: 18.0), (n=6)
+61.0 Resting heart rate(count/min) 4.2% WoW (prev: 59.0), (n=6)
+10201.0 Step count(count) 50.5% WoW (prev: 6779.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-08-06
+7 days of tracked health for W 2018-08-06
+465.0 Active energy burned(Cal) -20.5% WoW (prev: 585.0), (n=7)
+1872.0 Basal energy burned(Cal) 0.2% WoW (prev: 1869.0), (n=7)
+34.0 Exercise time(min) -33.4% WoW (prev: 52.0), (n=7)
+10.0 Flights climbed(count) -49.3% WoW (prev: 20.0), (n=7)
+64.0 Resting heart rate(count/min) 5.3% WoW (prev: 61.0), (n=5)
+8239.0 Step count(count) -19.2% WoW (prev: 10201.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-08-13
+7 days of tracked health for W 2018-08-13
+581.0 Active energy burned(Cal) 24.9% WoW (prev: 465.0), (n=7)
+1886.0 Basal energy burned(Cal) 0.8% WoW (prev: 1872.0), (n=7)
+56.0 Exercise time(min) 63.1% WoW (prev: 34.0), (n=7)
+26.0 Flights climbed(count) 153.5% WoW (prev: 10.0), (n=7)
+66.0 Resting heart rate(count/min) 3.1% WoW (prev: 64.0), (n=7)
+9483.0 Step count(count) 15.1% WoW (prev: 8239.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-08-20
+7 days of tracked health for W 2018-08-20
+854.0 Active energy burned(Cal) 47.1% WoW (prev: 581.0), (n=7)
+1921.0 Basal energy burned(Cal) 1.9% WoW (prev: 1886.0), (n=7)
+97.0 Exercise time(min) 72.8% WoW (prev: 56.0), (n=7)
+53.0 Flights climbed(count) 105.6% WoW (prev: 26.0), (n=7)
+66.0 Resting heart rate(count/min) -0.9% WoW (prev: 66.0), (n=7)
+15676.0 Step count(count) 65.3% WoW (prev: 9483.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-08-27
+7 days of tracked health for W 2018-08-27
+488.0 Active energy burned(Cal) -42.9% WoW (prev: 854.0), (n=7)
+1877.0 Basal energy burned(Cal) -2.3% WoW (prev: 1921.0), (n=7)
+43.0 Exercise time(min) -56.0% WoW (prev: 97.0), (n=7)
+7.0 Flights climbed(count) -86.5% WoW (prev: 53.0), (n=7)
+59.0 Resting heart rate(count/min) -10.0% WoW (prev: 66.0), (n=7)
+8159.0 Step count(count) -48.0% WoW (prev: 15676.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-09-03
+7 days of tracked health for W 2018-09-03
+452.0 Active energy burned(Cal) -7.3% WoW (prev: 488.0), (n=7)
+1848.0 Basal energy burned(Cal) -1.5% WoW (prev: 1877.0), (n=7)
+43.0 Exercise time(min) 1.3% WoW (prev: 43.0), (n=7)
+9.0 Flights climbed(count) 22.0% WoW (prev: 7.0), (n=7)
+66.0 Resting heart rate(count/min) 11.8% WoW (prev: 59.0), (n=7)
+8054.0 Step count(count) -1.3% WoW (prev: 8159.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-09-10
+7 days of tracked health for W 2018-09-10
+528.0 Active energy burned(Cal) 16.9% WoW (prev: 452.0), (n=7)
+1869.0 Basal energy burned(Cal) 1.2% WoW (prev: 1848.0), (n=7)
+47.0 Exercise time(min) 7.9% WoW (prev: 43.0), (n=7)
+8.0 Flights climbed(count) -11.5% WoW (prev: 9.0), (n=7)
+64.0 Resting heart rate(count/min) -3.4% WoW (prev: 66.0), (n=7)
+10659.0 Step count(count) 32.4% WoW (prev: 8054.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-09-17
+7 days of tracked health for W 2018-09-17
+490.0 Active energy burned(Cal) -7.2% WoW (prev: 528.0), (n=7)
+1885.0 Basal energy burned(Cal) 0.8% WoW (prev: 1869.0), (n=7)
+44.0 Exercise time(min) -5.8% WoW (prev: 47.0), (n=7)
+10.0 Flights climbed(count) 34.5% WoW (prev: 8.0), (n=7)
+62.0 Resting heart rate(count/min) -3.8% WoW (prev: 64.0), (n=7)
+11801.0 Step count(count) 10.7% WoW (prev: 10659.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-09-24
+7 days of tracked health for W 2018-09-24
+464.0 Active energy burned(Cal) -5.4% WoW (prev: 490.0), (n=7)
+1896.0 Basal energy burned(Cal) 0.6% WoW (prev: 1885.0), (n=7)
+35.0 Exercise time(min) -21.1% WoW (prev: 44.0), (n=7)
+11.0 Flights climbed(count) 3.5% WoW (prev: 10.0), (n=7)
+62.0 Resting heart rate(count/min) 0.7% WoW (prev: 62.0), (n=7)
+11569.0 Step count(count) -2.0% WoW (prev: 11801.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-10-01
+7 days of tracked health for W 2018-10-01
+604.0 Active energy burned(Cal) 30.4% WoW (prev: 464.0), (n=7)
+1927.0 Basal energy burned(Cal) 1.6% WoW (prev: 1896.0), (n=7)
+38.0 Exercise time(min) 9.9% WoW (prev: 35.0), (n=7)
+11.0 Flights climbed(count) 2.4% WoW (prev: 11.0), (n=7)
+64.0 Resting heart rate(count/min) 3.7% WoW (prev: 62.0), (n=7)
+14386.0 Step count(count) 24.3% WoW (prev: 11569.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-10-08
+7 days of tracked health for W 2018-10-08
+494.0 Active energy burned(Cal) -18.3% WoW (prev: 604.0), (n=7)
+1916.0 Basal energy burned(Cal) -0.6% WoW (prev: 1927.0), (n=7)
+21.0 Exercise time(min) -46.1% WoW (prev: 38.0), (n=7)
+6.0 Flights climbed(count) -47.8% WoW (prev: 11.0), (n=7)
+65.0 Resting heart rate(count/min) 0.6% WoW (prev: 64.0), (n=6)
+8282.0 Step count(count) -42.4% WoW (prev: 14386.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-10-15
+7 days of tracked health for W 2018-10-15
+446.0 Active energy burned(Cal) -9.7% WoW (prev: 494.0), (n=7)
+1901.0 Basal energy burned(Cal) -0.8% WoW (prev: 1916.0), (n=7)
+27.0 Exercise time(min) 32.6% WoW (prev: 21.0), (n=7)
+11.0 Flights climbed(count) 90.2% WoW (prev: 6.0), (n=7)
+68.0 Resting heart rate(count/min) 4.9% WoW (prev: 65.0), (n=7)
+8268.0 Step count(count) -0.2% WoW (prev: 8282.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-10-22
+7 days of tracked health for W 2018-10-22
+474.0 Active energy burned(Cal) 6.2% WoW (prev: 446.0), (n=7)
+1899.0 Basal energy burned(Cal) -0.1% WoW (prev: 1901.0), (n=7)
+29.0 Exercise time(min) 7.9% WoW (prev: 27.0), (n=7)
+9.0 Flights climbed(count) -14.6% WoW (prev: 11.0), (n=7)
+65.0 Resting heart rate(count/min) -4.6% WoW (prev: 68.0), (n=7)
+6685.0 Step count(count) -19.1% WoW (prev: 8268.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-10-29
+7 days of tracked health for W 2018-10-29
+551.0 Active energy burned(Cal) 16.4% WoW (prev: 474.0), (n=7)
+1915.0 Basal energy burned(Cal) 0.8% WoW (prev: 1899.0), (n=7)
+39.0 Exercise time(min) 34.0% WoW (prev: 29.0), (n=7)
+13.0 Flights climbed(count) 37.9% WoW (prev: 9.0), (n=7)
+63.0 Resting heart rate(count/min) -2.6% WoW (prev: 65.0), (n=7)
+11074.0 Step count(count) 65.7% WoW (prev: 6685.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-11-05
+7 days of tracked health for W 2018-11-05
+511.0 Active energy burned(Cal) -7.3% WoW (prev: 551.0), (n=7)
+1892.0 Basal energy burned(Cal) -1.2% WoW (prev: 1915.0), (n=7)
+28.0 Exercise time(min) -29.7% WoW (prev: 39.0), (n=7)
+7.0 Flights climbed(count) -43.5% WoW (prev: 13.0), (n=7)
+63.0 Resting heart rate(count/min) -0.5% WoW (prev: 63.0), (n=7)
+8908.0 Step count(count) -19.6% WoW (prev: 11074.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-11-12
+7 days of tracked health for W 2018-11-12
+555.0 Active energy burned(Cal) 8.6% WoW (prev: 511.0), (n=7)
+1899.0 Basal energy burned(Cal) 0.4% WoW (prev: 1892.0), (n=7)
+34.0 Exercise time(min) 22.2% WoW (prev: 28.0), (n=7)
+11.0 Flights climbed(count) 56.6% WoW (prev: 7.0), (n=7)
+67.0 Resting heart rate(count/min) 7.5% WoW (prev: 63.0), (n=7)
+8346.0 Step count(count) -6.3% WoW (prev: 8908.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-11-19
+7 days of tracked health for W 2018-11-19
+392.0 Active energy burned(Cal) -29.5% WoW (prev: 555.0), (n=7)
+1884.0 Basal energy burned(Cal) -0.8% WoW (prev: 1899.0), (n=7)
+21.0 Exercise time(min) -39.2% WoW (prev: 34.0), (n=7)
+14.0 Flights climbed(count) 21.0% WoW (prev: 11.0), (n=7)
+64.0 Resting heart rate(count/min) -5.3% WoW (prev: 67.0), (n=7)
+5899.0 Step count(count) -29.3% WoW (prev: 8346.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-11-26
+7 days of tracked health for W 2018-11-26
+401.0 Active energy burned(Cal) 2.3% WoW (prev: 392.0), (n=7)
+1883.0 Basal energy burned(Cal) -0.0% WoW (prev: 1884.0), (n=7)
+19.0 Exercise time(min) -9.0% WoW (prev: 21.0), (n=7)
+15.0 Flights climbed(count) 9.3% WoW (prev: 14.0), (n=7)
+63.0 Resting heart rate(count/min) -1.3% WoW (prev: 64.0), (n=7)
+7996.0 Step count(count) 35.5% WoW (prev: 5899.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-12-03
+7 days of tracked health for W 2018-12-03
+535.0 Active energy burned(Cal) 33.5% WoW (prev: 401.0), (n=7)
+1891.0 Basal energy burned(Cal) 0.4% WoW (prev: 1883.0), (n=7)
+27.0 Exercise time(min) 46.6% WoW (prev: 19.0), (n=7)
+14.0 Flights climbed(count) -5.0% WoW (prev: 15.0), (n=7)
+59.0 Resting heart rate(count/min) -5.9% WoW (prev: 63.0), (n=7)
+8430.0 Step count(count) 5.4% WoW (prev: 7996.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-12-10
+7 days of tracked health for W 2018-12-10
+407.0 Active energy burned(Cal) -23.9% WoW (prev: 535.0), (n=7)
+1877.0 Basal energy burned(Cal) -0.8% WoW (prev: 1891.0), (n=7)
+25.0 Exercise time(min) -8.3% WoW (prev: 27.0), (n=7)
+12.0 Flights climbed(count) -16.1% WoW (prev: 14.0), (n=7)
+62.0 Resting heart rate(count/min) 5.3% WoW (prev: 59.0), (n=7)
+6649.0 Step count(count) -21.1% WoW (prev: 8430.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-12-17
+7 days of tracked health for W 2018-12-17
+294.0 Active energy burned(Cal) -27.7% WoW (prev: 407.0), (n=7)
+1862.0 Basal energy burned(Cal) -0.8% WoW (prev: 1877.0), (n=7)
+11.0 Exercise time(min) -57.4% WoW (prev: 25.0), (n=7)
+6.0 Flights climbed(count) -46.4% WoW (prev: 12.0), (n=7)
+57.0 Resting heart rate(count/min) -8.7% WoW (prev: 62.0), (n=6)
+4124.0 Step count(count) -38.0% WoW (prev: 6649.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-12-24
+7 days of tracked health for W 2018-12-24
+364.0 Active energy burned(Cal) 23.5% WoW (prev: 294.0), (n=7)
+1861.0 Basal energy burned(Cal) -0.0% WoW (prev: 1862.0), (n=7)
+23.0 Exercise time(min) 110.7% WoW (prev: 11.0), (n=7)
+15.0 Flights climbed(count) 134.1% WoW (prev: 6.0), (n=7)
+60.0 Resting heart rate(count/min) 4.5% WoW (prev: 57.0), (n=7)
+4691.0 Step count(count) 13.7% WoW (prev: 4124.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2018-12-31
+7 days of tracked health for W 2018-12-31
+290.0 Active energy burned(Cal) -20.3% WoW (prev: 364.0), (n=7)
+1863.0 Basal energy burned(Cal) 0.1% WoW (prev: 1861.0), (n=7)
+16.0 Exercise time(min) -29.7% WoW (prev: 23.0), (n=7)
+10.0 Flights climbed(count) -33.5% WoW (prev: 15.0), (n=7)
+62.0 Resting heart rate(count/min) 3.6% WoW (prev: 60.0), (n=7)
+4744.0 Step count(count) 1.1% WoW (prev: 4691.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-01-07
+7 days of tracked health for W 2019-01-07
+213.0 Active energy burned(Cal) -26.5% WoW (prev: 290.0), (n=7)
+1837.0 Basal energy burned(Cal) -1.4% WoW (prev: 1863.0), (n=7)
+16.0 Exercise time(min) -0.9% WoW (prev: 16.0), (n=7)
+11.0 Flights climbed(count) 10.0% WoW (prev: 10.0), (n=7)
+64.0 Resting heart rate(count/min) 4.2% WoW (prev: 62.0), (n=7)
+4401.0 Step count(count) -7.2% WoW (prev: 4744.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-01-14
+7 days of tracked health for W 2019-01-14
+439.0 Active energy burned(Cal) 106.0% WoW (prev: 213.0), (n=7)
+1867.0 Basal energy burned(Cal) 1.6% WoW (prev: 1837.0), (n=7)
+27.0 Exercise time(min) 70.9% WoW (prev: 16.0), (n=7)
+9.0 Flights climbed(count) -21.2% WoW (prev: 11.0), (n=7)
+67.0 Resting heart rate(count/min) 3.6% WoW (prev: 64.0), (n=7)
+5682.0 Step count(count) 29.1% WoW (prev: 4401.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-01-21
+7 days of tracked health for W 2019-01-21
+588.0 Active energy burned(Cal) 34.1% WoW (prev: 439.0), (n=7)
+1882.0 Basal energy burned(Cal) 0.8% WoW (prev: 1867.0), (n=7)
+45.0 Exercise time(min) 68.6% WoW (prev: 27.0), (n=7)
+28.0 Flights climbed(count) 225.0% WoW (prev: 9.0), (n=6)
+61.0 Resting heart rate(count/min) -8.2% WoW (prev: 67.0), (n=7)
+8935.0 Step count(count) 57.2% WoW (prev: 5682.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-01-28
+7 days of tracked health for W 2019-01-28
+653.0 Active energy burned(Cal) 11.0% WoW (prev: 588.0), (n=7)
+1913.0 Basal energy burned(Cal) 1.6% WoW (prev: 1882.0), (n=7)
+48.0 Exercise time(min) 6.6% WoW (prev: 45.0), (n=7)
+29.0 Flights climbed(count) 2.7% WoW (prev: 28.0), (n=7)
+62.0 Resting heart rate(count/min) 1.4% WoW (prev: 61.0), (n=7)
+9197.0 Step count(count) 2.9% WoW (prev: 8935.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-02-04
+7 days of tracked health for W 2019-02-04
+673.0 Active energy burned(Cal) 3.0% WoW (prev: 653.0), (n=7)
+1909.0 Basal energy burned(Cal) -0.2% WoW (prev: 1913.0), (n=7)
+53.0 Exercise time(min) 10.1% WoW (prev: 48.0), (n=7)
+27.0 Flights climbed(count) -6.2% WoW (prev: 29.0), (n=7)
+58.0 Resting heart rate(count/min) -6.9% WoW (prev: 62.0), (n=7)
+9553.0 Step count(count) 3.9% WoW (prev: 9197.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-02-11
+7 days of tracked health for W 2019-02-11
+410.0 Active energy burned(Cal) -39.0% WoW (prev: 673.0), (n=7)
+1874.0 Basal energy burned(Cal) -1.9% WoW (prev: 1909.0), (n=7)
+31.0 Exercise time(min) -41.7% WoW (prev: 53.0), (n=7)
+20.0 Flights climbed(count) -27.6% WoW (prev: 27.0), (n=7)
+62.0 Resting heart rate(count/min) 6.6% WoW (prev: 58.0), (n=6)
+6817.0 Step count(count) -28.6% WoW (prev: 9553.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-02-18
+7 days of tracked health for W 2019-02-18
+618.0 Active energy burned(Cal) 50.6% WoW (prev: 410.0), (n=7)
+1880.0 Basal energy burned(Cal) 0.3% WoW (prev: 1874.0), (n=7)
+49.0 Exercise time(min) 59.0% WoW (prev: 31.0), (n=7)
+25.0 Flights climbed(count) 25.0% WoW (prev: 20.0), (n=7)
+62.0 Resting heart rate(count/min) 1.0% WoW (prev: 62.0), (n=7)
+10362.0 Step count(count) 52.0% WoW (prev: 6817.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-02-25
+7 days of tracked health for W 2019-02-25
+495.0 Active energy burned(Cal) -20.0% WoW (prev: 618.0), (n=7)
+1828.0 Basal energy burned(Cal) -2.8% WoW (prev: 1880.0), (n=7)
+41.0 Exercise time(min) -16.8% WoW (prev: 49.0), (n=7)
+18.0 Flights climbed(count) -27.9% WoW (prev: 25.0), (n=7)
+60.0 Resting heart rate(count/min) -2.8% WoW (prev: 62.0), (n=7)
+8583.0 Step count(count) -17.2% WoW (prev: 10362.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-03-04
+7 days of tracked health for W 2019-03-04
+585.0 Active energy burned(Cal) 18.3% WoW (prev: 495.0), (n=7)
+1832.0 Basal energy burned(Cal) 0.2% WoW (prev: 1828.0), (n=7)
+51.0 Exercise time(min) 23.7% WoW (prev: 41.0), (n=7)
+22.0 Flights climbed(count) 21.7% WoW (prev: 18.0), (n=7)
+61.0 Resting heart rate(count/min) 0.5% WoW (prev: 60.0), (n=7)
+9314.0 Step count(count) 8.5% WoW (prev: 8583.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-03-11
+7 days of tracked health for W 2019-03-11
+611.0 Active energy burned(Cal) 4.3% WoW (prev: 585.0), (n=7)
+1865.0 Basal energy burned(Cal) 1.8% WoW (prev: 1832.0), (n=7)
+48.0 Exercise time(min) -5.1% WoW (prev: 51.0), (n=7)
+24.0 Flights climbed(count) 13.3% WoW (prev: 22.0), (n=7)
+63.0 Resting heart rate(count/min) 4.0% WoW (prev: 61.0), (n=7)
+8901.0 Step count(count) -4.4% WoW (prev: 9314.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-03-18
+7 days of tracked health for W 2019-03-18
+119.0 Active energy burned(Cal) -80.5% WoW (prev: 611.0), (n=5)
+1718.0 Basal energy burned(Cal) -7.9% WoW (prev: 1865.0), (n=7)
+14.0 Exercise time(min) -70.9% WoW (prev: 48.0), (n=2)
+8.0 Flights climbed(count) -66.8% WoW (prev: 24.0), (n=7)
+60.0 Resting heart rate(count/min) -5.0% WoW (prev: 63.0), (n=2)
+1270.0 Step count(count) -85.7% WoW (prev: 8901.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-03-25
+7 days of tracked health for W 2019-03-25
+592.0 Active energy burned(Cal) 397.7% WoW (prev: 119.0), (n=7)
+1850.0 Basal energy burned(Cal) 7.7% WoW (prev: 1718.0), (n=7)
+53.0 Exercise time(min) 276.5% WoW (prev: 14.0), (n=7)
+29.0 Flights climbed(count) 263.3% WoW (prev: 8.0), (n=7)
+63.0 Resting heart rate(count/min) 4.8% WoW (prev: 60.0), (n=7)
+8399.0 Step count(count) 561.1% WoW (prev: 1270.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-04-01
+7 days of tracked health for W 2019-04-01
+617.0 Active energy burned(Cal) 4.3% WoW (prev: 592.0), (n=7)
+1852.0 Basal energy burned(Cal) 0.1% WoW (prev: 1850.0), (n=7)
+52.0 Exercise time(min) -1.4% WoW (prev: 53.0), (n=7)
+23.0 Flights climbed(count) -21.8% WoW (prev: 29.0), (n=7)
+66.0 Resting heart rate(count/min) 4.5% WoW (prev: 63.0), (n=7)
+9536.0 Step count(count) 13.5% WoW (prev: 8399.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-04-08
+7 days of tracked health for W 2019-04-08
+558.0 Active energy burned(Cal) -9.7% WoW (prev: 617.0), (n=7)
+1851.0 Basal energy burned(Cal) -0.1% WoW (prev: 1852.0), (n=7)
+43.0 Exercise time(min) -18.1% WoW (prev: 52.0), (n=7)
+23.0 Flights climbed(count) 1.7% WoW (prev: 23.0), (n=7)
+63.0 Resting heart rate(count/min) -4.8% WoW (prev: 66.0), (n=7)
+7869.0 Step count(count) -17.5% WoW (prev: 9536.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-04-15
+7 days of tracked health for W 2019-04-15
+687.0 Active energy burned(Cal) 23.2% WoW (prev: 558.0), (n=7)
+1864.0 Basal energy burned(Cal) 0.7% WoW (prev: 1851.0), (n=7)
+65.0 Exercise time(min) 52.0% WoW (prev: 43.0), (n=7)
+30.0 Flights climbed(count) 28.7% WoW (prev: 23.0), (n=7)
+61.0 Resting heart rate(count/min) -2.5% WoW (prev: 63.0), (n=7)
+10104.0 Step count(count) 28.4% WoW (prev: 7869.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-04-22
+7 days of tracked health for W 2019-04-22
+582.0 Active energy burned(Cal) -15.3% WoW (prev: 687.0), (n=7)
+1858.0 Basal energy burned(Cal) -0.4% WoW (prev: 1864.0), (n=7)
+54.0 Exercise time(min) -16.6% WoW (prev: 65.0), (n=7)
+29.0 Flights climbed(count) -5.0% WoW (prev: 30.0), (n=6)
+61.0 Resting heart rate(count/min) -0.5% WoW (prev: 61.0), (n=7)
+8479.0 Step count(count) -16.1% WoW (prev: 10104.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-04-29
+7 days of tracked health for W 2019-04-29
+674.0 Active energy burned(Cal) 15.8% WoW (prev: 582.0), (n=7)
+1847.0 Basal energy burned(Cal) -0.5% WoW (prev: 1858.0), (n=7)
+64.0 Exercise time(min) 19.0% WoW (prev: 54.0), (n=7)
+37.0 Flights climbed(count) 27.6% WoW (prev: 29.0), (n=7)
+61.0 Resting heart rate(count/min) 0.5% WoW (prev: 61.0), (n=7)
+9876.0 Step count(count) 16.5% WoW (prev: 8479.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-05-06
+7 days of tracked health for W 2019-05-06
+684.0 Active energy burned(Cal) 1.6% WoW (prev: 674.0), (n=7)
+1874.0 Basal energy burned(Cal) 1.4% WoW (prev: 1847.0), (n=7)
+61.0 Exercise time(min) -5.6% WoW (prev: 64.0), (n=7)
+23.0 Flights climbed(count) -36.3% WoW (prev: 37.0), (n=7)
+64.0 Resting heart rate(count/min) 4.2% WoW (prev: 61.0), (n=7)
+10748.0 Step count(count) 8.8% WoW (prev: 9876.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-05-13
+7 days of tracked health for W 2019-05-13
+554.0 Active energy burned(Cal) -19.0% WoW (prev: 684.0), (n=7)
+1870.0 Basal energy burned(Cal) -0.2% WoW (prev: 1874.0), (n=7)
+36.0 Exercise time(min) -41.2% WoW (prev: 61.0), (n=7)
+12.0 Flights climbed(count) -48.6% WoW (prev: 23.0), (n=7)
+65.0 Resting heart rate(count/min) 2.2% WoW (prev: 64.0), (n=7)
+7923.0 Step count(count) -26.3% WoW (prev: 10748.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-05-20
+7 days of tracked health for W 2019-05-20
+551.0 Active energy burned(Cal) -0.5% WoW (prev: 554.0), (n=7)
+1835.0 Basal energy burned(Cal) -1.9% WoW (prev: 1870.0), (n=7)
+44.0 Exercise time(min) 24.0% WoW (prev: 36.0), (n=7)
+14.0 Flights climbed(count) 17.7% WoW (prev: 12.0), (n=7)
+62.0 Resting heart rate(count/min) -5.1% WoW (prev: 65.0), (n=6)
+9874.0 Step count(count) 24.6% WoW (prev: 7923.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-05-27
+7 days of tracked health for W 2019-05-27
+379.0 Active energy burned(Cal) -31.3% WoW (prev: 551.0), (n=7)
+1605.0 Basal energy burned(Cal) -12.5% WoW (prev: 1835.0), (n=4)
+48.0 Exercise time(min) 9.5% WoW (prev: 44.0), (n=4)
+15.0 Flights climbed(count) 9.4% WoW (prev: 14.0), (n=7)
+62.0 Resting heart rate(count/min) 0.8% WoW (prev: 62.0), (n=3)
+12021.0 Step count(count) 21.7% WoW (prev: 9874.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-06-03
+7 days of tracked health for W 2019-06-03
+675.0 Active energy burned(Cal) 78.4% WoW (prev: 379.0), (n=7)
+1515.0 Basal energy burned(Cal) -5.6% WoW (prev: 1605.0), (n=4)
+173.0 Exercise time(min) 257.4% WoW (prev: 48.0), (n=3)
+19.0 Flights climbed(count) 24.2% WoW (prev: 15.0), (n=6)
+61.0 Resting heart rate(count/min) -1.9% WoW (prev: 62.0), (n=3)
+15207.0 Step count(count) 26.5% WoW (prev: 12021.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-06-10
+7 days of tracked health for W 2019-06-10
+831.0 Active energy burned(Cal) 23.0% WoW (prev: 675.0), (n=7)
+1877.0 Basal energy burned(Cal) 23.9% WoW (prev: 1515.0), (n=7)
+74.0 Exercise time(min) -57.1% WoW (prev: 173.0), (n=7)
+15.0 Flights climbed(count) -21.1% WoW (prev: 19.0), (n=7)
+61.0 Resting heart rate(count/min) -0.1% WoW (prev: 61.0), (n=7)
+16992.0 Step count(count) 11.7% WoW (prev: 15207.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-06-17
+7 days of tracked health for W 2019-06-17
+609.0 Active energy burned(Cal) -26.7% WoW (prev: 831.0), (n=7)
+1862.0 Basal energy burned(Cal) -0.8% WoW (prev: 1877.0), (n=7)
+36.0 Exercise time(min) -51.4% WoW (prev: 74.0), (n=7)
+18.0 Flights climbed(count) 20.9% WoW (prev: 15.0), (n=7)
+63.0 Resting heart rate(count/min) 3.7% WoW (prev: 61.0), (n=6)
+10682.0 Step count(count) -37.1% WoW (prev: 16992.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-06-24
+7 days of tracked health for W 2019-06-24
+491.0 Active energy burned(Cal) -19.5% WoW (prev: 609.0), (n=7)
+1846.0 Basal energy burned(Cal) -0.9% WoW (prev: 1862.0), (n=7)
+31.0 Exercise time(min) -14.2% WoW (prev: 36.0), (n=7)
+10.0 Flights climbed(count) -46.0% WoW (prev: 18.0), (n=7)
+62.0 Resting heart rate(count/min) -1.8% WoW (prev: 63.0), (n=7)
+6206.0 Step count(count) -41.9% WoW (prev: 10682.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-07-01
+7 days of tracked health for W 2019-07-01
+474.0 Active energy burned(Cal) -3.4% WoW (prev: 491.0), (n=7)
+1836.0 Basal energy burned(Cal) -0.5% WoW (prev: 1846.0), (n=7)
+23.0 Exercise time(min) -26.3% WoW (prev: 31.0), (n=7)
+11.0 Flights climbed(count) 12.6% WoW (prev: 10.0), (n=7)
+62.0 Resting heart rate(count/min) 0.2% WoW (prev: 62.0), (n=7)
+4673.0 Step count(count) -24.7% WoW (prev: 6206.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-07-08
+7 days of tracked health for W 2019-07-08
+516.0 Active energy burned(Cal) 8.9% WoW (prev: 474.0), (n=7)
+1833.0 Basal energy burned(Cal) -0.2% WoW (prev: 1836.0), (n=7)
+32.0 Exercise time(min) 41.2% WoW (prev: 23.0), (n=7)
+11.0 Flights climbed(count) 1.4% WoW (prev: 11.0), (n=7)
+62.0 Resting heart rate(count/min) -0.5% WoW (prev: 62.0), (n=7)
+6406.0 Step count(count) 37.1% WoW (prev: 4673.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-07-15
+7 days of tracked health for W 2019-07-15
+423.0 Active energy burned(Cal) -18.0% WoW (prev: 516.0), (n=7)
+1814.0 Basal energy burned(Cal) -1.0% WoW (prev: 1833.0), (n=7)
+22.0 Exercise time(min) -31.4% WoW (prev: 32.0), (n=7)
+11.0 Flights climbed(count) -2.3% WoW (prev: 11.0), (n=7)
+61.0 Resting heart rate(count/min) -0.9% WoW (prev: 62.0), (n=7)
+4394.0 Step count(count) -31.4% WoW (prev: 6406.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-07-22
+7 days of tracked health for W 2019-07-22
+503.0 Active energy burned(Cal) 18.9% WoW (prev: 423.0), (n=7)
+1839.0 Basal energy burned(Cal) 1.4% WoW (prev: 1814.0), (n=7)
+34.0 Exercise time(min) 52.9% WoW (prev: 22.0), (n=7)
+14.0 Flights climbed(count) 28.2% WoW (prev: 11.0), (n=7)
+62.0 Resting heart rate(count/min) 1.9% WoW (prev: 61.0), (n=7)
+6083.0 Step count(count) 38.5% WoW (prev: 4394.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-07-29
+7 days of tracked health for W 2019-07-29
+513.0 Active energy burned(Cal) 2.1% WoW (prev: 503.0), (n=7)
+1831.0 Basal energy burned(Cal) -0.4% WoW (prev: 1839.0), (n=7)
+35.0 Exercise time(min) 3.0% WoW (prev: 34.0), (n=7)
+10.0 Flights climbed(count) -32.3% WoW (prev: 14.0), (n=7)
+63.0 Resting heart rate(count/min) 1.4% WoW (prev: 62.0), (n=7)
+7224.0 Step count(count) 18.8% WoW (prev: 6083.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-08-05
+7 days of tracked health for W 2019-08-05
+496.0 Active energy burned(Cal) -3.3% WoW (prev: 513.0), (n=7)
+1802.0 Basal energy burned(Cal) -1.6% WoW (prev: 1831.0), (n=7)
+30.0 Exercise time(min) -12.7% WoW (prev: 35.0), (n=7)
+8.0 Flights climbed(count) -20.9% WoW (prev: 10.0), (n=7)
+60.0 Resting heart rate(count/min) -6.0% WoW (prev: 63.0), (n=7)
+6202.0 Step count(count) -14.2% WoW (prev: 7224.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-08-12
+7 days of tracked health for W 2019-08-12
+600.0 Active energy burned(Cal) 20.9% WoW (prev: 496.0), (n=7)
+1888.0 Basal energy burned(Cal) 4.8% WoW (prev: 1802.0), (n=7)
+18.0 Exercise time(min) -39.4% WoW (prev: 30.0), (n=7)
+4.0 Flights climbed(count) -45.3% WoW (prev: 8.0), (n=7)
+64.0 Resting heart rate(count/min) 7.1% WoW (prev: 60.0), (n=4)
+7965.0 Step count(count) 28.4% WoW (prev: 6202.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-08-19
+7 days of tracked health for W 2019-08-19
+551.0 Active energy burned(Cal) -8.1% WoW (prev: 600.0), (n=7)
+1853.0 Basal energy burned(Cal) -1.9% WoW (prev: 1888.0), (n=7)
+28.0 Exercise time(min) 49.6% WoW (prev: 18.0), (n=7)
+9.0 Flights climbed(count) 117.2% WoW (prev: 4.0), (n=7)
+63.0 Resting heart rate(count/min) -0.7% WoW (prev: 64.0), (n=7)
+5850.0 Step count(count) -26.5% WoW (prev: 7965.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-08-26
+7 days of tracked health for W 2019-08-26
+676.0 Active energy burned(Cal) 22.7% WoW (prev: 551.0), (n=7)
+1877.0 Basal energy burned(Cal) 1.3% WoW (prev: 1853.0), (n=7)
+42.0 Exercise time(min) 53.9% WoW (prev: 28.0), (n=7)
+15.0 Flights climbed(count) 69.2% WoW (prev: 9.0), (n=7)
+60.0 Resting heart rate(count/min) -5.0% WoW (prev: 63.0), (n=7)
+9616.0 Step count(count) 64.4% WoW (prev: 5850.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-09-02
+7 days of tracked health for W 2019-09-02
+609.0 Active energy burned(Cal) -10.0% WoW (prev: 676.0), (n=7)
+1838.0 Basal energy burned(Cal) -2.1% WoW (prev: 1877.0), (n=7)
+44.0 Exercise time(min) 3.0% WoW (prev: 42.0), (n=7)
+11.0 Flights climbed(count) -27.1% WoW (prev: 15.0), (n=6)
+62.0 Resting heart rate(count/min) 3.6% WoW (prev: 60.0), (n=6)
+7992.0 Step count(count) -16.9% WoW (prev: 9616.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-09-09
+7 days of tracked health for W 2019-09-09
+650.0 Active energy burned(Cal) 6.8% WoW (prev: 609.0), (n=7)
+1839.0 Basal energy burned(Cal) 0.1% WoW (prev: 1838.0), (n=7)
+51.0 Exercise time(min) 17.3% WoW (prev: 44.0), (n=7)
+8.0 Flights climbed(count) -25.3% WoW (prev: 11.0), (n=7)
+57.0 Resting heart rate(count/min) -8.6% WoW (prev: 62.0), (n=7)
+7384.0 Step count(count) -7.6% WoW (prev: 7992.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-09-16
+7 days of tracked health for W 2019-09-16
+653.0 Active energy burned(Cal) 0.5% WoW (prev: 650.0), (n=7)
+1839.0 Basal energy burned(Cal) -0.0% WoW (prev: 1839.0), (n=7)
+55.0 Exercise time(min) 6.6% WoW (prev: 51.0), (n=6)
+8.0 Flights climbed(count) 2.0% WoW (prev: 8.0), (n=7)
+59.0 Resting heart rate(count/min) 3.5% WoW (prev: 57.0), (n=7)
+9570.0 Step count(count) 29.6% WoW (prev: 7384.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-09-23
+7 days of tracked health for W 2019-09-23
+644.0 Active energy burned(Cal) -1.3% WoW (prev: 653.0), (n=7)
+1825.0 Basal energy burned(Cal) -0.7% WoW (prev: 1839.0), (n=7)
+48.0 Exercise time(min) -11.4% WoW (prev: 55.0), (n=7)
+7.0 Flights climbed(count) -22.2% WoW (prev: 8.0), (n=7)
+60.0 Resting heart rate(count/min) 2.4% WoW (prev: 59.0), (n=7)
+7886.0 Step count(count) -17.6% WoW (prev: 9570.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-09-30
+7 days of tracked health for W 2019-09-30
+634.0 Active energy burned(Cal) -1.7% WoW (prev: 644.0), (n=7)
+1793.0 Basal energy burned(Cal) -1.8% WoW (prev: 1825.0), (n=7)
+41.0 Exercise time(min) -15.3% WoW (prev: 48.0), (n=6)
+7.0 Flights climbed(count) 13.0% WoW (prev: 7.0), (n=7)
+59.0 Resting heart rate(count/min) -2.4% WoW (prev: 60.0), (n=5)
+7841.0 Step count(count) -0.6% WoW (prev: 7886.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-10-07
+7 days of tracked health for W 2019-10-07
+710.0 Active energy burned(Cal) 12.1% WoW (prev: 634.0), (n=7)
+1490.0 Basal energy burned(Cal) -16.9% WoW (prev: 1793.0), (n=4)
+56.0 Exercise time(min) 35.4% WoW (prev: 41.0), (n=4)
+8.0 Flights climbed(count) 13.5% WoW (prev: 7.0), (n=7)
+64.0 Resting heart rate(count/min) 9.3% WoW (prev: 59.0), (n=4)
+8491.0 Step count(count) 8.3% WoW (prev: 7841.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-10-14
+7 days of tracked health for W 2019-10-14
+662.0 Active energy burned(Cal) -6.8% WoW (prev: 710.0), (n=7)
+1716.0 Basal energy burned(Cal) 15.2% WoW (prev: 1490.0), (n=6)
+42.0 Exercise time(min) -24.9% WoW (prev: 56.0), (n=6)
+6.0 Flights climbed(count) -25.4% WoW (prev: 8.0), (n=7)
+63.0 Resting heart rate(count/min) -2.3% WoW (prev: 64.0), (n=5)
+6937.0 Step count(count) -18.3% WoW (prev: 8491.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-10-21
+7 days of tracked health for W 2019-10-21
+665.0 Active energy burned(Cal) 0.5% WoW (prev: 662.0), (n=7)
+nan Basal energy burned(Cal) nan% WoW (prev: 1716.0), (n=0)
+nan Exercise time(min) nan% WoW (prev: 42.0), (n=0)
+8.0 Flights climbed(count) 34.1% WoW (prev: 6.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: 63.0), (n=0)
+6654.0 Step count(count) -4.1% WoW (prev: 6937.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-10-28
+7 days of tracked health for W 2019-10-28
+676.0 Active energy burned(Cal) 1.7% WoW (prev: 665.0), (n=7)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+13.0 Flights climbed(count) 50.3% WoW (prev: 8.0), (n=6)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+7913.0 Step count(count) 18.9% WoW (prev: 6654.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-11-04
+7 days of tracked health for W 2019-11-04
+489.0 Active energy burned(Cal) -27.7% WoW (prev: 676.0), (n=7)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+7.0 Flights climbed(count) -43.6% WoW (prev: 13.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+7378.0 Step count(count) -6.8% WoW (prev: 7913.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-11-11
+7 days of tracked health for W 2019-11-11
+461.0 Active energy burned(Cal) -5.6% WoW (prev: 489.0), (n=7)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+7.0 Flights climbed(count) -4.0% WoW (prev: 7.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+4945.0 Step count(count) -33.0% WoW (prev: 7378.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-11-18
+7 days of tracked health for W 2019-11-18
+603.0 Active energy burned(Cal) 30.6% WoW (prev: 461.0), (n=7)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+11.0 Flights climbed(count) 60.4% WoW (prev: 7.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+9170.0 Step count(count) 85.4% WoW (prev: 4945.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-11-25
+7 days of tracked health for W 2019-11-25
+514.0 Active energy burned(Cal) -14.8% WoW (prev: 603.0), (n=7)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+11.0 Flights climbed(count) -2.6% WoW (prev: 11.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+4463.0 Step count(count) -51.3% WoW (prev: 9170.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-12-02
+7 days of tracked health for W 2019-12-02
+498.0 Active energy burned(Cal) -3.0% WoW (prev: 514.0), (n=7)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+13.0 Flights climbed(count) 25.3% WoW (prev: 11.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+8548.0 Step count(count) 91.5% WoW (prev: 4463.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-12-09
+7 days of tracked health for W 2019-12-09
+568.0 Active energy burned(Cal) 14.0% WoW (prev: 498.0), (n=7)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+8.0 Flights climbed(count) -38.3% WoW (prev: 13.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+6152.0 Step count(count) -28.0% WoW (prev: 8548.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-12-16
+7 days of tracked health for W 2019-12-16
+479.0 Active energy burned(Cal) -15.7% WoW (prev: 568.0), (n=7)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+16.0 Flights climbed(count) 89.7% WoW (prev: 8.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+7205.0 Step count(count) 17.1% WoW (prev: 6152.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-12-23
+7 days of tracked health for W 2019-12-23
+321.0 Active energy burned(Cal) -32.9% WoW (prev: 479.0), (n=7)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+10.0 Flights climbed(count) -39.1% WoW (prev: 16.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+2910.0 Step count(count) -59.6% WoW (prev: 7205.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2019-12-30
+7 days of tracked health for W 2019-12-30
+471.0 Active energy burned(Cal) 46.4% WoW (prev: 321.0), (n=7)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+12.0 Flights climbed(count) 29.9% WoW (prev: 10.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+7849.0 Step count(count) 169.7% WoW (prev: 2910.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-01-06
+7 days of tracked health for W 2020-01-06
+741.0 Active energy burned(Cal) 57.4% WoW (prev: 471.0), (n=7)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+12.0 Flights climbed(count) -1.1% WoW (prev: 12.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+8423.0 Step count(count) 7.3% WoW (prev: 7849.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-01-13
+7 days of tracked health for W 2020-01-13
+735.0 Active energy burned(Cal) -0.8% WoW (prev: 741.0), (n=7)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+10.0 Flights climbed(count) -20.9% WoW (prev: 12.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+8395.0 Step count(count) -0.3% WoW (prev: 8423.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-01-20
+7 days of tracked health for W 2020-01-20
+515.0 Active energy burned(Cal) -29.9% WoW (prev: 735.0), (n=7)
+nan Basal energy burned(Cal) nan% WoW (prev: nan), (n=0)
+nan Exercise time(min) nan% WoW (prev: nan), (n=0)
+14.0 Flights climbed(count) 39.7% WoW (prev: 10.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+6331.0 Step count(count) -24.6% WoW (prev: 8395.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-01-27
+7 days of tracked health for W 2020-01-27
+692.0 Active energy burned(Cal) 34.3% WoW (prev: 515.0), (n=7)
+1547.0 Basal energy burned(Cal) nan% WoW (prev: nan), (n=4)
+19.0 Exercise time(min) nan% WoW (prev: nan), (n=4)
+9.0 Flights climbed(count) -30.5% WoW (prev: 14.0), (n=7)
+59.0 Resting heart rate(count/min) nan% WoW (prev: nan), (n=3)
+7854.0 Step count(count) 24.1% WoW (prev: 6331.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-02-03
+7 days of tracked health for W 2020-02-03
+535.0 Active energy burned(Cal) -22.7% WoW (prev: 692.0), (n=7)
+1817.0 Basal energy burned(Cal) 17.4% WoW (prev: 1547.0), (n=7)
+20.0 Exercise time(min) 7.5% WoW (prev: 19.0), (n=7)
+10.0 Flights climbed(count) 1.5% WoW (prev: 9.0), (n=7)
+57.0 Resting heart rate(count/min) -3.4% WoW (prev: 59.0), (n=7)
+7567.0 Step count(count) -3.6% WoW (prev: 7854.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-02-10
+7 days of tracked health for W 2020-02-10
+496.0 Active energy burned(Cal) -7.3% WoW (prev: 535.0), (n=7)
+1780.0 Basal energy burned(Cal) -2.0% WoW (prev: 1817.0), (n=7)
+15.0 Exercise time(min) -27.4% WoW (prev: 20.0), (n=6)
+5.0 Flights climbed(count) -47.8% WoW (prev: 10.0), (n=7)
+61.0 Resting heart rate(count/min) 6.7% WoW (prev: 57.0), (n=5)
+4977.0 Step count(count) -34.2% WoW (prev: 7567.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-02-17
+7 days of tracked health for W 2020-02-17
+399.0 Active energy burned(Cal) -19.7% WoW (prev: 496.0), (n=7)
+1789.0 Basal energy burned(Cal) 0.5% WoW (prev: 1780.0), (n=7)
+15.0 Exercise time(min) 3.4% WoW (prev: 15.0), (n=6)
+6.0 Flights climbed(count) 22.9% WoW (prev: 5.0), (n=7)
+59.0 Resting heart rate(count/min) -2.6% WoW (prev: 61.0), (n=5)
+4648.0 Step count(count) -6.6% WoW (prev: 4977.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-02-24
+7 days of tracked health for W 2020-02-24
+559.0 Active energy burned(Cal) 40.3% WoW (prev: 399.0), (n=7)
+1827.0 Basal energy burned(Cal) 2.2% WoW (prev: 1789.0), (n=7)
+23.0 Exercise time(min) 49.1% WoW (prev: 15.0), (n=7)
+5.0 Flights climbed(count) -18.6% WoW (prev: 6.0), (n=7)
+62.0 Resting heart rate(count/min) 5.2% WoW (prev: 59.0), (n=7)
+8280.0 Step count(count) 78.1% WoW (prev: 4648.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-03-02
+7 days of tracked health for W 2020-03-02
+723.0 Active energy burned(Cal) 29.2% WoW (prev: 559.0), (n=7)
+1799.0 Basal energy burned(Cal) -1.5% WoW (prev: 1827.0), (n=7)
+40.0 Exercise time(min) 74.4% WoW (prev: 23.0), (n=7)
+12.0 Flights climbed(count) 134.3% WoW (prev: 5.0), (n=7)
+57.0 Resting heart rate(count/min) -8.8% WoW (prev: 62.0), (n=6)
+10341.0 Step count(count) 24.9% WoW (prev: 8280.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-03-09
+7 days of tracked health for W 2020-03-09
+630.0 Active energy burned(Cal) -12.8% WoW (prev: 723.0), (n=7)
+1571.0 Basal energy burned(Cal) -12.7% WoW (prev: 1799.0), (n=7)
+32.0 Exercise time(min) -19.7% WoW (prev: 40.0), (n=6)
+8.0 Flights climbed(count) -30.3% WoW (prev: 12.0), (n=6)
+58.0 Resting heart rate(count/min) 2.8% WoW (prev: 57.0), (n=5)
+7397.0 Step count(count) -28.5% WoW (prev: 10341.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-03-16
+7 days of tracked health for W 2020-03-16
+396.0 Active energy burned(Cal) -37.1% WoW (prev: 630.0), (n=7)
+1543.0 Basal energy burned(Cal) -1.8% WoW (prev: 1571.0), (n=7)
+12.0 Exercise time(min) -61.9% WoW (prev: 32.0), (n=5)
+5.0 Flights climbed(count) -42.9% WoW (prev: 8.0), (n=6)
+59.0 Resting heart rate(count/min) 1.0% WoW (prev: 58.0), (n=2)
+3025.0 Step count(count) -59.1% WoW (prev: 7397.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-03-23
+7 days of tracked health for W 2020-03-23
+496.0 Active energy burned(Cal) 25.2% WoW (prev: 396.0), (n=7)
+1611.0 Basal energy burned(Cal) 4.4% WoW (prev: 1543.0), (n=7)
+23.0 Exercise time(min) 88.5% WoW (prev: 12.0), (n=1)
+6.0 Flights climbed(count) 17.9% WoW (prev: 5.0), (n=6)
+nan Resting heart rate(count/min) nan% WoW (prev: 59.0), (n=0)
+4598.0 Step count(count) 52.0% WoW (prev: 3025.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-03-30
+7 days of tracked health for W 2020-03-30
+563.0 Active energy burned(Cal) 13.4% WoW (prev: 496.0), (n=7)
+1753.0 Basal energy burned(Cal) 8.8% WoW (prev: 1611.0), (n=7)
+36.0 Exercise time(min) 58.7% WoW (prev: 23.0), (n=4)
+6.0 Flights climbed(count) 13.6% WoW (prev: 6.0), (n=4)
+60.0 Resting heart rate(count/min) nan% WoW (prev: nan), (n=3)
+7147.0 Step count(count) 55.4% WoW (prev: 4598.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-04-06
+7 days of tracked health for W 2020-04-06
+639.0 Active energy burned(Cal) 13.6% WoW (prev: 563.0), (n=7)
+1751.0 Basal energy burned(Cal) -0.1% WoW (prev: 1753.0), (n=7)
+33.0 Exercise time(min) -9.6% WoW (prev: 36.0), (n=5)
+8.0 Flights climbed(count) 34.9% WoW (prev: 6.0), (n=7)
+56.0 Resting heart rate(count/min) -5.8% WoW (prev: 60.0), (n=2)
+7001.0 Step count(count) -2.0% WoW (prev: 7147.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-04-13
+7 days of tracked health for W 2020-04-13
+459.0 Active energy burned(Cal) -28.2% WoW (prev: 639.0), (n=7)
+1523.0 Basal energy burned(Cal) -13.0% WoW (prev: 1751.0), (n=7)
+26.0 Exercise time(min) -21.2% WoW (prev: 33.0), (n=1)
+5.0 Flights climbed(count) -44.6% WoW (prev: 8.0), (n=3)
+nan Resting heart rate(count/min) nan% WoW (prev: 56.0), (n=0)
+3377.0 Step count(count) -51.8% WoW (prev: 7001.0), (n=6)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-04-20
+7 days of tracked health for W 2020-04-20
+553.0 Active energy burned(Cal) 20.4% WoW (prev: 459.0), (n=7)
+1732.0 Basal energy burned(Cal) 13.7% WoW (prev: 1523.0), (n=7)
+52.0 Exercise time(min) 100.0% WoW (prev: 26.0), (n=1)
+9.0 Flights climbed(count) 89.8% WoW (prev: 5.0), (n=7)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+8190.0 Step count(count) 142.5% WoW (prev: 3377.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-04-27
+7 days of tracked health for W 2020-04-27
+552.0 Active energy burned(Cal) -0.1% WoW (prev: 553.0), (n=7)
+1730.0 Basal energy burned(Cal) -0.1% WoW (prev: 1732.0), (n=7)
+19.0 Exercise time(min) -63.5% WoW (prev: 52.0), (n=1)
+10.0 Flights climbed(count) 18.5% WoW (prev: 9.0), (n=6)
+nan Resting heart rate(count/min) nan% WoW (prev: nan), (n=0)
+8062.0 Step count(count) -1.6% WoW (prev: 8190.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-05-04
+7 days of tracked health for W 2020-05-04
+428.0 Active energy burned(Cal) -22.5% WoW (prev: 552.0), (n=7)
+1775.0 Basal energy burned(Cal) 2.6% WoW (prev: 1730.0), (n=7)
+22.0 Exercise time(min) 15.8% WoW (prev: 19.0), (n=5)
+6.0 Flights climbed(count) -43.5% WoW (prev: 10.0), (n=7)
+55.0 Resting heart rate(count/min) nan% WoW (prev: nan), (n=4)
+4056.0 Step count(count) -49.7% WoW (prev: 8062.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-05-11
+7 days of tracked health for W 2020-05-11
+586.0 Active energy burned(Cal) 37.0% WoW (prev: 428.0), (n=7)
+1792.0 Basal energy burned(Cal) 1.0% WoW (prev: 1775.0), (n=7)
+47.0 Exercise time(min) 115.2% WoW (prev: 22.0), (n=6)
+6.0 Flights climbed(count) 6.8% WoW (prev: 6.0), (n=6)
+59.0 Resting heart rate(count/min) 7.5% WoW (prev: 55.0), (n=5)
+8070.0 Step count(count) 99.0% WoW (prev: 4056.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-05-18
+7 days of tracked health for W 2020-05-18
+657.0 Active energy burned(Cal) 12.1% WoW (prev: 586.0), (n=7)
+1780.0 Basal energy burned(Cal) -0.7% WoW (prev: 1792.0), (n=7)
+62.0 Exercise time(min) 31.3% WoW (prev: 47.0), (n=6)
+6.0 Flights climbed(count) -3.0% WoW (prev: 6.0), (n=7)
+53.0 Resting heart rate(count/min) -10.1% WoW (prev: 59.0), (n=5)
+8662.0 Step count(count) 7.3% WoW (prev: 8070.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-05-25
+7 days of tracked health for W 2020-05-25
+745.0 Active energy burned(Cal) 13.3% WoW (prev: 657.0), (n=7)
+1813.0 Basal energy burned(Cal) 1.9% WoW (prev: 1780.0), (n=7)
+71.0 Exercise time(min) 14.4% WoW (prev: 62.0), (n=7)
+9.0 Flights climbed(count) 48.8% WoW (prev: 6.0), (n=7)
+54.0 Resting heart rate(count/min) 1.1% WoW (prev: 53.0), (n=7)
+9875.0 Step count(count) 14.0% WoW (prev: 8662.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-06-01
+7 days of tracked health for W 2020-06-01
+636.0 Active energy burned(Cal) -14.6% WoW (prev: 745.0), (n=7)
+1792.0 Basal energy burned(Cal) -1.2% WoW (prev: 1813.0), (n=7)
+63.0 Exercise time(min) -12.0% WoW (prev: 71.0), (n=7)
+7.0 Flights climbed(count) -26.6% WoW (prev: 9.0), (n=7)
+48.0 Resting heart rate(count/min) -11.6% WoW (prev: 54.0), (n=7)
+9402.0 Step count(count) -4.8% WoW (prev: 9875.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-06-08
+7 days of tracked health for W 2020-06-08
+597.0 Active energy burned(Cal) -6.1% WoW (prev: 636.0), (n=7)
+1793.0 Basal energy burned(Cal) 0.0% WoW (prev: 1792.0), (n=7)
+45.0 Exercise time(min) -28.8% WoW (prev: 63.0), (n=7)
+7.0 Flights climbed(count) 4.3% WoW (prev: 7.0), (n=7)
+50.0 Resting heart rate(count/min) 5.4% WoW (prev: 48.0), (n=7)
+7455.0 Step count(count) -20.7% WoW (prev: 9402.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-06-15
+7 days of tracked health for W 2020-06-15
+510.0 Active energy burned(Cal) -14.6% WoW (prev: 597.0), (n=7)
+1786.0 Basal energy burned(Cal) -0.4% WoW (prev: 1793.0), (n=7)
+49.0 Exercise time(min) 10.6% WoW (prev: 45.0), (n=7)
+12.0 Flights climbed(count) 68.6% WoW (prev: 7.0), (n=7)
+54.0 Resting heart rate(count/min) 6.4% WoW (prev: 50.0), (n=6)
+7379.0 Step count(count) -1.0% WoW (prev: 7455.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-06-22
+7 days of tracked health for W 2020-06-22
+384.0 Active energy burned(Cal) -24.7% WoW (prev: 510.0), (n=7)
+1771.0 Basal energy burned(Cal) -0.8% WoW (prev: 1786.0), (n=7)
+37.0 Exercise time(min) -24.3% WoW (prev: 49.0), (n=7)
+6.0 Flights climbed(count) -49.2% WoW (prev: 12.0), (n=6)
+52.0 Resting heart rate(count/min) -2.3% WoW (prev: 54.0), (n=7)
+6626.0 Step count(count) -10.2% WoW (prev: 7379.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-06-29
+7 days of tracked health for W 2020-06-29
+615.0 Active energy burned(Cal) 60.1% WoW (prev: 384.0), (n=7)
+1816.0 Basal energy burned(Cal) 2.5% WoW (prev: 1771.0), (n=7)
+59.0 Exercise time(min) 58.6% WoW (prev: 37.0), (n=7)
+9.0 Flights climbed(count) 45.9% WoW (prev: 6.0), (n=7)
+51.0 Resting heart rate(count/min) -3.0% WoW (prev: 52.0), (n=7)
+8853.0 Step count(count) 33.6% WoW (prev: 6626.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-07-06
+7 days of tracked health for W 2020-07-06
+672.0 Active energy burned(Cal) 9.2% WoW (prev: 615.0), (n=7)
+1813.0 Basal energy burned(Cal) -0.2% WoW (prev: 1816.0), (n=7)
+54.0 Exercise time(min) -8.5% WoW (prev: 59.0), (n=7)
+5.0 Flights climbed(count) -42.9% WoW (prev: 9.0), (n=7)
+47.0 Resting heart rate(count/min) -6.5% WoW (prev: 51.0), (n=7)
+9836.0 Step count(count) 11.1% WoW (prev: 8853.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-07-13
+7 days of tracked health for W 2020-07-13
+677.0 Active energy burned(Cal) 0.8% WoW (prev: 672.0), (n=7)
+1824.0 Basal energy burned(Cal) 0.6% WoW (prev: 1813.0), (n=7)
+75.0 Exercise time(min) 38.8% WoW (prev: 54.0), (n=7)
+9.0 Flights climbed(count) 85.7% WoW (prev: 5.0), (n=7)
+47.0 Resting heart rate(count/min) -1.2% WoW (prev: 47.0), (n=7)
+9840.0 Step count(count) 0.0% WoW (prev: 9836.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-07-20
+7 days of tracked health for W 2020-07-20
+752.0 Active energy burned(Cal) 11.1% WoW (prev: 677.0), (n=7)
+1820.0 Basal energy burned(Cal) -0.2% WoW (prev: 1824.0), (n=7)
+84.0 Exercise time(min) 11.4% WoW (prev: 75.0), (n=7)
+8.0 Flights climbed(count) -16.9% WoW (prev: 9.0), (n=7)
+49.0 Resting heart rate(count/min) 3.7% WoW (prev: 47.0), (n=7)
+12399.0 Step count(count) 26.0% WoW (prev: 9840.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-07-27
+7 days of tracked health for W 2020-07-27
+601.0 Active energy burned(Cal) -20.1% WoW (prev: 752.0), (n=7)
+1841.0 Basal energy burned(Cal) 1.1% WoW (prev: 1820.0), (n=7)
+56.0 Exercise time(min) -33.6% WoW (prev: 84.0), (n=7)
+9.0 Flights climbed(count) 16.7% WoW (prev: 8.0), (n=7)
+49.0 Resting heart rate(count/min) 0.3% WoW (prev: 49.0), (n=7)
+9317.0 Step count(count) -24.9% WoW (prev: 12399.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-08-03
+7 days of tracked health for W 2020-08-03
+521.0 Active energy burned(Cal) -13.2% WoW (prev: 601.0), (n=7)
+1811.0 Basal energy burned(Cal) -1.7% WoW (prev: 1841.0), (n=7)
+46.0 Exercise time(min) -16.7% WoW (prev: 56.0), (n=7)
+5.0 Flights climbed(count) -42.6% WoW (prev: 9.0), (n=6)
+47.0 Resting heart rate(count/min) -4.4% WoW (prev: 49.0), (n=7)
+8483.0 Step count(count) -8.9% WoW (prev: 9317.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-08-10
+7 days of tracked health for W 2020-08-10
+676.0 Active energy burned(Cal) 29.7% WoW (prev: 521.0), (n=7)
+1823.0 Basal energy burned(Cal) 0.7% WoW (prev: 1811.0), (n=7)
+86.0 Exercise time(min) 85.2% WoW (prev: 46.0), (n=7)
+6.0 Flights climbed(count) 23.7% WoW (prev: 5.0), (n=4)
+46.0 Resting heart rate(count/min) -0.3% WoW (prev: 47.0), (n=7)
+9747.0 Step count(count) 14.9% WoW (prev: 8483.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-08-17
+7 days of tracked health for W 2020-08-17
+597.0 Active energy burned(Cal) -11.8% WoW (prev: 676.0), (n=7)
+1819.0 Basal energy burned(Cal) -0.2% WoW (prev: 1823.0), (n=7)
+45.0 Exercise time(min) -47.7% WoW (prev: 86.0), (n=7)
+5.0 Flights climbed(count) -16.6% WoW (prev: 6.0), (n=6)
+50.0 Resting heart rate(count/min) 8.5% WoW (prev: 46.0), (n=7)
+7521.0 Step count(count) -22.8% WoW (prev: 9747.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-08-24
+7 days of tracked health for W 2020-08-24
+572.0 Active energy burned(Cal) -4.1% WoW (prev: 597.0), (n=7)
+1834.0 Basal energy burned(Cal) 0.8% WoW (prev: 1819.0), (n=7)
+41.0 Exercise time(min) -9.2% WoW (prev: 45.0), (n=7)
+5.0 Flights climbed(count) -3.6% WoW (prev: 5.0), (n=6)
+51.0 Resting heart rate(count/min) 0.6% WoW (prev: 50.0), (n=6)
+8846.0 Step count(count) 17.6% WoW (prev: 7521.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-08-31
+7 days of tracked health for W 2020-08-31
+661.0 Active energy burned(Cal) 15.5% WoW (prev: 572.0), (n=7)
+1592.0 Basal energy burned(Cal) -13.2% WoW (prev: 1834.0), (n=6)
+39.0 Exercise time(min) -3.4% WoW (prev: 41.0), (n=6)
+12.0 Flights climbed(count) 141.9% WoW (prev: 5.0), (n=7)
+48.0 Resting heart rate(count/min) -4.6% WoW (prev: 51.0), (n=6)
+8076.0 Step count(count) -8.7% WoW (prev: 8846.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-09-07
+7 days of tracked health for W 2020-09-07
+661.0 Active energy burned(Cal) -0.1% WoW (prev: 661.0), (n=7)
+1798.0 Basal energy burned(Cal) 13.0% WoW (prev: 1592.0), (n=7)
+56.0 Exercise time(min) 42.7% WoW (prev: 39.0), (n=7)
+11.0 Flights climbed(count) -8.0% WoW (prev: 12.0), (n=7)
+48.0 Resting heart rate(count/min) -0.7% WoW (prev: 48.0), (n=7)
+8488.0 Step count(count) 5.1% WoW (prev: 8076.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-09-14
+7 days of tracked health for W 2020-09-14
+629.0 Active energy burned(Cal) -4.7% WoW (prev: 661.0), (n=7)
+1822.0 Basal energy burned(Cal) 1.3% WoW (prev: 1798.0), (n=7)
+42.0 Exercise time(min) -25.7% WoW (prev: 56.0), (n=7)
+9.0 Flights climbed(count) -18.7% WoW (prev: 11.0), (n=7)
+48.0 Resting heart rate(count/min) 0.6% WoW (prev: 48.0), (n=7)
+6652.0 Step count(count) -21.6% WoW (prev: 8488.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-09-21
+7 days of tracked health for W 2020-09-21
+626.0 Active energy burned(Cal) -0.5% WoW (prev: 629.0), (n=7)
+1827.0 Basal energy burned(Cal) 0.2% WoW (prev: 1822.0), (n=7)
+50.0 Exercise time(min) 19.9% WoW (prev: 42.0), (n=7)
+12.0 Flights climbed(count) 25.6% WoW (prev: 9.0), (n=7)
+53.0 Resting heart rate(count/min) 10.4% WoW (prev: 48.0), (n=7)
+7259.0 Step count(count) 9.1% WoW (prev: 6652.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-09-28
+7 days of tracked health for W 2020-09-28
+546.0 Active energy burned(Cal) -12.7% WoW (prev: 626.0), (n=7)
+1819.0 Basal energy burned(Cal) -0.4% WoW (prev: 1827.0), (n=7)
+36.0 Exercise time(min) -28.9% WoW (prev: 50.0), (n=7)
+12.0 Flights climbed(count) 0.6% WoW (prev: 12.0), (n=7)
+51.0 Resting heart rate(count/min) -4.8% WoW (prev: 53.0), (n=7)
+6426.0 Step count(count) -11.5% WoW (prev: 7259.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-10-05
+7 days of tracked health for W 2020-10-05
+585.0 Active energy burned(Cal) 7.1% WoW (prev: 546.0), (n=7)
+1829.0 Basal energy burned(Cal) 0.5% WoW (prev: 1819.0), (n=7)
+46.0 Exercise time(min) 28.5% WoW (prev: 36.0), (n=7)
+15.0 Flights climbed(count) 28.8% WoW (prev: 12.0), (n=7)
+56.0 Resting heart rate(count/min) 9.9% WoW (prev: 51.0), (n=7)
+6965.0 Step count(count) 8.4% WoW (prev: 6426.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-10-12
+7 days of tracked health for W 2020-10-12
+561.0 Active energy burned(Cal) -4.0% WoW (prev: 585.0), (n=7)
+1829.0 Basal energy burned(Cal) -0.0% WoW (prev: 1829.0), (n=7)
+35.0 Exercise time(min) -24.4% WoW (prev: 46.0), (n=7)
+9.0 Flights climbed(count) -37.6% WoW (prev: 15.0), (n=7)
+54.0 Resting heart rate(count/min) -3.3% WoW (prev: 56.0), (n=7)
+5191.0 Step count(count) -25.5% WoW (prev: 6965.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-10-19
+7 days of tracked health for W 2020-10-19
+757.0 Active energy burned(Cal) 34.8% WoW (prev: 561.0), (n=7)
+1829.0 Basal energy burned(Cal) -0.0% WoW (prev: 1829.0), (n=7)
+65.0 Exercise time(min) 86.8% WoW (prev: 35.0), (n=7)
+7.0 Flights climbed(count) -24.0% WoW (prev: 9.0), (n=6)
+53.0 Resting heart rate(count/min) -1.1% WoW (prev: 54.0), (n=7)
+7092.0 Step count(count) 36.6% WoW (prev: 5191.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-10-26
+7 days of tracked health for W 2020-10-26
+843.0 Active energy burned(Cal) 11.3% WoW (prev: 757.0), (n=7)
+1854.0 Basal energy burned(Cal) 1.4% WoW (prev: 1829.0), (n=7)
+83.0 Exercise time(min) 29.2% WoW (prev: 65.0), (n=7)
+12.0 Flights climbed(count) 60.5% WoW (prev: 7.0), (n=6)
+50.0 Resting heart rate(count/min) -6.2% WoW (prev: 53.0), (n=7)
+8038.0 Step count(count) 13.3% WoW (prev: 7092.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-11-02
+7 days of tracked health for W 2020-11-02
+787.0 Active energy burned(Cal) -6.6% WoW (prev: 843.0), (n=7)
+1828.0 Basal energy burned(Cal) -1.4% WoW (prev: 1854.0), (n=7)
+74.0 Exercise time(min) -11.5% WoW (prev: 83.0), (n=7)
+8.0 Flights climbed(count) -29.2% WoW (prev: 12.0), (n=7)
+52.0 Resting heart rate(count/min) 4.3% WoW (prev: 50.0), (n=7)
+6728.0 Step count(count) -16.3% WoW (prev: 8038.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-11-09
+7 days of tracked health for W 2020-11-09
+765.0 Active energy burned(Cal) -2.8% WoW (prev: 787.0), (n=7)
+1839.0 Basal energy burned(Cal) 0.6% WoW (prev: 1828.0), (n=7)
+75.0 Exercise time(min) 1.7% WoW (prev: 74.0), (n=7)
+10.0 Flights climbed(count) 26.3% WoW (prev: 8.0), (n=7)
+51.0 Resting heart rate(count/min) -1.4% WoW (prev: 52.0), (n=7)
+7289.0 Step count(count) 8.3% WoW (prev: 6728.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-11-16
+7 days of tracked health for W 2020-11-16
+811.0 Active energy burned(Cal) 6.1% WoW (prev: 765.0), (n=7)
+1854.0 Basal energy burned(Cal) 0.8% WoW (prev: 1839.0), (n=7)
+81.0 Exercise time(min) 7.2% WoW (prev: 75.0), (n=7)
+7.0 Flights climbed(count) -34.7% WoW (prev: 10.0), (n=7)
+49.0 Resting heart rate(count/min) -5.1% WoW (prev: 51.0), (n=7)
+7116.0 Step count(count) -2.4% WoW (prev: 7289.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-11-23
+7 days of tracked health for W 2020-11-23
+625.0 Active energy burned(Cal) -22.9% WoW (prev: 811.0), (n=7)
+1847.0 Basal energy burned(Cal) -0.4% WoW (prev: 1854.0), (n=7)
+59.0 Exercise time(min) -26.6% WoW (prev: 81.0), (n=7)
+8.0 Flights climbed(count) 26.6% WoW (prev: 7.0), (n=6)
+50.0 Resting heart rate(count/min) 1.5% WoW (prev: 49.0), (n=7)
+5650.0 Step count(count) -20.6% WoW (prev: 7116.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-11-30
+7 days of tracked health for W 2020-11-30
+565.0 Active energy burned(Cal) -9.7% WoW (prev: 625.0), (n=7)
+1845.0 Basal energy burned(Cal) -0.1% WoW (prev: 1847.0), (n=7)
+39.0 Exercise time(min) -33.6% WoW (prev: 59.0), (n=7)
+14.0 Flights climbed(count) 64.7% WoW (prev: 8.0), (n=5)
+53.0 Resting heart rate(count/min) 6.7% WoW (prev: 50.0), (n=5)
+6374.0 Step count(count) 12.8% WoW (prev: 5650.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-12-07
+7 days of tracked health for W 2020-12-07
+674.0 Active energy burned(Cal) 19.4% WoW (prev: 565.0), (n=7)
+1859.0 Basal energy burned(Cal) 0.7% WoW (prev: 1845.0), (n=7)
+61.0 Exercise time(min) 54.5% WoW (prev: 39.0), (n=7)
+19.0 Flights climbed(count) 38.6% WoW (prev: 14.0), (n=5)
+58.0 Resting heart rate(count/min) 10.1% WoW (prev: 53.0), (n=7)
+6553.0 Step count(count) 2.8% WoW (prev: 6374.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-12-14
+7 days of tracked health for W 2020-12-14
+816.0 Active energy burned(Cal) 21.0% WoW (prev: 674.0), (n=7)
+1856.0 Basal energy burned(Cal) -0.1% WoW (prev: 1859.0), (n=7)
+72.0 Exercise time(min) 18.8% WoW (prev: 61.0), (n=7)
+7.0 Flights climbed(count) -61.9% WoW (prev: 19.0), (n=7)
+53.0 Resting heart rate(count/min) -9.3% WoW (prev: 58.0), (n=7)
+7230.0 Step count(count) 10.3% WoW (prev: 6553.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-12-21
+7 days of tracked health for W 2020-12-21
+791.0 Active energy burned(Cal) -3.0% WoW (prev: 816.0), (n=7)
+1879.0 Basal energy burned(Cal) 1.2% WoW (prev: 1856.0), (n=7)
+69.0 Exercise time(min) -3.8% WoW (prev: 72.0), (n=7)
+11.0 Flights climbed(count) 49.8% WoW (prev: 7.0), (n=7)
+51.0 Resting heart rate(count/min) -2.7% WoW (prev: 53.0), (n=7)
+8203.0 Step count(count) 13.5% WoW (prev: 7230.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2020-12-28
+7 days of tracked health for W 2020-12-28
+617.0 Active energy burned(Cal) -22.0% WoW (prev: 791.0), (n=7)
+1831.0 Basal energy burned(Cal) -2.6% WoW (prev: 1879.0), (n=7)
+35.0 Exercise time(min) -49.8% WoW (prev: 69.0), (n=7)
+12.0 Flights climbed(count) 4.5% WoW (prev: 11.0), (n=7)
+52.0 Resting heart rate(count/min) 1.7% WoW (prev: 51.0), (n=7)
+6681.0 Step count(count) -18.6% WoW (prev: 8203.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-01-04
+7 days of tracked health for W 2021-01-04
+702.0 Active energy burned(Cal) 13.7% WoW (prev: 617.0), (n=7)
+1846.0 Basal energy burned(Cal) 0.9% WoW (prev: 1831.0), (n=7)
+64.0 Exercise time(min) 82.4% WoW (prev: 35.0), (n=7)
+3.0 Flights climbed(count) -70.4% WoW (prev: 12.0), (n=7)
+48.0 Resting heart rate(count/min) -7.9% WoW (prev: 52.0), (n=7)
+4977.0 Step count(count) -25.5% WoW (prev: 6681.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-01-11
+7 days of tracked health for W 2021-01-11
+640.0 Active energy burned(Cal) -8.8% WoW (prev: 702.0), (n=7)
+1840.0 Basal energy burned(Cal) -0.4% WoW (prev: 1846.0), (n=7)
+52.0 Exercise time(min) -17.5% WoW (prev: 64.0), (n=7)
+4.0 Flights climbed(count) 26.4% WoW (prev: 3.0), (n=6)
+47.0 Resting heart rate(count/min) -1.2% WoW (prev: 48.0), (n=7)
+4810.0 Step count(count) -3.4% WoW (prev: 4977.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-01-18
+7 days of tracked health for W 2021-01-18
+595.0 Active energy burned(Cal) -7.0% WoW (prev: 640.0), (n=7)
+1849.0 Basal energy burned(Cal) 0.5% WoW (prev: 1840.0), (n=7)
+55.0 Exercise time(min) 4.1% WoW (prev: 52.0), (n=7)
+8.0 Flights climbed(count) 75.4% WoW (prev: 4.0), (n=5)
+48.0 Resting heart rate(count/min) 1.5% WoW (prev: 47.0), (n=7)
+4964.0 Step count(count) 3.2% WoW (prev: 4810.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-01-25
+7 days of tracked health for W 2021-01-25
+693.0 Active energy burned(Cal) 16.5% WoW (prev: 595.0), (n=7)
+1844.0 Basal energy burned(Cal) -0.3% WoW (prev: 1849.0), (n=7)
+71.0 Exercise time(min) 30.4% WoW (prev: 55.0), (n=6)
+4.0 Flights climbed(count) -51.1% WoW (prev: 8.0), (n=7)
+49.0 Resting heart rate(count/min) 2.1% WoW (prev: 48.0), (n=7)
+4890.0 Step count(count) -1.5% WoW (prev: 4964.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-02-01
+7 days of tracked health for W 2021-02-01
+700.0 Active energy burned(Cal) 1.0% WoW (prev: 693.0), (n=7)
+1854.0 Basal energy burned(Cal) 0.5% WoW (prev: 1844.0), (n=7)
+73.0 Exercise time(min) 3.0% WoW (prev: 71.0), (n=7)
+6.0 Flights climbed(count) 55.3% WoW (prev: 4.0), (n=6)
+48.0 Resting heart rate(count/min) -2.6% WoW (prev: 49.0), (n=7)
+5266.0 Step count(count) 7.7% WoW (prev: 4890.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-02-08
+7 days of tracked health for W 2021-02-08
+745.0 Active energy burned(Cal) 6.4% WoW (prev: 700.0), (n=7)
+1845.0 Basal energy burned(Cal) -0.5% WoW (prev: 1854.0), (n=7)
+66.0 Exercise time(min) -9.4% WoW (prev: 73.0), (n=7)
+5.0 Flights climbed(count) -5.8% WoW (prev: 6.0), (n=7)
+51.0 Resting heart rate(count/min) 5.7% WoW (prev: 48.0), (n=7)
+6173.0 Step count(count) 17.2% WoW (prev: 5266.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-02-15
+7 days of tracked health for W 2021-02-15
+659.0 Active energy burned(Cal) -11.5% WoW (prev: 745.0), (n=7)
+1842.0 Basal energy burned(Cal) -0.2% WoW (prev: 1845.0), (n=7)
+59.0 Exercise time(min) -11.4% WoW (prev: 66.0), (n=7)
+8.0 Flights climbed(count) 53.3% WoW (prev: 5.0), (n=6)
+50.0 Resting heart rate(count/min) -0.3% WoW (prev: 51.0), (n=7)
+5455.0 Step count(count) -11.6% WoW (prev: 6173.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-02-22
+7 days of tracked health for W 2021-02-22
+492.0 Active energy burned(Cal) -25.4% WoW (prev: 659.0), (n=7)
+1828.0 Basal energy burned(Cal) -0.8% WoW (prev: 1842.0), (n=7)
+20.0 Exercise time(min) -66.7% WoW (prev: 59.0), (n=7)
+4.0 Flights climbed(count) -46.0% WoW (prev: 8.0), (n=6)
+53.0 Resting heart rate(count/min) 4.9% WoW (prev: 50.0), (n=5)
+4124.0 Step count(count) -24.4% WoW (prev: 5455.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-03-01
+7 days of tracked health for W 2021-03-01
+721.0 Active energy burned(Cal) 46.7% WoW (prev: 492.0), (n=7)
+1824.0 Basal energy burned(Cal) -0.2% WoW (prev: 1828.0), (n=7)
+52.0 Exercise time(min) 165.7% WoW (prev: 20.0), (n=7)
+5.0 Flights climbed(count) 7.9% WoW (prev: 4.0), (n=7)
+52.0 Resting heart rate(count/min) -0.8% WoW (prev: 53.0), (n=6)
+6117.0 Step count(count) 48.3% WoW (prev: 4124.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-03-08
+7 days of tracked health for W 2021-03-08
+648.0 Active energy burned(Cal) -10.2% WoW (prev: 721.0), (n=7)
+1828.0 Basal energy burned(Cal) 0.3% WoW (prev: 1824.0), (n=7)
+66.0 Exercise time(min) 26.6% WoW (prev: 52.0), (n=7)
+5.0 Flights climbed(count) 0% WoW (prev: 5.0), (n=7)
+47.0 Resting heart rate(count/min) -9.7% WoW (prev: 52.0), (n=7)
+6729.0 Step count(count) 10.0% WoW (prev: 6117.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-03-15
+7 days of tracked health for W 2021-03-15
+841.0 Active energy burned(Cal) 29.9% WoW (prev: 648.0), (n=7)
+1854.0 Basal energy burned(Cal) 1.4% WoW (prev: 1828.0), (n=7)
+87.0 Exercise time(min) 32.5% WoW (prev: 66.0), (n=7)
+5.0 Flights climbed(count) -5.9% WoW (prev: 5.0), (n=7)
+46.0 Resting heart rate(count/min) -3.9% WoW (prev: 47.0), (n=7)
+6849.0 Step count(count) 1.8% WoW (prev: 6729.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-03-22
+7 days of tracked health for W 2021-03-22
+466.0 Active energy burned(Cal) -44.6% WoW (prev: 841.0), (n=7)
+1809.0 Basal energy burned(Cal) -2.4% WoW (prev: 1854.0), (n=7)
+33.0 Exercise time(min) -62.4% WoW (prev: 87.0), (n=6)
+7.0 Flights climbed(count) 44.4% WoW (prev: 5.0), (n=5)
+52.0 Resting heart rate(count/min) 13.5% WoW (prev: 46.0), (n=7)
+4532.0 Step count(count) -33.8% WoW (prev: 6849.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-03-29
+7 days of tracked health for W 2021-03-29
+693.0 Active energy burned(Cal) 48.7% WoW (prev: 466.0), (n=7)
+1840.0 Basal energy burned(Cal) 1.7% WoW (prev: 1809.0), (n=7)
+68.0 Exercise time(min) 106.2% WoW (prev: 33.0), (n=7)
+6.0 Flights climbed(count) -13.4% WoW (prev: 7.0), (n=7)
+49.0 Resting heart rate(count/min) -4.4% WoW (prev: 52.0), (n=7)
+7384.0 Step count(count) 62.9% WoW (prev: 4532.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-04-05
+7 days of tracked health for W 2021-04-05
+746.0 Active energy burned(Cal) 7.7% WoW (prev: 693.0), (n=7)
+1856.0 Basal energy burned(Cal) 0.9% WoW (prev: 1840.0), (n=7)
+73.0 Exercise time(min) 7.8% WoW (prev: 68.0), (n=7)
+5.0 Flights climbed(count) -15.4% WoW (prev: 6.0), (n=6)
+46.0 Resting heart rate(count/min) -6.9% WoW (prev: 49.0), (n=7)
+5655.0 Step count(count) -23.4% WoW (prev: 7384.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-04-12
+7 days of tracked health for W 2021-04-12
+637.0 Active energy burned(Cal) -14.6% WoW (prev: 746.0), (n=7)
+1853.0 Basal energy burned(Cal) -0.2% WoW (prev: 1856.0), (n=7)
+40.0 Exercise time(min) -45.0% WoW (prev: 73.0), (n=7)
+3.0 Flights climbed(count) -46.8% WoW (prev: 5.0), (n=7)
+51.0 Resting heart rate(count/min) 10.9% WoW (prev: 46.0), (n=5)
+6282.0 Step count(count) 11.1% WoW (prev: 5655.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-04-19
+7 days of tracked health for W 2021-04-19
+582.0 Active energy burned(Cal) -8.7% WoW (prev: 637.0), (n=7)
+1849.0 Basal energy burned(Cal) -0.2% WoW (prev: 1853.0), (n=7)
+42.0 Exercise time(min) 3.9% WoW (prev: 40.0), (n=7)
+5.0 Flights climbed(count) 107.4% WoW (prev: 3.0), (n=6)
+49.0 Resting heart rate(count/min) -4.2% WoW (prev: 51.0), (n=7)
+4421.0 Step count(count) -29.6% WoW (prev: 6282.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-04-26
+7 days of tracked health for W 2021-04-26
+646.0 Active energy burned(Cal) 11.1% WoW (prev: 582.0), (n=7)
+1836.0 Basal energy burned(Cal) -0.7% WoW (prev: 1849.0), (n=7)
+65.0 Exercise time(min) 55.5% WoW (prev: 42.0), (n=7)
+5.0 Flights climbed(count) -9.3% WoW (prev: 5.0), (n=7)
+54.0 Resting heart rate(count/min) 10.8% WoW (prev: 49.0), (n=7)
+6317.0 Step count(count) 42.9% WoW (prev: 4421.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-05-03
+7 days of tracked health for W 2021-05-03
+720.0 Active energy burned(Cal) 11.5% WoW (prev: 646.0), (n=7)
+1854.0 Basal energy burned(Cal) 1.0% WoW (prev: 1836.0), (n=7)
+84.0 Exercise time(min) 28.9% WoW (prev: 65.0), (n=7)
+6.0 Flights climbed(count) 15.7% WoW (prev: 5.0), (n=7)
+51.0 Resting heart rate(count/min) -6.6% WoW (prev: 54.0), (n=7)
+7460.0 Step count(count) 18.1% WoW (prev: 6317.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-05-10
+7 days of tracked health for W 2021-05-10
+705.0 Active energy burned(Cal) -2.1% WoW (prev: 720.0), (n=7)
+1825.0 Basal energy burned(Cal) -1.6% WoW (prev: 1854.0), (n=7)
+55.0 Exercise time(min) -33.7% WoW (prev: 84.0), (n=7)
+4.0 Flights climbed(count) -23.5% WoW (prev: 6.0), (n=7)
+48.0 Resting heart rate(count/min) -5.4% WoW (prev: 51.0), (n=7)
+7034.0 Step count(count) -5.7% WoW (prev: 7460.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-05-17
+7 days of tracked health for W 2021-05-17
+667.0 Active energy burned(Cal) -5.4% WoW (prev: 705.0), (n=7)
+1838.0 Basal energy burned(Cal) 0.7% WoW (prev: 1825.0), (n=7)
+65.0 Exercise time(min) 17.5% WoW (prev: 55.0), (n=7)
+14.0 Flights climbed(count) 221.8% WoW (prev: 4.0), (n=7)
+60.0 Resting heart rate(count/min) 24.5% WoW (prev: 48.0), (n=7)
+9022.0 Step count(count) 28.3% WoW (prev: 7034.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-05-24
+7 days of tracked health for W 2021-05-24
+765.0 Active energy burned(Cal) 14.7% WoW (prev: 667.0), (n=7)
+1828.0 Basal energy burned(Cal) -0.5% WoW (prev: 1838.0), (n=7)
+63.0 Exercise time(min) -3.9% WoW (prev: 65.0), (n=7)
+5.0 Flights climbed(count) -64.7% WoW (prev: 14.0), (n=7)
+52.0 Resting heart rate(count/min) -13.4% WoW (prev: 60.0), (n=7)
+6936.0 Step count(count) -23.1% WoW (prev: 9022.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-05-31
+7 days of tracked health for W 2021-05-31
+672.0 Active energy burned(Cal) -12.2% WoW (prev: 765.0), (n=7)
+1822.0 Basal energy burned(Cal) -0.4% WoW (prev: 1828.0), (n=7)
+57.0 Exercise time(min) -9.6% WoW (prev: 63.0), (n=7)
+4.0 Flights climbed(count) -14.8% WoW (prev: 5.0), (n=7)
+50.0 Resting heart rate(count/min) -2.2% WoW (prev: 52.0), (n=7)
+5972.0 Step count(count) -13.9% WoW (prev: 6936.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-06-07
+7 days of tracked health for W 2021-06-07
+805.0 Active energy burned(Cal) 19.9% WoW (prev: 672.0), (n=7)
+1840.0 Basal energy burned(Cal) 1.0% WoW (prev: 1822.0), (n=7)
+87.0 Exercise time(min) 54.5% WoW (prev: 57.0), (n=7)
+5.0 Flights climbed(count) 20.7% WoW (prev: 4.0), (n=6)
+47.0 Resting heart rate(count/min) -6.2% WoW (prev: 50.0), (n=7)
+7814.0 Step count(count) 30.8% WoW (prev: 5972.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-06-14
+7 days of tracked health for W 2021-06-14
+724.0 Active energy burned(Cal) -10.0% WoW (prev: 805.0), (n=7)
+1843.0 Basal energy burned(Cal) 0.1% WoW (prev: 1840.0), (n=7)
+63.0 Exercise time(min) -27.9% WoW (prev: 87.0), (n=7)
+7.0 Flights climbed(count) 45.7% WoW (prev: 5.0), (n=7)
+48.0 Resting heart rate(count/min) 2.1% WoW (prev: 47.0), (n=7)
+7786.0 Step count(count) -0.4% WoW (prev: 7814.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-06-21
+7 days of tracked health for W 2021-06-21
+668.0 Active energy burned(Cal) -7.9% WoW (prev: 724.0), (n=7)
+1850.0 Basal energy burned(Cal) 0.4% WoW (prev: 1843.0), (n=7)
+60.0 Exercise time(min) -4.1% WoW (prev: 63.0), (n=7)
+7.0 Flights climbed(count) -5.9% WoW (prev: 7.0), (n=7)
+49.0 Resting heart rate(count/min) 2.4% WoW (prev: 48.0), (n=7)
+6022.0 Step count(count) -22.7% WoW (prev: 7786.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-06-28
+7 days of tracked health for W 2021-06-28
+807.0 Active energy burned(Cal) 20.9% WoW (prev: 668.0), (n=7)
+1838.0 Basal energy burned(Cal) -0.7% WoW (prev: 1850.0), (n=7)
+71.0 Exercise time(min) 18.2% WoW (prev: 60.0), (n=7)
+2.0 Flights climbed(count) -68.7% WoW (prev: 7.0), (n=7)
+47.0 Resting heart rate(count/min) -4.9% WoW (prev: 49.0), (n=7)
+6038.0 Step count(count) 0.3% WoW (prev: 6022.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-07-05
+7 days of tracked health for W 2021-07-05
+741.0 Active energy burned(Cal) -8.3% WoW (prev: 807.0), (n=7)
+1833.0 Basal energy burned(Cal) -0.2% WoW (prev: 1838.0), (n=7)
+68.0 Exercise time(min) -5.0% WoW (prev: 71.0), (n=7)
+6.0 Flights climbed(count) 176.8% WoW (prev: 2.0), (n=7)
+50.0 Resting heart rate(count/min) 7.3% WoW (prev: 47.0), (n=7)
+6740.0 Step count(count) 11.6% WoW (prev: 6038.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-07-12
+7 days of tracked health for W 2021-07-12
+745.0 Active energy burned(Cal) 0.5% WoW (prev: 741.0), (n=7)
+1846.0 Basal energy burned(Cal) 0.7% WoW (prev: 1833.0), (n=7)
+68.0 Exercise time(min) 0.2% WoW (prev: 68.0), (n=7)
+5.0 Flights climbed(count) -22.9% WoW (prev: 6.0), (n=7)
+49.0 Resting heart rate(count/min) -3.1% WoW (prev: 50.0), (n=7)
+7021.0 Step count(count) 4.2% WoW (prev: 6740.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-07-19
+7 days of tracked health for W 2021-07-19
+728.0 Active energy burned(Cal) -2.2% WoW (prev: 745.0), (n=7)
+1860.0 Basal energy burned(Cal) 0.8% WoW (prev: 1846.0), (n=7)
+67.0 Exercise time(min) -2.1% WoW (prev: 68.0), (n=7)
+5.0 Flights climbed(count) 12.5% WoW (prev: 5.0), (n=7)
+53.0 Resting heart rate(count/min) 7.9% WoW (prev: 49.0), (n=7)
+7702.0 Step count(count) 9.7% WoW (prev: 7021.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-07-26
+7 days of tracked health for W 2021-07-26
+748.0 Active energy burned(Cal) 2.7% WoW (prev: 728.0), (n=7)
+1846.0 Basal energy burned(Cal) -0.8% WoW (prev: 1860.0), (n=7)
+67.0 Exercise time(min) 1.3% WoW (prev: 67.0), (n=7)
+6.0 Flights climbed(count) 25.0% WoW (prev: 5.0), (n=7)
+47.0 Resting heart rate(count/min) -11.1% WoW (prev: 53.0), (n=7)
+9424.0 Step count(count) 22.4% WoW (prev: 7702.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-08-02
+7 days of tracked health for W 2021-08-02
+613.0 Active energy burned(Cal) -18.1% WoW (prev: 748.0), (n=7)
+1838.0 Basal energy burned(Cal) -0.4% WoW (prev: 1846.0), (n=7)
+61.0 Exercise time(min) -9.5% WoW (prev: 67.0), (n=7)
+4.0 Flights climbed(count) -34.9% WoW (prev: 6.0), (n=7)
+45.0 Resting heart rate(count/min) -3.0% WoW (prev: 47.0), (n=7)
+6158.0 Step count(count) -34.7% WoW (prev: 9424.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-08-09
+7 days of tracked health for W 2021-08-09
+890.0 Active energy burned(Cal) 45.2% WoW (prev: 613.0), (n=7)
+1856.0 Basal energy burned(Cal) 0.9% WoW (prev: 1838.0), (n=7)
+82.0 Exercise time(min) 35.1% WoW (prev: 61.0), (n=7)
+6.0 Flights climbed(count) 46.7% WoW (prev: 4.0), (n=7)
+49.0 Resting heart rate(count/min) 7.9% WoW (prev: 45.0), (n=5)
+9854.0 Step count(count) 60.0% WoW (prev: 6158.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-08-16
+7 days of tracked health for W 2021-08-16
+893.0 Active energy burned(Cal) 0.4% WoW (prev: 890.0), (n=7)
+1861.0 Basal energy burned(Cal) 0.3% WoW (prev: 1856.0), (n=7)
+91.0 Exercise time(min) 10.9% WoW (prev: 82.0), (n=7)
+5.0 Flights climbed(count) -12.4% WoW (prev: 6.0), (n=7)
+50.0 Resting heart rate(count/min) 2.3% WoW (prev: 49.0), (n=7)
+7908.0 Step count(count) -19.8% WoW (prev: 9854.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-08-23
+7 days of tracked health for W 2021-08-23
+548.0 Active energy burned(Cal) -38.6% WoW (prev: 893.0), (n=7)
+1850.0 Basal energy burned(Cal) -0.6% WoW (prev: 1861.0), (n=7)
+42.0 Exercise time(min) -54.2% WoW (prev: 91.0), (n=7)
+7.0 Flights climbed(count) 27.0% WoW (prev: 5.0), (n=6)
+46.0 Resting heart rate(count/min) -8.5% WoW (prev: 50.0), (n=7)
+6431.0 Step count(count) -18.7% WoW (prev: 7908.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-08-30
+7 days of tracked health for W 2021-08-30
+502.0 Active energy burned(Cal) -8.4% WoW (prev: 548.0), (n=7)
+1810.0 Basal energy burned(Cal) -2.2% WoW (prev: 1850.0), (n=7)
+34.0 Exercise time(min) -18.4% WoW (prev: 42.0), (n=6)
+16.0 Flights climbed(count) 127.9% WoW (prev: 7.0), (n=7)
+49.0 Resting heart rate(count/min) 7.2% WoW (prev: 46.0), (n=7)
+7129.0 Step count(count) 10.8% WoW (prev: 6431.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-09-06
+7 days of tracked health for W 2021-09-06
+654.0 Active energy burned(Cal) 30.4% WoW (prev: 502.0), (n=7)
+1868.0 Basal energy burned(Cal) 3.2% WoW (prev: 1810.0), (n=7)
+59.0 Exercise time(min) 71.4% WoW (prev: 34.0), (n=7)
+5.0 Flights climbed(count) -68.1% WoW (prev: 16.0), (n=7)
+52.0 Resting heart rate(count/min) 5.5% WoW (prev: 49.0), (n=7)
+8291.0 Step count(count) 16.3% WoW (prev: 7129.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-09-13
+7 days of tracked health for W 2021-09-13
+775.0 Active energy burned(Cal) 18.4% WoW (prev: 654.0), (n=7)
+1857.0 Basal energy burned(Cal) -0.6% WoW (prev: 1868.0), (n=7)
+86.0 Exercise time(min) 46.1% WoW (prev: 59.0), (n=7)
+5.0 Flights climbed(count) -2.2% WoW (prev: 5.0), (n=7)
+51.0 Resting heart rate(count/min) -2.5% WoW (prev: 52.0), (n=7)
+8686.0 Step count(count) 4.8% WoW (prev: 8291.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-09-20
+7 days of tracked health for W 2021-09-20
+662.0 Active energy burned(Cal) -14.6% WoW (prev: 775.0), (n=7)
+1847.0 Basal energy burned(Cal) -0.6% WoW (prev: 1857.0), (n=7)
+57.0 Exercise time(min) -33.7% WoW (prev: 86.0), (n=7)
+6.0 Flights climbed(count) 20.6% WoW (prev: 5.0), (n=7)
+50.0 Resting heart rate(count/min) -0.8% WoW (prev: 51.0), (n=7)
+5545.0 Step count(count) -36.2% WoW (prev: 8686.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-09-27
+7 days of tracked health for W 2021-09-27
+601.0 Active energy burned(Cal) -9.2% WoW (prev: 662.0), (n=7)
+1843.0 Basal energy burned(Cal) -0.2% WoW (prev: 1847.0), (n=7)
+48.0 Exercise time(min) -15.9% WoW (prev: 57.0), (n=7)
+8.0 Flights climbed(count) 29.3% WoW (prev: 6.0), (n=7)
+50.0 Resting heart rate(count/min) 0.6% WoW (prev: 50.0), (n=7)
+6575.0 Step count(count) 18.6% WoW (prev: 5545.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-10-04
+7 days of tracked health for W 2021-10-04
+582.0 Active energy burned(Cal) -3.3% WoW (prev: 601.0), (n=7)
+1858.0 Basal energy burned(Cal) 0.8% WoW (prev: 1843.0), (n=7)
+45.0 Exercise time(min) -5.7% WoW (prev: 48.0), (n=7)
+3.0 Flights climbed(count) -63.0% WoW (prev: 8.0), (n=5)
+50.0 Resting heart rate(count/min) -0.6% WoW (prev: 50.0), (n=7)
+6030.0 Step count(count) -8.3% WoW (prev: 6575.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-10-11
+7 days of tracked health for W 2021-10-11
+873.0 Active energy burned(Cal) 50.0% WoW (prev: 582.0), (n=7)
+1859.0 Basal energy burned(Cal) 0.0% WoW (prev: 1858.0), (n=7)
+103.0 Exercise time(min) 128.6% WoW (prev: 45.0), (n=7)
+3.0 Flights climbed(count) -8.2% WoW (prev: 3.0), (n=7)
+47.0 Resting heart rate(count/min) -6.8% WoW (prev: 50.0), (n=7)
+7792.0 Step count(count) 29.2% WoW (prev: 6030.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-10-18
+7 days of tracked health for W 2021-10-18
+783.0 Active energy burned(Cal) -10.3% WoW (prev: 873.0), (n=7)
+1849.0 Basal energy burned(Cal) -0.5% WoW (prev: 1859.0), (n=7)
+90.0 Exercise time(min) -12.8% WoW (prev: 103.0), (n=7)
+5.0 Flights climbed(count) 77.8% WoW (prev: 3.0), (n=7)
+51.0 Resting heart rate(count/min) 8.3% WoW (prev: 47.0), (n=7)
+7031.0 Step count(count) -9.8% WoW (prev: 7792.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-10-25
+7 days of tracked health for W 2021-10-25
+489.0 Active energy burned(Cal) -37.6% WoW (prev: 783.0), (n=7)
+1832.0 Basal energy burned(Cal) -1.0% WoW (prev: 1849.0), (n=7)
+38.0 Exercise time(min) -58.0% WoW (prev: 90.0), (n=7)
+3.0 Flights climbed(count) -25.0% WoW (prev: 5.0), (n=7)
+49.0 Resting heart rate(count/min) -4.0% WoW (prev: 51.0), (n=7)
+6113.0 Step count(count) -13.1% WoW (prev: 7031.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-11-01
+7 days of tracked health for W 2021-11-01
+785.0 Active energy burned(Cal) 60.7% WoW (prev: 489.0), (n=7)
+1858.0 Basal energy burned(Cal) 1.4% WoW (prev: 1832.0), (n=7)
+95.0 Exercise time(min) 151.5% WoW (prev: 38.0), (n=7)
+7.0 Flights climbed(count) 99.3% WoW (prev: 3.0), (n=6)
+50.0 Resting heart rate(count/min) 2.9% WoW (prev: 49.0), (n=7)
+7411.0 Step count(count) 21.2% WoW (prev: 6113.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-11-08
+7 days of tracked health for W 2021-11-08
+615.0 Active energy burned(Cal) -21.6% WoW (prev: 785.0), (n=7)
+1823.0 Basal energy burned(Cal) -1.9% WoW (prev: 1858.0), (n=7)
+71.0 Exercise time(min) -25.5% WoW (prev: 95.0), (n=7)
+7.0 Flights climbed(count) 0.3% WoW (prev: 7.0), (n=7)
+48.0 Resting heart rate(count/min) -3.1% WoW (prev: 50.0), (n=7)
+6583.0 Step count(count) -11.2% WoW (prev: 7411.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-11-15
+7 days of tracked health for W 2021-11-15
+764.0 Active energy burned(Cal) 24.2% WoW (prev: 615.0), (n=7)
+1837.0 Basal energy burned(Cal) 0.8% WoW (prev: 1823.0), (n=7)
+90.0 Exercise time(min) 26.9% WoW (prev: 71.0), (n=7)
+9.0 Flights climbed(count) 25.2% WoW (prev: 7.0), (n=6)
+51.0 Resting heart rate(count/min) 4.4% WoW (prev: 48.0), (n=7)
+7078.0 Step count(count) 7.5% WoW (prev: 6583.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-11-22
+7 days of tracked health for W 2021-11-22
+561.0 Active energy burned(Cal) -26.5% WoW (prev: 764.0), (n=7)
+1838.0 Basal energy burned(Cal) 0.0% WoW (prev: 1837.0), (n=7)
+37.0 Exercise time(min) -58.9% WoW (prev: 90.0), (n=7)
+9.0 Flights climbed(count) 4.7% WoW (prev: 9.0), (n=7)
+50.0 Resting heart rate(count/min) -0.6% WoW (prev: 51.0), (n=7)
+6584.0 Step count(count) -7.0% WoW (prev: 7078.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-11-29
+7 days of tracked health for W 2021-11-29
+640.0 Active energy burned(Cal) 14.1% WoW (prev: 561.0), (n=7)
+1840.0 Basal energy burned(Cal) 0.1% WoW (prev: 1838.0), (n=7)
+62.0 Exercise time(min) 67.1% WoW (prev: 37.0), (n=7)
+5.0 Flights climbed(count) -40.2% WoW (prev: 9.0), (n=7)
+52.0 Resting heart rate(count/min) 2.8% WoW (prev: 50.0), (n=7)
+6338.0 Step count(count) -3.7% WoW (prev: 6584.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-12-06
+7 days of tracked health for W 2021-12-06
+530.0 Active energy burned(Cal) -17.3% WoW (prev: 640.0), (n=7)
+1834.0 Basal energy burned(Cal) -0.3% WoW (prev: 1840.0), (n=7)
+39.0 Exercise time(min) -36.0% WoW (prev: 62.0), (n=7)
+6.0 Flights climbed(count) 9.1% WoW (prev: 5.0), (n=7)
+50.0 Resting heart rate(count/min) -2.5% WoW (prev: 52.0), (n=6)
+7329.0 Step count(count) 15.6% WoW (prev: 6338.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-12-13
+7 days of tracked health for W 2021-12-13
+729.0 Active energy burned(Cal) 37.7% WoW (prev: 530.0), (n=7)
+1873.0 Basal energy burned(Cal) 2.1% WoW (prev: 1834.0), (n=7)
+75.0 Exercise time(min) 90.9% WoW (prev: 39.0), (n=7)
+9.0 Flights climbed(count) 57.7% WoW (prev: 6.0), (n=7)
+49.0 Resting heart rate(count/min) -2.2% WoW (prev: 50.0), (n=7)
+6898.0 Step count(count) -5.9% WoW (prev: 7329.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-12-20
+7 days of tracked health for W 2021-12-20
+445.0 Active energy burned(Cal) -38.9% WoW (prev: 729.0), (n=7)
+1851.0 Basal energy burned(Cal) -1.2% WoW (prev: 1873.0), (n=7)
+33.0 Exercise time(min) -55.9% WoW (prev: 75.0), (n=6)
+10.0 Flights climbed(count) 11.9% WoW (prev: 9.0), (n=6)
+54.0 Resting heart rate(count/min) 9.0% WoW (prev: 49.0), (n=7)
+5345.0 Step count(count) -22.5% WoW (prev: 6898.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2021-12-27
+7 days of tracked health for W 2021-12-27
+725.0 Active energy burned(Cal) 62.8% WoW (prev: 445.0), (n=7)
+1860.0 Basal energy burned(Cal) 0.5% WoW (prev: 1851.0), (n=7)
+69.0 Exercise time(min) 108.5% WoW (prev: 33.0), (n=7)
+4.0 Flights climbed(count) -57.1% WoW (prev: 10.0), (n=7)
+49.0 Resting heart rate(count/min) -8.8% WoW (prev: 54.0), (n=7)
+6043.0 Step count(count) 13.1% WoW (prev: 5345.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-01-03
+7 days of tracked health for W 2022-01-03
+631.0 Active energy burned(Cal) -12.9% WoW (prev: 725.0), (n=7)
+1842.0 Basal energy burned(Cal) -1.0% WoW (prev: 1860.0), (n=7)
+53.0 Exercise time(min) -23.1% WoW (prev: 69.0), (n=7)
+8.0 Flights climbed(count) 73.6% WoW (prev: 4.0), (n=7)
+53.0 Resting heart rate(count/min) 8.7% WoW (prev: 49.0), (n=7)
+5744.0 Step count(count) -4.9% WoW (prev: 6043.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-01-10
+7 days of tracked health for W 2022-01-10
+576.0 Active energy burned(Cal) -8.7% WoW (prev: 631.0), (n=7)
+1795.0 Basal energy burned(Cal) -2.5% WoW (prev: 1842.0), (n=7)
+23.0 Exercise time(min) -57.0% WoW (prev: 53.0), (n=7)
+7.0 Flights climbed(count) -10.8% WoW (prev: 8.0), (n=7)
+56.0 Resting heart rate(count/min) 6.0% WoW (prev: 53.0), (n=6)
+4843.0 Step count(count) -15.7% WoW (prev: 5744.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-01-17
+7 days of tracked health for W 2022-01-17
+684.0 Active energy burned(Cal) 18.7% WoW (prev: 576.0), (n=7)
+1834.0 Basal energy burned(Cal) 2.2% WoW (prev: 1795.0), (n=7)
+72.0 Exercise time(min) 214.4% WoW (prev: 23.0), (n=7)
+8.0 Flights climbed(count) 10.5% WoW (prev: 7.0), (n=7)
+50.0 Resting heart rate(count/min) -10.7% WoW (prev: 56.0), (n=7)
+6830.0 Step count(count) 41.0% WoW (prev: 4843.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-01-24
+7 days of tracked health for W 2022-01-24
+455.0 Active energy burned(Cal) -33.5% WoW (prev: 684.0), (n=7)
+1861.0 Basal energy burned(Cal) 1.4% WoW (prev: 1834.0), (n=7)
+31.0 Exercise time(min) -56.3% WoW (prev: 72.0), (n=7)
+4.0 Flights climbed(count) -51.0% WoW (prev: 8.0), (n=7)
+51.0 Resting heart rate(count/min) 1.7% WoW (prev: 50.0), (n=7)
+4768.0 Step count(count) -30.2% WoW (prev: 6830.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-01-31
+7 days of tracked health for W 2022-01-31
+702.0 Active energy burned(Cal) 54.3% WoW (prev: 455.0), (n=7)
+1876.0 Basal energy burned(Cal) 0.8% WoW (prev: 1861.0), (n=7)
+72.0 Exercise time(min) 129.5% WoW (prev: 31.0), (n=7)
+6.0 Flights climbed(count) 61.5% WoW (prev: 4.0), (n=7)
+48.0 Resting heart rate(count/min) -6.7% WoW (prev: 51.0), (n=7)
+6212.0 Step count(count) 30.3% WoW (prev: 4768.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-02-07
+7 days of tracked health for W 2022-02-07
+546.0 Active energy burned(Cal) -22.3% WoW (prev: 702.0), (n=7)
+1846.0 Basal energy burned(Cal) -1.6% WoW (prev: 1876.0), (n=7)
+32.0 Exercise time(min) -55.4% WoW (prev: 72.0), (n=7)
+7.0 Flights climbed(count) 16.7% WoW (prev: 6.0), (n=7)
+49.0 Resting heart rate(count/min) 2.7% WoW (prev: 48.0), (n=6)
+7669.0 Step count(count) 23.5% WoW (prev: 6212.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-02-14
+7 days of tracked health for W 2022-02-14
+538.0 Active energy burned(Cal) -1.6% WoW (prev: 546.0), (n=7)
+1868.0 Basal energy burned(Cal) 1.2% WoW (prev: 1846.0), (n=7)
+45.0 Exercise time(min) 40.4% WoW (prev: 32.0), (n=7)
+6.0 Flights climbed(count) -10.2% WoW (prev: 7.0), (n=7)
+55.0 Resting heart rate(count/min) 11.3% WoW (prev: 49.0), (n=7)
+7217.0 Step count(count) -5.9% WoW (prev: 7669.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-02-21
+7 days of tracked health for W 2022-02-21
+610.0 Active energy burned(Cal) 13.4% WoW (prev: 538.0), (n=7)
+1870.0 Basal energy burned(Cal) 0.1% WoW (prev: 1868.0), (n=7)
+50.0 Exercise time(min) 10.8% WoW (prev: 45.0), (n=7)
+5.0 Flights climbed(count) -27.3% WoW (prev: 6.0), (n=7)
+52.0 Resting heart rate(count/min) -4.6% WoW (prev: 55.0), (n=7)
+5429.0 Step count(count) -24.8% WoW (prev: 7217.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-02-28
+7 days of tracked health for W 2022-02-28
+669.0 Active energy burned(Cal) 9.6% WoW (prev: 610.0), (n=7)
+1872.0 Basal energy burned(Cal) 0.1% WoW (prev: 1870.0), (n=7)
+72.0 Exercise time(min) 44.9% WoW (prev: 50.0), (n=7)
+6.0 Flights climbed(count) 26.9% WoW (prev: 5.0), (n=6)
+49.0 Resting heart rate(count/min) -6.2% WoW (prev: 52.0), (n=7)
+6394.0 Step count(count) 17.8% WoW (prev: 5429.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-03-07
+7 days of tracked health for W 2022-03-07
+874.0 Active energy burned(Cal) 30.7% WoW (prev: 669.0), (n=7)
+1858.0 Basal energy burned(Cal) -0.7% WoW (prev: 1872.0), (n=7)
+106.0 Exercise time(min) 46.5% WoW (prev: 72.0), (n=7)
+9.0 Flights climbed(count) 62.5% WoW (prev: 6.0), (n=7)
+51.0 Resting heart rate(count/min) 3.2% WoW (prev: 49.0), (n=7)
+9162.0 Step count(count) 43.3% WoW (prev: 6394.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-03-14
+7 days of tracked health for W 2022-03-14
+524.0 Active energy burned(Cal) -40.0% WoW (prev: 874.0), (n=7)
+1880.0 Basal energy burned(Cal) 1.2% WoW (prev: 1858.0), (n=7)
+45.0 Exercise time(min) -57.6% WoW (prev: 106.0), (n=7)
+4.0 Flights climbed(count) -56.0% WoW (prev: 9.0), (n=7)
+58.0 Resting heart rate(count/min) 14.7% WoW (prev: 51.0), (n=7)
+6637.0 Step count(count) -27.6% WoW (prev: 9162.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-03-21
+7 days of tracked health for W 2022-03-21
+435.0 Active energy burned(Cal) -17.1% WoW (prev: 524.0), (n=7)
+1865.0 Basal energy burned(Cal) -0.8% WoW (prev: 1880.0), (n=7)
+29.0 Exercise time(min) -36.2% WoW (prev: 45.0), (n=7)
+4.0 Flights climbed(count) -3.6% WoW (prev: 4.0), (n=7)
+50.0 Resting heart rate(count/min) -13.1% WoW (prev: 58.0), (n=7)
+5537.0 Step count(count) -16.6% WoW (prev: 6637.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-03-28
+7 days of tracked health for W 2022-03-28
+391.0 Active energy burned(Cal) -10.0% WoW (prev: 435.0), (n=7)
+1847.0 Basal energy burned(Cal) -1.0% WoW (prev: 1865.0), (n=7)
+30.0 Exercise time(min) 5.5% WoW (prev: 29.0), (n=7)
+3.0 Flights climbed(count) -35.7% WoW (prev: 4.0), (n=7)
+58.0 Resting heart rate(count/min) 14.2% WoW (prev: 50.0), (n=7)
+5330.0 Step count(count) -3.7% WoW (prev: 5537.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-04-04
+7 days of tracked health for W 2022-04-04
+620.0 Active energy burned(Cal) 58.7% WoW (prev: 391.0), (n=7)
+1862.0 Basal energy burned(Cal) 0.8% WoW (prev: 1847.0), (n=7)
+71.0 Exercise time(min) 135.4% WoW (prev: 30.0), (n=7)
+6.0 Flights climbed(count) 144.4% WoW (prev: 3.0), (n=7)
+61.0 Resting heart rate(count/min) 6.2% WoW (prev: 58.0), (n=7)
+7977.0 Step count(count) 49.7% WoW (prev: 5330.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-04-11
+7 days of tracked health for W 2022-04-11
+661.0 Active energy burned(Cal) 6.5% WoW (prev: 620.0), (n=7)
+1880.0 Basal energy burned(Cal) 0.9% WoW (prev: 1862.0), (n=7)
+70.0 Exercise time(min) -1.4% WoW (prev: 71.0), (n=7)
+5.0 Flights climbed(count) -27.3% WoW (prev: 6.0), (n=7)
+54.0 Resting heart rate(count/min) -11.4% WoW (prev: 61.0), (n=7)
+7706.0 Step count(count) -3.4% WoW (prev: 7977.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-04-18
+7 days of tracked health for W 2022-04-18
+490.0 Active energy burned(Cal) -25.8% WoW (prev: 661.0), (n=7)
+1873.0 Basal energy burned(Cal) -0.4% WoW (prev: 1880.0), (n=7)
+40.0 Exercise time(min) -42.9% WoW (prev: 70.0), (n=6)
+8.0 Flights climbed(count) 64.1% WoW (prev: 5.0), (n=6)
+57.0 Resting heart rate(count/min) 5.0% WoW (prev: 54.0), (n=7)
+7209.0 Step count(count) -6.4% WoW (prev: 7706.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-04-25
+7 days of tracked health for W 2022-04-25
+655.0 Active energy burned(Cal) 33.6% WoW (prev: 490.0), (n=7)
+1867.0 Basal energy burned(Cal) -0.3% WoW (prev: 1873.0), (n=7)
+77.0 Exercise time(min) 92.8% WoW (prev: 40.0), (n=7)
+4.0 Flights climbed(count) -45.0% WoW (prev: 8.0), (n=7)
+56.0 Resting heart rate(count/min) -2.3% WoW (prev: 57.0), (n=7)
+6381.0 Step count(count) -11.5% WoW (prev: 7209.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-05-02
+7 days of tracked health for W 2022-05-02
+663.0 Active energy burned(Cal) 1.3% WoW (prev: 655.0), (n=7)
+1890.0 Basal energy burned(Cal) 1.2% WoW (prev: 1867.0), (n=7)
+62.0 Exercise time(min) -20.3% WoW (prev: 77.0), (n=7)
+6.0 Flights climbed(count) 35.1% WoW (prev: 4.0), (n=7)
+60.0 Resting heart rate(count/min) 8.8% WoW (prev: 56.0), (n=7)
+7945.0 Step count(count) 24.5% WoW (prev: 6381.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-05-09
+7 days of tracked health for W 2022-05-09
+741.0 Active energy burned(Cal) 11.7% WoW (prev: 663.0), (n=7)
+1697.0 Basal energy burned(Cal) -10.2% WoW (prev: 1890.0), (n=6)
+72.0 Exercise time(min) 17.2% WoW (prev: 62.0), (n=6)
+10.0 Flights climbed(count) 85.0% WoW (prev: 6.0), (n=7)
+63.0 Resting heart rate(count/min) 5.0% WoW (prev: 60.0), (n=6)
+11030.0 Step count(count) 38.8% WoW (prev: 7945.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-05-16
+7 days of tracked health for W 2022-05-16
+841.0 Active energy burned(Cal) 13.6% WoW (prev: 741.0), (n=7)
+1897.0 Basal energy burned(Cal) 11.8% WoW (prev: 1697.0), (n=7)
+101.0 Exercise time(min) 40.2% WoW (prev: 72.0), (n=7)
+6.0 Flights climbed(count) -42.3% WoW (prev: 10.0), (n=7)
+64.0 Resting heart rate(count/min) 0.3% WoW (prev: 63.0), (n=7)
+10104.0 Step count(count) -8.4% WoW (prev: 11030.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-05-23
+7 days of tracked health for W 2022-05-23
+624.0 Active energy burned(Cal) -25.9% WoW (prev: 841.0), (n=7)
+1871.0 Basal energy burned(Cal) -1.4% WoW (prev: 1897.0), (n=7)
+55.0 Exercise time(min) -46.1% WoW (prev: 101.0), (n=7)
+7.0 Flights climbed(count) 17.6% WoW (prev: 6.0), (n=7)
+57.0 Resting heart rate(count/min) -10.6% WoW (prev: 64.0), (n=7)
+6506.0 Step count(count) -35.6% WoW (prev: 10104.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-05-30
+7 days of tracked health for W 2022-05-30
+572.0 Active energy burned(Cal) -8.3% WoW (prev: 624.0), (n=7)
+1867.0 Basal energy burned(Cal) -0.2% WoW (prev: 1871.0), (n=7)
+47.0 Exercise time(min) -14.4% WoW (prev: 55.0), (n=7)
+3.0 Flights climbed(count) -53.1% WoW (prev: 7.0), (n=7)
+62.0 Resting heart rate(count/min) 9.8% WoW (prev: 57.0), (n=7)
+7539.0 Step count(count) 15.9% WoW (prev: 6506.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-06-06
+7 days of tracked health for W 2022-06-06
+620.0 Active energy burned(Cal) 8.4% WoW (prev: 572.0), (n=7)
+1858.0 Basal energy burned(Cal) -0.5% WoW (prev: 1867.0), (n=7)
+62.0 Exercise time(min) 33.2% WoW (prev: 47.0), (n=7)
+4.0 Flights climbed(count) 21.7% WoW (prev: 3.0), (n=7)
+60.0 Resting heart rate(count/min) -4.6% WoW (prev: 62.0), (n=7)
+7158.0 Step count(count) -5.1% WoW (prev: 7539.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-06-13
+7 days of tracked health for W 2022-06-13
+549.0 Active energy burned(Cal) -11.4% WoW (prev: 620.0), (n=7)
+1773.0 Basal energy burned(Cal) -4.6% WoW (prev: 1858.0), (n=5)
+26.0 Exercise time(min) -59.0% WoW (prev: 62.0), (n=5)
+5.0 Flights climbed(count) 35.7% WoW (prev: 4.0), (n=7)
+60.0 Resting heart rate(count/min) 1.3% WoW (prev: 60.0), (n=5)
+6925.0 Step count(count) -3.3% WoW (prev: 7158.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-06-20
+7 days of tracked health for W 2022-06-20
+720.0 Active energy burned(Cal) 31.1% WoW (prev: 549.0), (n=7)
+1694.0 Basal energy burned(Cal) -4.5% WoW (prev: 1773.0), (n=7)
+73.0 Exercise time(min) 184.5% WoW (prev: 26.0), (n=6)
+10.0 Flights climbed(count) 84.2% WoW (prev: 5.0), (n=5)
+63.0 Resting heart rate(count/min) 3.7% WoW (prev: 60.0), (n=7)
+8935.0 Step count(count) 29.0% WoW (prev: 6925.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-06-27
+7 days of tracked health for W 2022-06-27
+779.0 Active energy burned(Cal) 8.2% WoW (prev: 720.0), (n=7)
+1898.0 Basal energy burned(Cal) 12.1% WoW (prev: 1694.0), (n=7)
+89.0 Exercise time(min) 22.2% WoW (prev: 73.0), (n=7)
+11.0 Flights climbed(count) 10.0% WoW (prev: 10.0), (n=6)
+61.0 Resting heart rate(count/min) -2.9% WoW (prev: 63.0), (n=7)
+11465.0 Step count(count) 28.3% WoW (prev: 8935.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-07-04
+7 days of tracked health for W 2022-07-04
+520.0 Active energy burned(Cal) -33.3% WoW (prev: 779.0), (n=7)
+1806.0 Basal energy burned(Cal) -4.9% WoW (prev: 1898.0), (n=7)
+21.0 Exercise time(min) -76.1% WoW (prev: 89.0), (n=7)
+12.0 Flights climbed(count) 7.5% WoW (prev: 11.0), (n=7)
+62.0 Resting heart rate(count/min) 1.7% WoW (prev: 61.0), (n=6)
+7876.0 Step count(count) -31.3% WoW (prev: 11465.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-07-11
+7 days of tracked health for W 2022-07-11
+639.0 Active energy burned(Cal) 22.9% WoW (prev: 520.0), (n=7)
+1901.0 Basal energy burned(Cal) 5.2% WoW (prev: 1806.0), (n=7)
+53.0 Exercise time(min) 149.7% WoW (prev: 21.0), (n=7)
+6.0 Flights climbed(count) -45.0% WoW (prev: 12.0), (n=6)
+60.0 Resting heart rate(count/min) -3.0% WoW (prev: 62.0), (n=7)
+8671.0 Step count(count) 10.1% WoW (prev: 7876.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-07-18
+7 days of tracked health for W 2022-07-18
+819.0 Active energy burned(Cal) 28.2% WoW (prev: 639.0), (n=7)
+1882.0 Basal energy burned(Cal) -1.0% WoW (prev: 1901.0), (n=7)
+88.0 Exercise time(min) 66.4% WoW (prev: 53.0), (n=7)
+6.0 Flights climbed(count) -1.1% WoW (prev: 6.0), (n=7)
+60.0 Resting heart rate(count/min) 0.2% WoW (prev: 60.0), (n=7)
+7959.0 Step count(count) -8.2% WoW (prev: 8671.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-07-25
+7 days of tracked health for W 2022-07-25
+982.0 Active energy burned(Cal) 20.0% WoW (prev: 819.0), (n=7)
+1901.0 Basal energy burned(Cal) 1.0% WoW (prev: 1882.0), (n=7)
+91.0 Exercise time(min) 2.7% WoW (prev: 88.0), (n=7)
+7.0 Flights climbed(count) 2.2% WoW (prev: 6.0), (n=7)
+61.0 Resting heart rate(count/min) 2.1% WoW (prev: 60.0), (n=7)
+13584.0 Step count(count) 70.7% WoW (prev: 7959.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-08-01
+7 days of tracked health for W 2022-08-01
+573.0 Active energy burned(Cal) -41.6% WoW (prev: 982.0), (n=7)
+1873.0 Basal energy burned(Cal) -1.5% WoW (prev: 1901.0), (n=7)
+38.0 Exercise time(min) -58.3% WoW (prev: 91.0), (n=7)
+7.0 Flights climbed(count) 3.5% WoW (prev: 7.0), (n=5)
+58.0 Resting heart rate(count/min) -5.3% WoW (prev: 61.0), (n=7)
+7074.0 Step count(count) -47.9% WoW (prev: 13584.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-08-08
+7 days of tracked health for W 2022-08-08
+832.0 Active energy burned(Cal) 45.1% WoW (prev: 573.0), (n=7)
+1885.0 Basal energy burned(Cal) 0.7% WoW (prev: 1873.0), (n=7)
+79.0 Exercise time(min) 107.9% WoW (prev: 38.0), (n=7)
+9.0 Flights climbed(count) 38.2% WoW (prev: 7.0), (n=5)
+57.0 Resting heart rate(count/min) -1.2% WoW (prev: 58.0), (n=7)
+8510.0 Step count(count) 20.3% WoW (prev: 7074.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-08-15
+7 days of tracked health for W 2022-08-15
+716.0 Active energy burned(Cal) -13.9% WoW (prev: 832.0), (n=7)
+1913.0 Basal energy burned(Cal) 1.5% WoW (prev: 1885.0), (n=7)
+44.0 Exercise time(min) -44.1% WoW (prev: 79.0), (n=7)
+12.0 Flights climbed(count) 24.6% WoW (prev: 9.0), (n=7)
+58.0 Resting heart rate(count/min) 0.7% WoW (prev: 57.0), (n=6)
+11129.0 Step count(count) 30.8% WoW (prev: 8510.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-08-22
+7 days of tracked health for W 2022-08-22
+797.0 Active energy burned(Cal) 11.3% WoW (prev: 716.0), (n=7)
+1880.0 Basal energy burned(Cal) -1.8% WoW (prev: 1913.0), (n=7)
+88.0 Exercise time(min) 100.0% WoW (prev: 44.0), (n=7)
+10.0 Flights climbed(count) -17.1% WoW (prev: 12.0), (n=7)
+58.0 Resting heart rate(count/min) -0.2% WoW (prev: 58.0), (n=7)
+10882.0 Step count(count) -2.2% WoW (prev: 11129.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-08-29
+7 days of tracked health for W 2022-08-29
+823.0 Active energy burned(Cal) 3.2% WoW (prev: 797.0), (n=7)
+1896.0 Basal energy burned(Cal) 0.9% WoW (prev: 1880.0), (n=7)
+79.0 Exercise time(min) -10.6% WoW (prev: 88.0), (n=7)
+13.0 Flights climbed(count) 34.9% WoW (prev: 10.0), (n=7)
+61.0 Resting heart rate(count/min) 5.0% WoW (prev: 58.0), (n=7)
+10824.0 Step count(count) -0.5% WoW (prev: 10882.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-09-05
+7 days of tracked health for W 2022-09-05
+657.0 Active energy burned(Cal) -20.2% WoW (prev: 823.0), (n=7)
+1878.0 Basal energy burned(Cal) -1.0% WoW (prev: 1896.0), (n=7)
+55.0 Exercise time(min) -30.1% WoW (prev: 79.0), (n=7)
+10.0 Flights climbed(count) -19.9% WoW (prev: 13.0), (n=6)
+59.0 Resting heart rate(count/min) -2.8% WoW (prev: 61.0), (n=7)
+8463.0 Step count(count) -21.8% WoW (prev: 10824.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-09-12
+7 days of tracked health for W 2022-09-12
+882.0 Active energy burned(Cal) 34.4% WoW (prev: 657.0), (n=7)
+1894.0 Basal energy burned(Cal) 0.9% WoW (prev: 1878.0), (n=7)
+81.0 Exercise time(min) 47.3% WoW (prev: 55.0), (n=7)
+14.0 Flights climbed(count) 37.4% WoW (prev: 10.0), (n=7)
+60.0 Resting heart rate(count/min) 1.7% WoW (prev: 59.0), (n=7)
+9619.0 Step count(count) 13.7% WoW (prev: 8463.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-09-19
+7 days of tracked health for W 2022-09-19
+897.0 Active energy burned(Cal) 1.6% WoW (prev: 882.0), (n=7)
+1909.0 Basal energy burned(Cal) 0.8% WoW (prev: 1894.0), (n=7)
+86.0 Exercise time(min) 5.6% WoW (prev: 81.0), (n=7)
+16.0 Flights climbed(count) 11.9% WoW (prev: 14.0), (n=7)
+58.0 Resting heart rate(count/min) -3.6% WoW (prev: 60.0), (n=7)
+8533.0 Step count(count) -11.3% WoW (prev: 9619.0), (n=7)
+nan VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=0)
+nan Mindfulness(min) nan% WoW (prev: nan), (n=0)
+health W 2022-09-26
+7 days of tracked health for W 2022-09-26
+595.0 Active energy burned(Cal) -33.7% WoW (prev: 897.0), (n=7)
+1875.0 Basal energy burned(Cal) -1.7% WoW (prev: 1909.0), (n=7)
+41.0 Exercise time(min) -51.8% WoW (prev: 86.0), (n=7)
+9.0 Flights climbed(count) -44.2% WoW (prev: 16.0), (n=7)
+59.0 Resting heart rate(count/min) 1.5% WoW (prev: 58.0), (n=7)
+7453.0 Step count(count) -12.7% WoW (prev: 8533.0), (n=7)
+52.19 VO2 Max(mL/min·kg) nan% WoW (prev: nan), (n=1)
+0.0 Mindfulness(min) nan% WoW (prev: nan), (n=1)
+health W 2022-10-03
+7 days of tracked health for W 2022-10-03
+734.0 Active energy burned(Cal) 23.5% WoW (prev: 595.0), (n=7)
+1899.0 Basal energy burned(Cal) 1.3% WoW (prev: 1875.0), (n=7)
+71.0 Exercise time(min) 72.0% WoW (prev: 41.0), (n=7)
+12.0 Flights climbed(count) 31.7% WoW (prev: 9.0), (n=7)
+62.0 Resting heart rate(count/min) 5.9% WoW (prev: 59.0), (n=7)
+7720.0 Step count(count) 3.6% WoW (prev: 7453.0), (n=7)
+52.36 VO2 Max(mL/min·kg) 0.3% WoW (prev: 52.19), (n=7)
+7.0 Mindfulness(min) inf% WoW (prev: 0.0), (n=7)
+health W 2022-10-10
+7 days of tracked health for W 2022-10-10
+974.0 Active energy burned(Cal) 32.7% WoW (prev: 734.0), (n=7)
+1908.0 Basal energy burned(Cal) 0.4% WoW (prev: 1899.0), (n=7)
+106.0 Exercise time(min) 49.1% WoW (prev: 71.0), (n=7)
+12.0 Flights climbed(count) -2.4% WoW (prev: 12.0), (n=7)
+59.0 Resting heart rate(count/min) -5.5% WoW (prev: 62.0), (n=7)
+8917.0 Step count(count) 15.5% WoW (prev: 7720.0), (n=7)
+44.73 VO2 Max(mL/min·kg) -14.6% WoW (prev: 52.36), (n=7)
+11.0 Mindfulness(min) 47.9% WoW (prev: 7.0), (n=7)
+health W 2022-10-17
+7 days of tracked health for W 2022-10-17
+822.0 Active energy burned(Cal) -15.7% WoW (prev: 974.0), (n=7)
+1897.0 Basal energy burned(Cal) -0.5% WoW (prev: 1908.0), (n=7)
+85.0 Exercise time(min) -19.3% WoW (prev: 106.0), (n=7)
+10.0 Flights climbed(count) -12.3% WoW (prev: 12.0), (n=7)
+59.0 Resting heart rate(count/min) 1.2% WoW (prev: 59.0), (n=7)
+10198.0 Step count(count) 14.4% WoW (prev: 8917.0), (n=7)
+44.0 VO2 Max(mL/min·kg) -1.6% WoW (prev: 44.73), (n=7)
+9.0 Mindfulness(min) -16.9% WoW (prev: 11.0), (n=7)
+health W 2022-10-24
+7 days of tracked health for W 2022-10-24
+849.0 Active energy burned(Cal) 3.3% WoW (prev: 822.0), (n=7)
+1837.0 Basal energy burned(Cal) -3.2% WoW (prev: 1897.0), (n=7)
+77.0 Exercise time(min) -10.0% WoW (prev: 85.0), (n=7)
+11.0 Flights climbed(count) 10.4% WoW (prev: 10.0), (n=5)
+58.0 Resting heart rate(count/min) -2.2% WoW (prev: 59.0), (n=7)
+7725.0 Step count(count) -24.2% WoW (prev: 10198.0), (n=7)
+50.79 VO2 Max(mL/min·kg) 15.4% WoW (prev: 44.0), (n=5)
+3.0 Mindfulness(min) -62.7% WoW (prev: 9.0), (n=5)
+health W 2022-10-31
+1 days of tracked health for W 2022-10-31
+574.0 Active energy burned(Cal) -32.4% WoW (prev: 849.0), (n=1)
+1880.0 Basal energy burned(Cal) 2.4% WoW (prev: 1837.0), (n=1)
+51.0 Exercise time(min) -33.6% WoW (prev: 77.0), (n=1)
+7.0 Flights climbed(count) -37.5% WoW (prev: 11.0), (n=1)
+56.0 Resting heart rate(count/min) -3.4% WoW (prev: 58.0), (n=1)
+6796.0 Step count(count) -12.0% WoW (prev: 7725.0), (n=1)
+50.66 VO2 Max(mL/min·kg) -0.3% WoW (prev: 50.79), (n=1)
+12.0 Mindfulness(min) 268.2% WoW (prev: 3.0), (n=1)

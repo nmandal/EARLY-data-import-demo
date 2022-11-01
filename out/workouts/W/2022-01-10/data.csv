@@ -1,0 +1,7 @@
+Date,Active energy burned(Cal),Activity,Duration(s),Heart rate zone: A Easy (<115bpm)(%),Heart rate zone: B Fat Burn (115-135bpm)(%),Heart rate zone: C Moderate Training (135-155bpm)(%),Heart rate zone: D Hard Training (155-175bpm)(%),Heart rate zone: E Extreme Training (>175bpm)(%),Heart rate: Average(count/min),Heart rate: Maximum(count/min),METs Average(kcal/hr·kg)
+2022-01-10 16:26:54,47.954,Functional Strength Training,492.258,1.0,0.0,0.0,0.0,0.0,110.545,110.545,6.248
+2022-01-11 15:01:54,31.587,Functional Strength Training,496.548,1.0,0.0,0.0,0.0,0.0,113.397,113.397,5.446
+2022-01-11 15:31:00,44.493,Functional Strength Training,549.672,0.0,1.0,0.0,0.0,0.0,121.108,121.108,5.933
+2022-01-12 10:19:05,67.495,Functional Strength Training,720.646,1.0,0.0,0.0,0.0,0.0,110.674,110.674,6.154
+2022-01-12 10:35:42,110.817,Traditional Strength Training,924.917,0.5,0.5,0.0,0.0,0.0,119.671,128.271,6.309
+2022-01-14 11:28:16,45.944,Functional Strength Training,487.556,0.0,1.0,0.0,0.0,0.0,118.186,118.186,6.177

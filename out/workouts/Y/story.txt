@@ -1,0 +1,252 @@
+workouts Y 2018-07-28
+19 tracked workouts for Y 2018-07-28
+1 bouts of Other for 0 hours 19 minutes. Avg calories: 104, METs: 0.0, Avg HR: 113, Max HR: 115.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+6 bouts of Walking for 1 hours 50 minutes. Avg calories: 69, METs: 0.0, Avg HR: 97, Max HR: 110.
+                                          0.95 zone 1, 0.05 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Walking (Indoor) for 0 hours 36 minutes. Avg calories: 81, METs: 0.0, Avg HR: 101, Max HR: 103.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+7 bouts of Running (Indoor) for 2 hours 32 minutes. Avg calories: 271, METs: 0.0, Avg HR: 177, Max HR: 181.
+                                          0.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.27 zone 4, 0.73 zone 5
+2 bouts of Running for 1 hours 3 minutes. Avg calories: 347, METs: 0.0, Avg HR: 169, Max HR: 177.
+                                          0.01 zone 1, 0.0 zone 2, 0.17 zone 3, 0.35 zone 4, 0.48 zone 5
+1 bouts of HIIT for 0 hours 12 minutes. Avg calories: 95, METs: 0.0, Avg HR: 145, Max HR: 145.
+                                          0.0 zone 1, 0.0 zone 2, 1.0 zone 3, 0.0 zone 4, 0.0 zone 5
+9 bouts of Cycling for 2 hours 16 minutes. Avg calories: 74, METs: 51.23, Avg HR: 133, Max HR: 157.
+                                          0.12 zone 1, 0.44 zone 2, 0.36 zone 3, 0.08 zone 4, 0.0 zone 5
+7 bouts of Cycling (Indoor) for 4 hours 58 minutes. Avg calories: 507, METs: 51.47, Avg HR: 142, Max HR: 156.
+                                          0.02 zone 1, 0.14 zone 2, 0.76 zone 3, 0.06 zone 4, 0.03 zone 5
+1 bouts of Rowing for 0 hours 10 minutes. Avg calories: 76, METs: 7.37, Avg HR: 135, Max HR: 139.
+                                          0.0 zone 1, 0.2 zone 2, 0.8 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Swimming for 0 hours 30 minutes. Avg calories: 192, METs: 24.29, Avg HR: 122, Max HR: 145.
+                                          0.44 zone 1, 0.04 zone 2, 0.52 zone 3, 0.0 zone 4, 0.0 zone 5
+13 bouts of Functional Strength Training (Indoor) for 2 hours 2 minutes. Avg calories: 57, METs: 0.0, Avg HR: 103, Max HR: 122.
+                                          0.76 zone 1, 0.22 zone 2, 0.02 zone 3, 0.01 zone 4, 0.0 zone 5
+9 bouts of Yoga for 3 hours 36 minutes. Avg calories: 115, METs: 46.85, Avg HR: 83, Max HR: 113.
+                                          0.99 zone 1, 0.01 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+8 bouts of Yoga (Indoor) for 2 hours 51 minutes. Avg calories: 94, METs: 0.0, Avg HR: 84, Max HR: 116.
+                                          0.98 zone 1, 0.01 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+4 bouts of Functional Strength Training for 0 hours 52 minutes. Avg calories: 90, METs: 28.21, Avg HR: 117, Max HR: 150.
+                                          0.43 zone 1, 0.43 zone 2, 0.12 zone 3, 0.02 zone 4, 0.0 zone 5
+12 bouts of Traditional Strength Training for 10 hours 50 minutes. Avg calories: 377, METs: 63.8, Avg HR: 112, Max HR: 156.
+                                          0.53 zone 1, 0.34 zone 2, 0.12 zone 3, 0.01 zone 4, 0.0 zone 5
+1 bouts of Core Training for 0 hours 7 minutes. Avg calories: 39, METs: 5.77, Avg HR: 114, Max HR: 114.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Other (Indoor) for 0 hours 20 minutes. Avg calories: 39, METs: 3.33, Avg HR: 69, Max HR: 90.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Barre for 0 hours 40 minutes. Avg calories: 113, METs: 8.97, Avg HR: 113, Max HR: 116.
+                                          0.5 zone 1, 0.5 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+3 bouts of Cooldown for 0 hours 29 minutes. Avg calories: 61, METs: 21.4, Avg HR: 103, Max HR: 121.
+                                          0.93 zone 1, 0.07 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Pilates for 0 hours 32 minutes. Avg calories: 74, METs: 9.99, Avg HR: 97, Max HR: 120.
+                                          0.94 zone 1, 0.06 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+1 bouts of Tai Chi for 1 hours 6 minutes. Avg calories: 285, METs: 4.97, Avg HR: 102, Max HR: 112.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Jump Rope for 0 hours 19 minutes. Avg calories: 103, METs: 20.05, Avg HR: 143, Max HR: 162.
+                                          0.04 zone 1, 0.1 zone 2, 0.74 zone 3, 0.12 zone 4, 0.0 zone 5
+1 bouts of Golf for 0 hours 30 minutes. Avg calories: 126, METs: 2.62, Avg HR: 93, Max HR: 137.
+                                          0.95 zone 1, 0.04 zone 2, 0.01 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Tennis for 2 hours 46 minutes. Avg calories: 676, METs: 16.41, Avg HR: 140, Max HR: 171.
+                                          0.04 zone 1, 0.33 zone 2, 0.51 zone 3, 0.12 zone 4, 0.0 zone 5
+workouts Y 2019-01-17
+80 tracked workouts for Y 2019-01-17
+1 bouts of Other for 0 hours 19 minutes. Avg calories: 104, METs: 0.0, Avg HR: 113, Max HR: 115.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+51 bouts of Walking for 19 hours 32 minutes. Avg calories: 111, METs: 0.0, Avg HR: 97, Max HR: 103.
+                                          0.98 zone 1, 0.02 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+1 bouts of Walking (Indoor) for 0 hours 15 minutes. Avg calories: 20, METs: 0.0, Avg HR: 80, Max HR: 85.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+9 bouts of Running (Indoor) for 2 hours 19 minutes. Avg calories: 179, METs: 0.0, Avg HR: 166, Max HR: 170.
+                                          0.0 zone 1, 0.0 zone 2, 0.28 zone 3, 0.52 zone 4, 0.2 zone 5
+5 bouts of Running for 0 hours 48 minutes. Avg calories: 132, METs: 0.0, Avg HR: 170, Max HR: 174.
+                                          0.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.69 zone 4, 0.31 zone 5
+1 bouts of HIIT for 0 hours 12 minutes. Avg calories: 95, METs: 0.0, Avg HR: 145, Max HR: 145.
+                                          0.0 zone 1, 0.0 zone 2, 1.0 zone 3, 0.0 zone 4, 0.0 zone 5
+1 bouts of Cycling for 0 hours 8 minutes. Avg calories: 84, METs: 0.0, Avg HR: 169, Max HR: 169.
+                                          0.0 zone 1, 0.0 zone 2, 0.0 zone 3, 1.0 zone 4, 0.0 zone 5
+9 bouts of Cycling (Indoor) for 4 hours 33 minutes. Avg calories: 320, METs: 0.0, Avg HR: 130, Max HR: 154.
+                                          0.18 zone 1, 0.48 zone 2, 0.15 zone 3, 0.18 zone 4, 0.0 zone 5
+4 bouts of Rowing for 0 hours 20 minutes. Avg calories: 30, METs: 0.0, Avg HR: 134, Max HR: 136.
+                                          0.0 zone 1, 0.38 zone 2, 0.62 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Swimming for 0 hours 30 minutes. Avg calories: 192, METs: 24.29, Avg HR: 122, Max HR: 145.
+                                          0.44 zone 1, 0.04 zone 2, 0.52 zone 3, 0.0 zone 4, 0.0 zone 5
+13 bouts of Functional Strength Training (Indoor) for 2 hours 2 minutes. Avg calories: 57, METs: 0.0, Avg HR: 103, Max HR: 122.
+                                          0.76 zone 1, 0.22 zone 2, 0.02 zone 3, 0.01 zone 4, 0.0 zone 5
+9 bouts of Yoga for 3 hours 36 minutes. Avg calories: 115, METs: 46.85, Avg HR: 83, Max HR: 113.
+                                          0.99 zone 1, 0.01 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+8 bouts of Yoga (Indoor) for 2 hours 51 minutes. Avg calories: 94, METs: 0.0, Avg HR: 84, Max HR: 116.
+                                          0.98 zone 1, 0.01 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+4 bouts of Functional Strength Training for 0 hours 52 minutes. Avg calories: 90, METs: 28.21, Avg HR: 117, Max HR: 150.
+                                          0.43 zone 1, 0.43 zone 2, 0.12 zone 3, 0.02 zone 4, 0.0 zone 5
+12 bouts of Traditional Strength Training for 10 hours 50 minutes. Avg calories: 377, METs: 63.8, Avg HR: 112, Max HR: 156.
+                                          0.53 zone 1, 0.34 zone 2, 0.12 zone 3, 0.01 zone 4, 0.0 zone 5
+1 bouts of Core Training for 0 hours 7 minutes. Avg calories: 39, METs: 5.77, Avg HR: 114, Max HR: 114.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Other (Indoor) for 0 hours 20 minutes. Avg calories: 39, METs: 3.33, Avg HR: 69, Max HR: 90.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Barre for 0 hours 40 minutes. Avg calories: 113, METs: 8.97, Avg HR: 113, Max HR: 116.
+                                          0.5 zone 1, 0.5 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+3 bouts of Cooldown for 0 hours 29 minutes. Avg calories: 61, METs: 21.4, Avg HR: 103, Max HR: 121.
+                                          0.93 zone 1, 0.07 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Pilates for 0 hours 32 minutes. Avg calories: 74, METs: 9.99, Avg HR: 97, Max HR: 120.
+                                          0.94 zone 1, 0.06 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+1 bouts of Tai Chi for 1 hours 6 minutes. Avg calories: 285, METs: 4.97, Avg HR: 102, Max HR: 112.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Jump Rope for 0 hours 19 minutes. Avg calories: 103, METs: 20.05, Avg HR: 143, Max HR: 162.
+                                          0.04 zone 1, 0.1 zone 2, 0.74 zone 3, 0.12 zone 4, 0.0 zone 5
+1 bouts of Golf for 0 hours 30 minutes. Avg calories: 126, METs: 2.62, Avg HR: 93, Max HR: 137.
+                                          0.95 zone 1, 0.04 zone 2, 0.01 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Tennis for 2 hours 46 minutes. Avg calories: 676, METs: 16.41, Avg HR: 140, Max HR: 171.
+                                          0.04 zone 1, 0.33 zone 2, 0.51 zone 3, 0.12 zone 4, 0.0 zone 5
+workouts Y 2020-01-20
+499 tracked workouts for Y 2020-01-20
+1 bouts of Other for 0 hours 19 minutes. Avg calories: 104, METs: 0.0, Avg HR: 113, Max HR: 115.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+166 bouts of Walking for 87 hours 38 minutes. Avg calories: 146, METs: 900.69, Avg HR: 98, Max HR: 105.
+                                          0.93 zone 1, 0.04 zone 2, 0.02 zone 3, 0.0 zone 4, 0.0 zone 5
+9 bouts of Walking (Indoor) for 3 hours 14 minutes. Avg calories: 180, METs: 78.75, Avg HR: 139, Max HR: 146.
+                                          0.12 zone 1, 0.18 zone 2, 0.65 zone 3, 0.06 zone 4, 0.0 zone 5
+7 bouts of Running (Indoor) for 0 hours 43 minutes. Avg calories: 78, METs: 46.17, Avg HR: 144, Max HR: 144.
+                                          0.17 zone 1, 0.17 zone 2, 0.33 zone 3, 0.33 zone 4, 0.0 zone 5
+17 bouts of Running for 2 hours 18 minutes. Avg calories: 105, METs: 200.75, Avg HR: 157, Max HR: 165.
+                                          0.12 zone 1, 0.03 zone 2, 0.2 zone 3, 0.49 zone 4, 0.16 zone 5
+24 bouts of HIIT for 10 hours 3 minutes. Avg calories: 236, METs: 229.21, Avg HR: 140, Max HR: 150.
+                                          0.08 zone 1, 0.34 zone 2, 0.27 zone 3, 0.27 zone 4, 0.04 zone 5
+62 bouts of Cycling for 12 hours 14 minutes. Avg calories: 67, METs: 433.19, Avg HR: 144, Max HR: 146.
+                                          0.02 zone 1, 0.21 zone 2, 0.57 zone 3, 0.21 zone 4, 0.0 zone 5
+21 bouts of Cycling (Indoor) for 7 hours 50 minutes. Avg calories: 225, METs: 98.96, Avg HR: 141, Max HR: 155.
+                                          0.09 zone 1, 0.27 zone 2, 0.34 zone 3, 0.29 zone 4, 0.02 zone 5
+25 bouts of Rowing for 2 hours 51 minutes. Avg calories: 56, METs: 207.13, Avg HR: 136, Max HR: 139.
+                                          0.06 zone 1, 0.35 zone 2, 0.5 zone 3, 0.08 zone 4, 0.0 zone 5
+1 bouts of Swimming for 0 hours 5 minutes. Avg calories: 70, METs: 0.0, Avg HR: 123, Max HR: 132.
+                                          0.29 zone 1, 0.71 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+50 bouts of Functional Strength Training (Indoor) for 18 hours 19 minutes. Avg calories: 114, METs: 0.0, Avg HR: 126, Max HR: 136.
+                                          0.39 zone 1, 0.24 zone 2, 0.23 zone 3, 0.13 zone 4, 0.01 zone 5
+4 bouts of Preparation and Recovery (Indoor) for 0 hours 40 minutes. Avg calories: 32, METs: 0.0, Avg HR: 87, Max HR: 95.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+40 bouts of Yoga for 13 hours 55 minutes. Avg calories: 100, METs: 211.54, Avg HR: 100, Max HR: 105.
+                                          0.82 zone 1, 0.11 zone 2, 0.06 zone 3, 0.0 zone 4, 0.0 zone 5
+38 bouts of Yoga (Indoor) for 12 hours 12 minutes. Avg calories: 72, METs: 0.0, Avg HR: 92, Max HR: 99.
+                                          0.95 zone 1, 0.05 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+22 bouts of Functional Strength Training for 6 hours 8 minutes. Avg calories: 90, METs: 134.69, Avg HR: 123, Max HR: 128.
+                                          0.33 zone 1, 0.36 zone 2, 0.25 zone 3, 0.05 zone 4, 0.0 zone 5
+12 bouts of Traditional Strength Training for 6 hours 5 minutes. Avg calories: 257, METs: 93.69, Avg HR: 132, Max HR: 139.
+                                          0.1 zone 1, 0.45 zone 2, 0.44 zone 3, 0.02 zone 4, 0.0 zone 5
+1 bouts of Core Training for 0 hours 7 minutes. Avg calories: 39, METs: 5.77, Avg HR: 114, Max HR: 114.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Other (Indoor) for 0 hours 20 minutes. Avg calories: 39, METs: 3.33, Avg HR: 69, Max HR: 90.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Barre for 0 hours 40 minutes. Avg calories: 113, METs: 8.97, Avg HR: 113, Max HR: 116.
+                                          0.5 zone 1, 0.5 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+3 bouts of Cooldown for 0 hours 29 minutes. Avg calories: 61, METs: 21.4, Avg HR: 103, Max HR: 121.
+                                          0.93 zone 1, 0.07 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Pilates for 0 hours 32 minutes. Avg calories: 74, METs: 9.99, Avg HR: 97, Max HR: 120.
+                                          0.94 zone 1, 0.06 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+1 bouts of Tai Chi for 1 hours 6 minutes. Avg calories: 285, METs: 4.97, Avg HR: 102, Max HR: 112.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Jump Rope for 0 hours 19 minutes. Avg calories: 103, METs: 20.05, Avg HR: 143, Max HR: 162.
+                                          0.04 zone 1, 0.1 zone 2, 0.74 zone 3, 0.12 zone 4, 0.0 zone 5
+1 bouts of Golf for 0 hours 30 minutes. Avg calories: 126, METs: 2.62, Avg HR: 93, Max HR: 137.
+                                          0.95 zone 1, 0.04 zone 2, 0.01 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Tennis for 2 hours 46 minutes. Avg calories: 676, METs: 16.41, Avg HR: 140, Max HR: 171.
+                                          0.04 zone 1, 0.33 zone 2, 0.51 zone 3, 0.12 zone 4, 0.0 zone 5
+workouts Y 2021-01-03
+1,171 tracked workouts for Y 2021-01-03
+1 bouts of Other for 0 hours 19 minutes. Avg calories: 104, METs: 0.0, Avg HR: 113, Max HR: 115.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+372 bouts of Walking for 132 hours 39 minutes. Avg calories: 89, METs: 1842.71, Avg HR: 94, Max HR: 97.
+                                          0.95 zone 1, 0.04 zone 2, 0.01 zone 3, 0.0 zone 4, 0.0 zone 5
+9 bouts of Walking (Indoor) for 3 hours 14 minutes. Avg calories: 180, METs: 78.75, Avg HR: 139, Max HR: 146.
+                                          0.12 zone 1, 0.18 zone 2, 0.65 zone 3, 0.06 zone 4, 0.0 zone 5
+8 bouts of Running for 1 hours 39 minutes. Avg calories: 112, METs: 94.18, Avg HR: 142, Max HR: 154.
+                                          0.2 zone 1, 0.1 zone 2, 0.35 zone 3, 0.34 zone 4, 0.0 zone 5
+23 bouts of HIIT for 3 hours 24 minutes. Avg calories: 82, METs: 208.67, Avg HR: 135, Max HR: 141.
+                                          0.12 zone 1, 0.29 zone 2, 0.54 zone 3, 0.03 zone 4, 0.03 zone 5
+66 bouts of Cycling for 14 hours 47 minutes. Avg calories: 79, METs: 466.86, Avg HR: 146, Max HR: 150.
+                                          0.04 zone 1, 0.13 zone 2, 0.49 zone 3, 0.33 zone 4, 0.01 zone 5
+176 bouts of Cycling (Indoor) for 142 hours 24 minutes. Avg calories: 342, METs: 816.7, Avg HR: 133, Max HR: 143.
+                                          0.12 zone 1, 0.43 zone 2, 0.35 zone 3, 0.08 zone 4, 0.02 zone 5
+8 bouts of Rowing for 1 hours 26 minutes. Avg calories: 82, METs: 62.9, Avg HR: 126, Max HR: 131.
+                                          0.24 zone 1, 0.38 zone 2, 0.31 zone 3, 0.07 zone 4, 0.0 zone 5
+1 bouts of Swimming for 0 hours 5 minutes. Avg calories: 70, METs: 0.0, Avg HR: 123, Max HR: 132.
+                                          0.29 zone 1, 0.71 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+120 bouts of Functional Strength Training (Indoor) for 33 hours 23 minutes. Avg calories: 94, METs: 0.0, Avg HR: 121, Max HR: 128.
+                                          0.41 zone 1, 0.27 zone 2, 0.22 zone 3, 0.1 zone 4, 0.0 zone 5
+10 bouts of Preparation and Recovery (Indoor) for 1 hours 31 minutes. Avg calories: 28, METs: 0.0, Avg HR: 94, Max HR: 97.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+79 bouts of Yoga for 29 hours 18 minutes. Avg calories: 95, METs: 356.16, Avg HR: 88, Max HR: 92.
+                                          0.95 zone 1, 0.05 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+67 bouts of Yoga (Indoor) for 22 hours 42 minutes. Avg calories: 89, METs: 0.0, Avg HR: 88, Max HR: 92.
+                                          0.99 zone 1, 0.0 zone 2, 0.01 zone 3, 0.0 zone 4, 0.0 zone 5
+111 bouts of Functional Strength Training for 29 hours 9 minutes. Avg calories: 81, METs: 613.89, Avg HR: 110, Max HR: 114.
+                                          0.62 zone 1, 0.26 zone 2, 0.11 zone 3, 0.01 zone 4, 0.0 zone 5
+114 bouts of Traditional Strength Training for 48 hours 59 minutes. Avg calories: 180, METs: 676.45, Avg HR: 121, Max HR: 129.
+                                          0.37 zone 1, 0.41 zone 2, 0.19 zone 3, 0.02 zone 4, 0.0 zone 5
+1 bouts of Core Training for 0 hours 7 minutes. Avg calories: 39, METs: 5.77, Avg HR: 114, Max HR: 114.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Other (Indoor) for 0 hours 20 minutes. Avg calories: 39, METs: 3.33, Avg HR: 69, Max HR: 90.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Barre for 0 hours 40 minutes. Avg calories: 113, METs: 8.97, Avg HR: 113, Max HR: 116.
+                                          0.5 zone 1, 0.5 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+7 bouts of Cooldown for 2 hours 49 minutes. Avg calories: 114, METs: 37.1, Avg HR: 86, Max HR: 91.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+4 bouts of Pilates for 1 hours 35 minutes. Avg calories: 96, METs: 13.48, Avg HR: 90, Max HR: 95.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+1 bouts of Tai Chi for 1 hours 6 minutes. Avg calories: 285, METs: 4.97, Avg HR: 102, Max HR: 112.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Jump Rope for 0 hours 19 minutes. Avg calories: 103, METs: 20.05, Avg HR: 143, Max HR: 162.
+                                          0.04 zone 1, 0.1 zone 2, 0.74 zone 3, 0.12 zone 4, 0.0 zone 5
+1 bouts of Golf for 0 hours 30 minutes. Avg calories: 126, METs: 2.62, Avg HR: 93, Max HR: 137.
+                                          0.95 zone 1, 0.04 zone 2, 0.01 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Tennis for 2 hours 46 minutes. Avg calories: 676, METs: 16.41, Avg HR: 140, Max HR: 171.
+                                          0.04 zone 1, 0.33 zone 2, 0.51 zone 3, 0.12 zone 4, 0.0 zone 5
+workouts Y 2022-01-01
+731 tracked workouts for Y 2022-01-01
+1 bouts of Other for 0 hours 19 minutes. Avg calories: 104, METs: 0.0, Avg HR: 113, Max HR: 115.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+332 bouts of Walking for 120 hours 53 minutes. Avg calories: 93, METs: 1659.59, Avg HR: 96, Max HR: 111.
+                                          0.94 zone 1, 0.05 zone 2, 0.01 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Walking (Indoor) for 0 hours 41 minutes. Avg calories: 73, METs: 8.03, Avg HR: 111, Max HR: 123.
+                                          0.66 zone 1, 0.34 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Running for 0 hours 8 minutes. Avg calories: 57, METs: 27.0, Avg HR: 153, Max HR: 166.
+                                          0.08 zone 1, 0.08 zone 2, 0.44 zone 3, 0.14 zone 4, 0.25 zone 5
+2 bouts of HIIT for 0 hours 47 minutes. Avg calories: 295, METs: 21.84, Avg HR: 148, Max HR: 179.
+                                          0.0 zone 1, 0.39 zone 2, 0.22 zone 3, 0.28 zone 4, 0.1 zone 5
+47 bouts of Cycling for 11 hours 45 minutes. Avg calories: 74, METs: 273.35, Avg HR: 132, Max HR: 147.
+                                          0.14 zone 1, 0.4 zone 2, 0.37 zone 3, 0.08 zone 4, 0.0 zone 5
+56 bouts of Cycling (Indoor) for 32 hours 57 minutes. Avg calories: 399, METs: 315.63, Avg HR: 138, Max HR: 153.
+                                          0.1 zone 1, 0.19 zone 2, 0.57 zone 3, 0.08 zone 4, 0.05 zone 5
+2 bouts of Rowing for 0 hours 21 minutes. Avg calories: 77, METs: 14.37, Avg HR: 130, Max HR: 132.
+                                          0.0 zone 1, 0.6 zone 2, 0.4 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Swimming for 0 hours 30 minutes. Avg calories: 192, METs: 24.29, Avg HR: 122, Max HR: 145.
+                                          0.44 zone 1, 0.04 zone 2, 0.52 zone 3, 0.0 zone 4, 0.0 zone 5
+33 bouts of Functional Strength Training (Indoor) for 6 hours 32 minutes. Avg calories: 66, METs: 0.0, Avg HR: 105, Max HR: 120.
+                                          0.71 zone 1, 0.23 zone 2, 0.06 zone 3, 0.0 zone 4, 0.0 zone 5
+16 bouts of Preparation and Recovery (Indoor) for 2 hours 39 minutes. Avg calories: 29, METs: 0.0, Avg HR: 92, Max HR: 100.
+                                          0.95 zone 1, 0.05 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+31 bouts of Yoga for 11 hours 20 minutes. Avg calories: 104, METs: 152.98, Avg HR: 85, Max HR: 104.
+                                          0.99 zone 1, 0.01 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+32 bouts of Yoga (Indoor) for 10 hours 40 minutes. Avg calories: 87, METs: 0.0, Avg HR: 85, Max HR: 104.
+                                          0.97 zone 1, 0.03 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+111 bouts of Functional Strength Training for 37 hours 8 minutes. Avg calories: 106, METs: 655.01, Avg HR: 108, Max HR: 126.
+                                          0.64 zone 1, 0.26 zone 2, 0.08 zone 3, 0.02 zone 4, 0.0 zone 5
+39 bouts of Traditional Strength Training for 26 hours 44 minutes. Avg calories: 279, METs: 209.99, Avg HR: 115, Max HR: 148.
+                                          0.52 zone 1, 0.34 zone 2, 0.12 zone 3, 0.03 zone 4, 0.0 zone 5
+1 bouts of Core Training for 0 hours 7 minutes. Avg calories: 39, METs: 5.77, Avg HR: 114, Max HR: 114.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Other (Indoor) for 0 hours 20 minutes. Avg calories: 39, METs: 3.33, Avg HR: 69, Max HR: 90.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Barre for 0 hours 40 minutes. Avg calories: 113, METs: 8.97, Avg HR: 113, Max HR: 116.
+                                          0.5 zone 1, 0.5 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+10 bouts of Cooldown for 2 hours 1 minutes. Avg calories: 69, METs: 62.26, Avg HR: 97, Max HR: 106.
+                                          0.98 zone 1, 0.02 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+4 bouts of Pilates for 1 hours 27 minutes. Avg calories: 91, METs: 19.36, Avg HR: 92, Max HR: 109.
+                                          0.97 zone 1, 0.03 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+1 bouts of Tai Chi for 1 hours 6 minutes. Avg calories: 285, METs: 4.97, Avg HR: 102, Max HR: 112.
+                                          1.0 zone 1, 0.0 zone 2, 0.0 zone 3, 0.0 zone 4, 0.0 zone 5
+6 bouts of Jump Rope for 0 hours 41 minutes. Avg calories: 65, METs: 53.21, Avg HR: 130, Max HR: 143.
+                                          0.2 zone 1, 0.27 zone 2, 0.49 zone 3, 0.04 zone 4, 0.0 zone 5
+1 bouts of Golf for 0 hours 30 minutes. Avg calories: 126, METs: 2.62, Avg HR: 93, Max HR: 137.
+                                          0.95 zone 1, 0.04 zone 2, 0.01 zone 3, 0.0 zone 4, 0.0 zone 5
+2 bouts of Tennis for 2 hours 46 minutes. Avg calories: 676, METs: 16.41, Avg HR: 140, Max HR: 171.
+                                          0.04 zone 1, 0.33 zone 2, 0.51 zone 3, 0.12 zone 4, 0.0 zone 5

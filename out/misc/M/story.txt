@@ -1,0 +1,138 @@
+misc M 2019-01-17
+15 tracked misc logs for M 2019-01-17
+155.8 Weight (lb) n/a% MoM (prev: 160.7), (n=15)
+misc M 2019-02-01
+26 tracked misc logs for M 2019-02-01
+155.1 Weight (lb) -0.5% MoM (prev: 155.8), (n=26)
+misc M 2019-03-01
+18 tracked misc logs for M 2019-03-01
+157.5 Weight (lb) 1.6% MoM (prev: 155.1), (n=18)
+misc M 2019-04-01
+25 tracked misc logs for M 2019-04-01
+155.3 Weight (lb) -1.4% MoM (prev: 157.5), (n=25)
+misc M 2019-05-01
+20 tracked misc logs for M 2019-05-01
+155.6 Weight (lb) 0.2% MoM (prev: 155.3), (n=20)
+misc M 2019-06-18
+10 tracked misc logs for M 2019-06-18
+152.4 Weight (lb) -2.0% MoM (prev: 155.6), (n=10)
+misc M 2019-07-01
+29 tracked misc logs for M 2019-07-01
+152.1 Weight (lb) -0.3% MoM (prev: 152.4), (n=29)
+misc M 2019-08-01
+10 tracked misc logs for M 2019-08-01
+153.1 Weight (lb) 0.7% MoM (prev: 152.1), (n=10)
+misc M 2019-09-02
+18 tracked misc logs for M 2019-09-02
+154.6 Weight (lb) 1.0% MoM (prev: 153.1), (n=18)
+misc M 2019-10-01
+5 tracked misc logs for M 2019-10-01
+155.7 Weight (lb) 0.7% MoM (prev: 154.6), (n=5)
+misc M 2019-11-03
+9 tracked misc logs for M 2019-11-03
+159.2 Weight (lb) 2.3% MoM (prev: 155.7), (n=9)
+misc M 2019-12-03
+4 tracked misc logs for M 2019-12-03
+158.8 Weight (lb) -0.3% MoM (prev: 159.2), (n=4)
+misc M 2020-01-04
+17 tracked misc logs for M 2020-01-04
+157.7 Weight (lb) -0.6% MoM (prev: 158.8), (n=17)
+misc M 2020-02-01
+12 tracked misc logs for M 2020-02-01
+156.5 Weight (lb) -0.8% MoM (prev: 157.7), (n=12)
+misc M 2020-03-03
+6 tracked misc logs for M 2020-03-03
+155.4 Weight (lb) -0.7% MoM (prev: 156.5), (n=6)
+misc M 2020-04-01
+12 tracked misc logs for M 2020-04-01
+156.4 Weight (lb) 0.7% MoM (prev: 155.4), (n=12)
+misc M 2020-05-18
+8 tracked misc logs for M 2020-05-18
+155.3 Weight (lb) -0.7% MoM (prev: 156.4), (n=8)
+misc M 2020-06-03
+10 tracked misc logs for M 2020-06-03
+152.1 Weight (lb) -2.0% MoM (prev: 155.3), (n=10)
+misc M 2020-07-01
+15 tracked misc logs for M 2020-07-01
+151.1 Weight (lb) -0.6% MoM (prev: 152.1), (n=15)
+misc M 2020-08-03
+14 tracked misc logs for M 2020-08-03
+152.8 Weight (lb) 1.1% MoM (prev: 151.1), (n=14)
+misc M 2020-09-04
+6 tracked misc logs for M 2020-09-04
+152.1 Weight (lb) -0.5% MoM (prev: 152.8), (n=6)
+misc M 2020-10-14
+1 tracked misc logs for M 2020-10-14
+151.7 Weight (lb) -0.3% MoM (prev: 152.1), (n=1)
+misc M 2020-11-02
+6 tracked misc logs for M 2020-11-02
+154.4 Weight (lb) 1.7% MoM (prev: 151.7), (n=6)
+misc M 2020-12-21
+3 tracked misc logs for M 2020-12-21
+155.2 Weight (lb) 0.5% MoM (prev: 154.4), (n=3)
+misc M 2021-01-04
+23 tracked misc logs for M 2021-01-04
+156.5 Weight (lb) 0.9% MoM (prev: 155.2), (n=23)
+misc M 2021-02-01
+19 tracked misc logs for M 2021-02-01
+157.1 Weight (lb) 0.4% MoM (prev: 156.5), (n=19)
+misc M 2021-03-04
+19 tracked misc logs for M 2021-03-04
+153.0 Weight (lb) -2.6% MoM (prev: 157.1), (n=19)
+misc M 2021-04-01
+10 tracked misc logs for M 2021-04-01
+151.7 Weight (lb) -0.9% MoM (prev: 153.0), (n=10)
+misc M 2021-06-03
+5 tracked misc logs for M 2021-06-03
+156.2 Weight (lb) 3.0% MoM (prev: 151.7), (n=5)
+misc M 2021-07-08
+10 tracked misc logs for M 2021-07-08
+155.5 Weight (lb) -0.5% MoM (prev: 156.2), (n=10)
+misc M 2021-08-04
+15 tracked misc logs for M 2021-08-04
+156.5 Weight (lb) 0.6% MoM (prev: 155.5), (n=15)
+misc M 2021-09-01
+11 tracked misc logs for M 2021-09-01
+157.2 Weight (lb) 0.4% MoM (prev: 156.5), (n=11)
+misc M 2021-10-21
+4 tracked misc logs for M 2021-10-21
+158.1 Weight (lb) 0.6% MoM (prev: 157.2), (n=4)
+misc M 2021-11-02
+11 tracked misc logs for M 2021-11-02
+157.3 Weight (lb) -0.5% MoM (prev: 158.1), (n=11)
+misc M 2021-12-01
+14 tracked misc logs for M 2021-12-01
+155.7 Weight (lb) -1.0% MoM (prev: 157.3), (n=14)
+misc M 2022-01-02
+9 tracked misc logs for M 2022-01-02
+156.4 Weight (lb) 0.4% MoM (prev: 155.7), (n=9)
+misc M 2022-02-01
+10 tracked misc logs for M 2022-02-01
+157.5 Weight (lb) 0.7% MoM (prev: 156.4), (n=10)
+misc M 2022-03-11
+3 tracked misc logs for M 2022-03-11
+153.5 Weight (lb) -2.5% MoM (prev: 157.5), (n=3)
+misc M 2022-04-02
+20 tracked misc logs for M 2022-04-02
+154.5 Weight (lb) 0.7% MoM (prev: 153.5), (n=20)
+misc M 2022-05-02
+23 tracked misc logs for M 2022-05-02
+156.2 Weight (lb) 1.1% MoM (prev: 154.5), (n=23)
+misc M 2022-06-01
+12 tracked misc logs for M 2022-06-01
+157.5 Weight (lb) 0.8% MoM (prev: 156.2), (n=12)
+misc M 2022-07-27
+2 tracked misc logs for M 2022-07-27
+159.0 Weight (lb) 1.0% MoM (prev: 157.5), (n=2)
+misc M 2022-08-01
+13 tracked misc logs for M 2022-08-01
+160.3 Weight (lb) 0.8% MoM (prev: 159.0), (n=13)
+misc M 2022-09-06
+24 tracked misc logs for M 2022-09-06
+160.3 Weight (lb) -0.0% MoM (prev: 160.3), (n=24)
+misc M 2022-10-01
+28 tracked misc logs for M 2022-10-01
+160.6 Weight (lb) 0.2% MoM (prev: 160.3), (n=28)
+misc M 2022-11-01
+1 tracked misc logs for M 2022-11-01
+160.1 Weight (lb) -0.3% MoM (prev: 160.6), (n=1)

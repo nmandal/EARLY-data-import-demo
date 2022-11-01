@@ -1,0 +1,5 @@
+Date,Active energy burned(Cal),Activity,Duration(s),Heart rate zone: A Easy (<115bpm)(%),Heart rate zone: B Fat Burn (115-135bpm)(%),Heart rate zone: C Moderate Training (135-155bpm)(%),Heart rate zone: D Hard Training (155-175bpm)(%),Heart rate zone: E Extreme Training (>175bpm)(%),Heart rate: Average(count/min),Heart rate: Maximum(count/min),METs Average(kcal/hr·kg)
+2019-01-17 09:55:57,201.115,Running (Indoor),1112.444,0.0,0.024,0.0,0.976,0.0,168.467,174.031,
+2019-01-22 08:12:30,315.542,Running (Indoor),1393.072,0.0,0.0,0.0,0.0,1.0,179.064,182.327,
+2019-01-23 08:30:54,150.511,Running (Indoor),796.633,0.0,0.0,0.0,1.0,0.0,163.007,166.073,
+2019-01-25 12:58:48,220.645,Running (Indoor),1047.057,0.0,0.0,0.5,0.0,0.5,167.324,180.932,

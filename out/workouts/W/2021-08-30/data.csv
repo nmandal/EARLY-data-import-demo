@@ -1,0 +1,7 @@
+Date,Active energy burned(Cal),Activity,Duration(s),Heart rate zone: A Easy (<115bpm)(%),Heart rate zone: B Fat Burn (115-135bpm)(%),Heart rate zone: C Moderate Training (135-155bpm)(%),Heart rate zone: D Hard Training (155-175bpm)(%),Heart rate zone: E Extreme Training (>175bpm)(%),Heart rate: Average(count/min),Heart rate: Maximum(count/min),METs Average(kcal/hr·kg)
+2021-08-30 07:29:05,56.68,Walking,1026.998,1.0,0.0,0.0,0.0,0.0,84.797,85.426,4.164
+2021-09-01 12:14:30,90.607,Walking,1139.54,1.0,0.0,0.0,0.0,0.0,97.327,108.0,5.838
+2021-09-02 08:18:44,77.971,Walking,1234.861,1.0,0.0,0.0,0.0,0.0,92.575,93.229,4.62
+2021-09-03 19:19:00,96.053,Walking,1396.161,1.0,0.0,0.0,0.0,0.0,86.853,97.0,5.172
+2021-09-04 15:21:50,61.267,Walking,908.818,0.0,0.032,0.831,0.137,0.0,148.211,168.0,5.27
+2021-09-05 09:43:51,0.607,Walking,27.02,1.0,0.0,0.0,0.0,0.0,84.0,84.0,

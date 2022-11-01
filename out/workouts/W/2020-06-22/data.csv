@@ -1,0 +1,8 @@
+Date,Active energy burned(Cal),Activity,Duration(s),Heart rate zone: A Easy (<115bpm)(%),Heart rate zone: B Fat Burn (115-135bpm)(%),Heart rate zone: C Moderate Training (135-155bpm)(%),Heart rate zone: D Hard Training (155-175bpm)(%),Heart rate zone: E Extreme Training (>175bpm)(%),Heart rate: Average(count/min),Heart rate: Maximum(count/min),METs Average(kcal/hr·kg)
+2020-06-22 07:29:41,148.98,Walking,1989.405,1.0,0.0,0.0,0.0,0.0,89.917,91.88,5.196
+2020-06-23 08:14:45,118.055,Walking,1546.752,1.0,0.0,0.0,0.0,0.0,81.979,90.367,5.882
+2020-06-25 08:08:08,164.804,Walking,1909.839,1.0,0.0,0.0,0.0,0.0,102.661,104.691,5.829
+2020-06-25 15:31:24,148.786,Cycling,1495.062,0.0,0.0,0.667,0.333,0.0,149.601,161.063,6.576
+2020-06-25 19:10:12,171.686,Walking,1881.871,0.949,0.051,0.0,0.0,0.0,107.282,129.0,6.113
+2020-06-26 08:46:49,120.331,Walking (Indoor),1281.904,0.392,0.608,0.0,0.0,0.0,116.694,127.0,6.855
+2020-06-26 17:56:24,109.625,Walking,1579.89,1.0,0.0,0.0,0.0,0.0,95.318,96.865,4.645

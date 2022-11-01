@@ -1,0 +1,14 @@
+Date,Active energy burned(Cal),Activity,Duration(s),Heart rate zone: A Easy (<115bpm)(%),Heart rate zone: B Fat Burn (115-135bpm)(%),Heart rate zone: C Moderate Training (135-155bpm)(%),Heart rate zone: D Hard Training (155-175bpm)(%),Heart rate zone: E Extreme Training (>175bpm)(%),Heart rate: Average(count/min),Heart rate: Maximum(count/min),METs Average(kcal/hr·kg)
+2020-11-30 11:16:18,65.517,Yoga,726.459,0.5,0.0,0.5,0.0,0.0,123.339,137.079,6.224
+2020-11-30 11:16:36,41.0,Yoga (Indoor),702.0,,,,,,,,
+2020-11-30 11:30:12,74.0,Yoga (Indoor),1369.0,1.0,0.0,0.0,0.0,0.0,98.087,104.0,
+2020-11-30 11:55:30,108.614,Functional Strength Training,902.811,0.0,0.0,1.0,0.0,0.0,141.428,142.119,7.572
+2020-12-01 11:01:24,53.897,HIIT,301.72,0.0,0.0,0.286,0.714,0.0,157.0,169.0,10.755
+2020-12-01 11:07:17,95.767,Functional Strength Training,888.847,0.0,1.0,0.0,0.0,0.0,131.374,131.374,6.911
+2020-12-01 11:24:39,114.141,Functional Strength Training,873.76,0.0,0.0,1.0,0.0,0.0,148.513,148.513,8.139
+2020-12-02 11:01:56,502.75,Walking,7301.333,1.0,0.0,0.0,0.0,0.0,87.87,113.85,4.85
+2020-12-06 10:27:50,43.556,Functional Strength Training,407.531,0.0,1.0,0.0,0.0,0.0,128.756,128.756,6.912
+2020-12-06 10:37:44,103.357,Yoga,1233.517,1.0,0.0,0.0,0.0,0.0,101.632,107.532,4.864
+2020-12-06 10:38:08,73.0,Yoga (Indoor),1200.0,,,,,,,,
+2020-12-06 11:01:32,90.124,HIIT,687.153,0.0,1.0,0.0,0.0,0.0,123.547,123.547,8.117
+2020-12-06 11:01:55,57.0,Functional Strength Training (Indoor),660.0,,,,,,,,

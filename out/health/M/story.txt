@@ -1,0 +1,680 @@
+health M 2017-03-19
+13 days of tracked health for M 2017-03-19
+nan Active energy burned(Cal) n/a% MoM (prev: 3.0), (n=0)
+nan Basal energy burned(Cal) n/a% MoM (prev: 3.0), (n=0)
+nan Exercise time(min) n/a% MoM (prev: 3.0), (n=0)
+12.0 Flights climbed(count) n/a% MoM (prev: 3.0), (n=13)
+nan Resting heart rate(count/min) n/a% MoM (prev: 3.0), (n=0)
+7800.0 Step count(count) n/a% MoM (prev: 3.0), (n=13)
+nan VO2 Max(mL/min·kg) n/a% MoM (prev: 3.0), (n=0)
+nan Mindfulness(min) n/a% MoM (prev: 3.0), (n=0)
+health M 2017-04-01
+30 days of tracked health for M 2017-04-01
+nan Active energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Exercise time(min) nan% MoM (prev: nan), (n=0)
+16.0 Flights climbed(count) 25.4% MoM (prev: 12.0), (n=30)
+nan Resting heart rate(count/min) nan% MoM (prev: nan), (n=0)
+11178.0 Step count(count) 43.3% MoM (prev: 7800.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2017-05-01
+31 days of tracked health for M 2017-05-01
+nan Active energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Exercise time(min) nan% MoM (prev: nan), (n=0)
+9.0 Flights climbed(count) -43.7% MoM (prev: 16.0), (n=31)
+nan Resting heart rate(count/min) nan% MoM (prev: nan), (n=0)
+5675.0 Step count(count) -49.2% MoM (prev: 11178.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2017-06-01
+30 days of tracked health for M 2017-06-01
+nan Active energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Exercise time(min) nan% MoM (prev: nan), (n=0)
+6.0 Flights climbed(count) -29.0% MoM (prev: 9.0), (n=29)
+nan Resting heart rate(count/min) nan% MoM (prev: nan), (n=0)
+4928.0 Step count(count) -13.2% MoM (prev: 5675.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2017-07-01
+31 days of tracked health for M 2017-07-01
+nan Active energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Exercise time(min) nan% MoM (prev: nan), (n=0)
+8.0 Flights climbed(count) 21.9% MoM (prev: 6.0), (n=30)
+nan Resting heart rate(count/min) nan% MoM (prev: nan), (n=0)
+5295.0 Step count(count) 7.4% MoM (prev: 4928.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2017-08-01
+31 days of tracked health for M 2017-08-01
+nan Active energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Exercise time(min) nan% MoM (prev: nan), (n=0)
+11.0 Flights climbed(count) 50.5% MoM (prev: 8.0), (n=31)
+nan Resting heart rate(count/min) nan% MoM (prev: nan), (n=0)
+6082.0 Step count(count) 14.9% MoM (prev: 5295.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2017-09-01
+30 days of tracked health for M 2017-09-01
+nan Active energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Exercise time(min) nan% MoM (prev: nan), (n=0)
+20.0 Flights climbed(count) 78.0% MoM (prev: 11.0), (n=30)
+nan Resting heart rate(count/min) nan% MoM (prev: nan), (n=0)
+10542.0 Step count(count) 73.3% MoM (prev: 6082.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2017-10-01
+31 days of tracked health for M 2017-10-01
+nan Active energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Exercise time(min) nan% MoM (prev: nan), (n=0)
+21.0 Flights climbed(count) 3.8% MoM (prev: 20.0), (n=31)
+nan Resting heart rate(count/min) nan% MoM (prev: nan), (n=0)
+9498.0 Step count(count) -9.9% MoM (prev: 10542.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2017-11-01
+30 days of tracked health for M 2017-11-01
+nan Active energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Exercise time(min) nan% MoM (prev: nan), (n=0)
+26.0 Flights climbed(count) 22.8% MoM (prev: 21.0), (n=30)
+nan Resting heart rate(count/min) nan% MoM (prev: nan), (n=0)
+8892.0 Step count(count) -6.4% MoM (prev: 9498.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2017-12-01
+31 days of tracked health for M 2017-12-01
+nan Active energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Exercise time(min) nan% MoM (prev: nan), (n=0)
+24.0 Flights climbed(count) -5.5% MoM (prev: 26.0), (n=31)
+nan Resting heart rate(count/min) nan% MoM (prev: nan), (n=0)
+7087.0 Step count(count) -20.3% MoM (prev: 8892.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2018-01-01
+31 days of tracked health for M 2018-01-01
+nan Active energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Exercise time(min) nan% MoM (prev: nan), (n=0)
+20.0 Flights climbed(count) -18.9% MoM (prev: 24.0), (n=31)
+nan Resting heart rate(count/min) nan% MoM (prev: nan), (n=0)
+5660.0 Step count(count) -20.1% MoM (prev: 7087.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2018-02-01
+28 days of tracked health for M 2018-02-01
+nan Active energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Exercise time(min) nan% MoM (prev: nan), (n=0)
+30.0 Flights climbed(count) 53.1% MoM (prev: 20.0), (n=28)
+nan Resting heart rate(count/min) nan% MoM (prev: nan), (n=0)
+7962.0 Step count(count) 40.7% MoM (prev: 5660.0), (n=28)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2018-03-01
+31 days of tracked health for M 2018-03-01
+nan Active energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Exercise time(min) nan% MoM (prev: nan), (n=0)
+29.0 Flights climbed(count) -3.1% MoM (prev: 30.0), (n=31)
+nan Resting heart rate(count/min) nan% MoM (prev: nan), (n=0)
+8753.0 Step count(count) 9.9% MoM (prev: 7962.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2018-04-01
+30 days of tracked health for M 2018-04-01
+nan Active energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Exercise time(min) nan% MoM (prev: nan), (n=0)
+30.0 Flights climbed(count) 2.9% MoM (prev: 29.0), (n=30)
+nan Resting heart rate(count/min) nan% MoM (prev: nan), (n=0)
+9132.0 Step count(count) 4.3% MoM (prev: 8753.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2018-05-01
+31 days of tracked health for M 2018-05-01
+nan Active energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Basal energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Exercise time(min) nan% MoM (prev: nan), (n=0)
+17.0 Flights climbed(count) -44.4% MoM (prev: 30.0), (n=31)
+nan Resting heart rate(count/min) nan% MoM (prev: nan), (n=0)
+8002.0 Step count(count) -12.4% MoM (prev: 9132.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2018-06-01
+30 days of tracked health for M 2018-06-01
+531.0 Active energy burned(Cal) nan% MoM (prev: nan), (n=12)
+1812.0 Basal energy burned(Cal) nan% MoM (prev: nan), (n=12)
+53.0 Exercise time(min) nan% MoM (prev: nan), (n=11)
+16.0 Flights climbed(count) -7.2% MoM (prev: 17.0), (n=30)
+56.0 Resting heart rate(count/min) nan% MoM (prev: nan), (n=9)
+8997.0 Step count(count) 12.4% MoM (prev: 8002.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2018-07-01
+31 days of tracked health for M 2018-07-01
+499.0 Active energy burned(Cal) -5.9% MoM (prev: 531.0), (n=27)
+1822.0 Basal energy burned(Cal) 0.5% MoM (prev: 1812.0), (n=27)
+40.0 Exercise time(min) -24.2% MoM (prev: 53.0), (n=27)
+16.0 Flights climbed(count) 1.9% MoM (prev: 16.0), (n=29)
+60.0 Resting heart rate(count/min) 8.1% MoM (prev: 56.0), (n=20)
+8944.0 Step count(count) -0.6% MoM (prev: 8997.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2018-08-01
+31 days of tracked health for M 2018-08-01
+596.0 Active energy burned(Cal) 19.3% MoM (prev: 499.0), (n=31)
+1885.0 Basal energy burned(Cal) 3.5% MoM (prev: 1822.0), (n=31)
+57.0 Exercise time(min) 41.8% MoM (prev: 40.0), (n=31)
+24.0 Flights climbed(count) 53.1% MoM (prev: 16.0), (n=30)
+64.0 Resting heart rate(count/min) 6.4% MoM (prev: 60.0), (n=28)
+10466.0 Step count(count) 17.0% MoM (prev: 8944.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2018-09-01
+30 days of tracked health for M 2018-09-01
+494.0 Active energy burned(Cal) -17.1% MoM (prev: 596.0), (n=30)
+1877.0 Basal energy burned(Cal) -0.4% MoM (prev: 1885.0), (n=30)
+43.0 Exercise time(min) -24.6% MoM (prev: 57.0), (n=30)
+9.0 Flights climbed(count) -61.8% MoM (prev: 24.0), (n=30)
+63.0 Resting heart rate(count/min) -0.7% MoM (prev: 64.0), (n=30)
+10524.0 Step count(count) 0.5% MoM (prev: 10466.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2018-10-01
+31 days of tracked health for M 2018-10-01
+504.0 Active energy burned(Cal) 1.9% MoM (prev: 494.0), (n=31)
+1908.0 Basal energy burned(Cal) 1.7% MoM (prev: 1877.0), (n=31)
+29.0 Exercise time(min) -32.7% MoM (prev: 43.0), (n=31)
+9.0 Flights climbed(count) 2.1% MoM (prev: 9.0), (n=31)
+65.0 Resting heart rate(count/min) 2.7% MoM (prev: 63.0), (n=30)
+9458.0 Step count(count) -10.1% MoM (prev: 10524.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2018-11-01
+30 days of tracked health for M 2018-11-01
+492.0 Active energy burned(Cal) -2.4% MoM (prev: 504.0), (n=30)
+1897.0 Basal energy burned(Cal) -0.6% MoM (prev: 1908.0), (n=30)
+29.0 Exercise time(min) 0% MoM (prev: 29.0), (n=30)
+12.0 Flights climbed(count) 26.0% MoM (prev: 9.0), (n=30)
+64.0 Resting heart rate(count/min) -1.0% MoM (prev: 65.0), (n=30)
+8402.0 Step count(count) -11.2% MoM (prev: 9458.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2018-12-01
+31 days of tracked health for M 2018-12-01
+390.0 Active energy burned(Cal) -20.7% MoM (prev: 492.0), (n=31)
+1872.0 Basal energy burned(Cal) -1.3% MoM (prev: 1897.0), (n=31)
+20.0 Exercise time(min) -29.9% MoM (prev: 29.0), (n=31)
+12.0 Flights climbed(count) -0.2% MoM (prev: 12.0), (n=31)
+60.0 Resting heart rate(count/min) -7.1% MoM (prev: 64.0), (n=30)
+5915.0 Step count(count) -29.6% MoM (prev: 8402.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2019-01-01
+31 days of tracked health for M 2019-01-01
+421.0 Active energy burned(Cal) 7.8% MoM (prev: 390.0), (n=31)
+1867.0 Basal energy burned(Cal) -0.3% MoM (prev: 1872.0), (n=31)
+30.0 Exercise time(min) 45.9% MoM (prev: 20.0), (n=31)
+17.0 Flights climbed(count) 40.4% MoM (prev: 12.0), (n=30)
+63.0 Resting heart rate(count/min) 5.6% MoM (prev: 60.0), (n=31)
+6475.0 Step count(count) 9.5% MoM (prev: 5915.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2019-02-01
+28 days of tracked health for M 2019-02-01
+582.0 Active energy burned(Cal) 38.3% MoM (prev: 421.0), (n=28)
+1884.0 Basal energy burned(Cal) 0.9% MoM (prev: 1867.0), (n=28)
+46.0 Exercise time(min) 54.3% MoM (prev: 30.0), (n=28)
+24.0 Flights climbed(count) 41.1% MoM (prev: 17.0), (n=28)
+61.0 Resting heart rate(count/min) -4.1% MoM (prev: 63.0), (n=27)
+9159.0 Step count(count) 41.5% MoM (prev: 6475.0), (n=28)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2019-03-01
+31 days of tracked health for M 2019-03-01
+488.0 Active energy burned(Cal) -16.2% MoM (prev: 582.0), (n=29)
+1817.0 Basal energy burned(Cal) -3.6% MoM (prev: 1884.0), (n=31)
+45.0 Exercise time(min) -2.0% MoM (prev: 46.0), (n=26)
+20.0 Flights climbed(count) -16.0% MoM (prev: 24.0), (n=31)
+62.0 Resting heart rate(count/min) 2.8% MoM (prev: 61.0), (n=26)
+6885.0 Step count(count) -24.8% MoM (prev: 9159.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2019-04-01
+30 days of tracked health for M 2019-04-01
+613.0 Active energy burned(Cal) 25.6% MoM (prev: 488.0), (n=30)
+1855.0 Basal energy burned(Cal) 2.1% MoM (prev: 1817.0), (n=30)
+55.0 Exercise time(min) 21.9% MoM (prev: 45.0), (n=30)
+27.0 Flights climbed(count) 33.5% MoM (prev: 20.0), (n=29)
+62.0 Resting heart rate(count/min) -0.2% MoM (prev: 62.0), (n=30)
+9022.0 Step count(count) 31.0% MoM (prev: 6885.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2019-05-01
+31 days of tracked health for M 2019-05-01
+599.0 Active energy burned(Cal) -2.3% MoM (prev: 613.0), (n=31)
+1825.0 Basal energy burned(Cal) -1.6% MoM (prev: 1855.0), (n=30)
+49.0 Exercise time(min) -9.6% MoM (prev: 55.0), (n=30)
+20.0 Flights climbed(count) -23.9% MoM (prev: 27.0), (n=31)
+63.0 Resting heart rate(count/min) 1.7% MoM (prev: 62.0), (n=28)
+10286.0 Step count(count) 14.0% MoM (prev: 9022.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2019-06-01
+30 days of tracked health for M 2019-06-01
+609.0 Active energy burned(Cal) 1.7% MoM (prev: 599.0), (n=30)
+1806.0 Basal energy burned(Cal) -1.0% MoM (prev: 1825.0), (n=25)
+63.0 Exercise time(min) 27.4% MoM (prev: 49.0), (n=24)
+15.0 Flights climbed(count) -24.7% MoM (prev: 20.0), (n=29)
+62.0 Resting heart rate(count/min) -2.1% MoM (prev: 63.0), (n=23)
+11970.0 Step count(count) 16.4% MoM (prev: 10286.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2019-07-01
+31 days of tracked health for M 2019-07-01
+471.0 Active energy burned(Cal) -22.6% MoM (prev: 609.0), (n=31)
+1828.0 Basal energy burned(Cal) 1.2% MoM (prev: 1806.0), (n=31)
+27.0 Exercise time(min) -57.1% MoM (prev: 63.0), (n=31)
+12.0 Flights climbed(count) -21.7% MoM (prev: 15.0), (n=31)
+62.0 Resting heart rate(count/min) 0.0% MoM (prev: 62.0), (n=31)
+5210.0 Step count(count) -56.5% MoM (prev: 11970.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2019-08-01
+31 days of tracked health for M 2019-08-01
+577.0 Active energy burned(Cal) 22.5% MoM (prev: 471.0), (n=31)
+1854.0 Basal energy burned(Cal) 1.4% MoM (prev: 1828.0), (n=31)
+32.0 Exercise time(min) 17.9% MoM (prev: 27.0), (n=31)
+9.0 Flights climbed(count) -27.8% MoM (prev: 12.0), (n=31)
+62.0 Resting heart rate(count/min) -0.1% MoM (prev: 62.0), (n=28)
+7708.0 Step count(count) 48.0% MoM (prev: 5210.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2019-09-01
+30 days of tracked health for M 2019-09-01
+640.0 Active energy burned(Cal) 10.8% MoM (prev: 577.0), (n=30)
+1836.0 Basal energy burned(Cal) -0.9% MoM (prev: 1854.0), (n=30)
+49.0 Exercise time(min) 52.8% MoM (prev: 32.0), (n=29)
+9.0 Flights climbed(count) 0.9% MoM (prev: 9.0), (n=29)
+60.0 Resting heart rate(count/min) -3.7% MoM (prev: 62.0), (n=29)
+8184.0 Step count(count) 6.2% MoM (prev: 7708.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2019-10-01
+31 days of tracked health for M 2019-10-01
+684.0 Active energy burned(Cal) 7.0% MoM (prev: 640.0), (n=31)
+1686.0 Basal energy burned(Cal) -8.2% MoM (prev: 1836.0), (n=16)
+44.0 Exercise time(min) -8.8% MoM (prev: 49.0), (n=15)
+9.0 Flights climbed(count) -1.9% MoM (prev: 9.0), (n=31)
+63.0 Resting heart rate(count/min) 5.3% MoM (prev: 60.0), (n=13)
+7785.0 Step count(count) -4.9% MoM (prev: 8184.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2019-11-01
+30 days of tracked health for M 2019-11-01
+524.0 Active energy burned(Cal) -23.4% MoM (prev: 684.0), (n=30)
+nan Basal energy burned(Cal) nan% MoM (prev: 1686.0), (n=0)
+nan Exercise time(min) nan% MoM (prev: 44.0), (n=0)
+9.0 Flights climbed(count) 6.1% MoM (prev: 9.0), (n=29)
+nan Resting heart rate(count/min) nan% MoM (prev: 63.0), (n=0)
+6443.0 Step count(count) -17.2% MoM (prev: 7785.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2019-12-01
+31 days of tracked health for M 2019-12-01
+474.0 Active energy burned(Cal) -9.6% MoM (prev: 524.0), (n=31)
+nan Basal energy burned(Cal) nan% MoM (prev: nan), (n=0)
+nan Exercise time(min) nan% MoM (prev: nan), (n=0)
+12.0 Flights climbed(count) 30.7% MoM (prev: 9.0), (n=31)
+nan Resting heart rate(count/min) nan% MoM (prev: nan), (n=0)
+6307.0 Step count(count) -2.1% MoM (prev: 6443.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2020-01-01
+31 days of tracked health for M 2020-01-01
+641.0 Active energy burned(Cal) 35.3% MoM (prev: 474.0), (n=31)
+1284.0 Basal energy burned(Cal) nan% MoM (prev: nan), (n=2)
+29.0 Exercise time(min) nan% MoM (prev: nan), (n=2)
+11.0 Flights climbed(count) -3.0% MoM (prev: 12.0), (n=31)
+62.0 Resting heart rate(count/min) nan% MoM (prev: nan), (n=1)
+7860.0 Step count(count) 24.6% MoM (prev: 6307.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2020-02-01
+29 days of tracked health for M 2020-02-01
+490.0 Active energy burned(Cal) -23.5% MoM (prev: 641.0), (n=29)
+1803.0 Basal energy burned(Cal) 40.4% MoM (prev: 1284.0), (n=29)
+17.0 Exercise time(min) -40.7% MoM (prev: 29.0), (n=27)
+7.0 Flights climbed(count) -41.6% MoM (prev: 11.0), (n=29)
+60.0 Resting heart rate(count/min) -3.7% MoM (prev: 62.0), (n=25)
+5908.0 Step count(count) -24.8% MoM (prev: 7860.0), (n=29)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2020-03-01
+31 days of tracked health for M 2020-03-01
+556.0 Active energy burned(Cal) 13.4% MoM (prev: 490.0), (n=31)
+1644.0 Basal energy burned(Cal) -8.9% MoM (prev: 1803.0), (n=31)
+30.0 Exercise time(min) 72.5% MoM (prev: 17.0), (n=20)
+8.0 Flights climbed(count) 12.7% MoM (prev: 7.0), (n=26)
+58.0 Resting heart rate(count/min) -3.4% MoM (prev: 60.0), (n=14)
+6502.0 Step count(count) 10.0% MoM (prev: 5908.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2020-04-01
+30 days of tracked health for M 2020-04-01
+573.0 Active energy burned(Cal) 3.1% MoM (prev: 556.0), (n=30)
+1692.0 Basal energy burned(Cal) 3.0% MoM (prev: 1644.0), (n=30)
+34.0 Exercise time(min) 14.7% MoM (prev: 30.0), (n=12)
+8.0 Flights climbed(count) 6.7% MoM (prev: 8.0), (n=25)
+59.0 Resting heart rate(count/min) 1.5% MoM (prev: 58.0), (n=5)
+6669.0 Step count(count) 2.6% MoM (prev: 6502.0), (n=29)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2020-05-01
+31 days of tracked health for M 2020-05-01
+588.0 Active energy burned(Cal) 2.5% MoM (prev: 573.0), (n=31)
+1784.0 Basal energy burned(Cal) 5.4% MoM (prev: 1692.0), (n=31)
+53.0 Exercise time(min) 55.0% MoM (prev: 34.0), (n=24)
+7.0 Flights climbed(count) -10.6% MoM (prev: 8.0), (n=29)
+55.0 Resting heart rate(count/min) -5.5% MoM (prev: 59.0), (n=21)
+8011.0 Step count(count) 20.1% MoM (prev: 6669.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2020-06-01
+30 days of tracked health for M 2020-06-01
+532.0 Active energy burned(Cal) -9.4% MoM (prev: 588.0), (n=30)
+1786.0 Basal energy burned(Cal) 0.1% MoM (prev: 1784.0), (n=30)
+49.0 Exercise time(min) -7.8% MoM (prev: 53.0), (n=30)
+8.0 Flights climbed(count) 10.1% MoM (prev: 7.0), (n=29)
+51.0 Resting heart rate(count/min) -7.8% MoM (prev: 55.0), (n=29)
+7677.0 Step count(count) -4.2% MoM (prev: 8011.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2020-07-01
+31 days of tracked health for M 2020-07-01
+684.0 Active energy burned(Cal) 28.5% MoM (prev: 532.0), (n=31)
+1822.0 Basal energy burned(Cal) 2.0% MoM (prev: 1786.0), (n=31)
+70.0 Exercise time(min) 43.4% MoM (prev: 49.0), (n=31)
+8.0 Flights climbed(count) 2.8% MoM (prev: 8.0), (n=31)
+48.0 Resting heart rate(count/min) -5.9% MoM (prev: 51.0), (n=31)
+10477.0 Step count(count) 36.5% MoM (prev: 7677.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2020-08-01
+31 days of tracked health for M 2020-08-01
+591.0 Active energy burned(Cal) -13.6% MoM (prev: 684.0), (n=31)
+1824.0 Basal energy burned(Cal) 0.1% MoM (prev: 1822.0), (n=31)
+51.0 Exercise time(min) -26.3% MoM (prev: 70.0), (n=31)
+6.0 Flights climbed(count) -24.1% MoM (prev: 8.0), (n=25)
+48.0 Resting heart rate(count/min) 0.9% MoM (prev: 48.0), (n=30)
+8473.0 Step count(count) -19.1% MoM (prev: 10477.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2020-09-01
+30 days of tracked health for M 2020-09-01
+642.0 Active energy burned(Cal) 8.7% MoM (prev: 591.0), (n=30)
+1768.0 Basal energy burned(Cal) -3.1% MoM (prev: 1824.0), (n=29)
+48.0 Exercise time(min) -6.0% MoM (prev: 51.0), (n=29)
+11.0 Flights climbed(count) 75.3% MoM (prev: 6.0), (n=30)
+50.0 Resting heart rate(count/min) 2.3% MoM (prev: 48.0), (n=29)
+7665.0 Step count(count) -9.5% MoM (prev: 8473.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2020-10-01
+31 days of tracked health for M 2020-10-01
+653.0 Active energy burned(Cal) 1.6% MoM (prev: 642.0), (n=31)
+1830.0 Basal energy burned(Cal) 3.5% MoM (prev: 1768.0), (n=31)
+51.0 Exercise time(min) 6.6% MoM (prev: 48.0), (n=31)
+10.0 Flights climbed(count) -6.2% MoM (prev: 11.0), (n=29)
+53.0 Resting heart rate(count/min) 7.0% MoM (prev: 50.0), (n=31)
+6558.0 Step count(count) -14.4% MoM (prev: 7665.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2020-11-01
+30 days of tracked health for M 2020-11-01
+737.0 Active energy burned(Cal) 13.0% MoM (prev: 653.0), (n=30)
+1846.0 Basal energy burned(Cal) 0.8% MoM (prev: 1830.0), (n=30)
+71.0 Exercise time(min) 38.3% MoM (prev: 51.0), (n=30)
+9.0 Flights climbed(count) -9.7% MoM (prev: 10.0), (n=29)
+51.0 Resting heart rate(count/min) -4.8% MoM (prev: 53.0), (n=30)
+6626.0 Step count(count) 1.0% MoM (prev: 6558.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2020-12-01
+31 days of tracked health for M 2020-12-01
+714.0 Active energy burned(Cal) -3.2% MoM (prev: 737.0), (n=31)
+1859.0 Basal energy burned(Cal) 0.7% MoM (prev: 1846.0), (n=31)
+58.0 Exercise time(min) -18.3% MoM (prev: 71.0), (n=31)
+13.0 Flights climbed(count) 36.5% MoM (prev: 9.0), (n=27)
+54.0 Resting heart rate(count/min) 6.7% MoM (prev: 51.0), (n=29)
+7296.0 Step count(count) 10.1% MoM (prev: 6626.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2021-01-01
+31 days of tracked health for M 2021-01-01
+647.0 Active energy burned(Cal) -9.4% MoM (prev: 714.0), (n=31)
+1841.0 Basal energy burned(Cal) -1.0% MoM (prev: 1859.0), (n=31)
+57.0 Exercise time(min) -1.3% MoM (prev: 58.0), (n=30)
+5.0 Flights climbed(count) -57.2% MoM (prev: 13.0), (n=28)
+48.0 Resting heart rate(count/min) -10.4% MoM (prev: 54.0), (n=31)
+4952.0 Step count(count) -32.1% MoM (prev: 7296.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2021-02-01
+28 days of tracked health for M 2021-02-01
+649.0 Active energy burned(Cal) 0.4% MoM (prev: 647.0), (n=28)
+1842.0 Basal energy burned(Cal) 0.0% MoM (prev: 1841.0), (n=28)
+55.0 Exercise time(min) -5.0% MoM (prev: 57.0), (n=28)
+6.0 Flights climbed(count) 11.7% MoM (prev: 5.0), (n=25)
+50.0 Resting heart rate(count/min) 4.1% MoM (prev: 48.0), (n=26)
+5255.0 Step count(count) 6.1% MoM (prev: 4952.0), (n=28)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2021-03-01
+31 days of tracked health for M 2021-03-01
+687.0 Active energy burned(Cal) 5.9% MoM (prev: 649.0), (n=31)
+1829.0 Basal energy burned(Cal) -0.7% MoM (prev: 1842.0), (n=31)
+65.0 Exercise time(min) 18.8% MoM (prev: 55.0), (n=30)
+5.0 Flights climbed(count) -17.6% MoM (prev: 6.0), (n=29)
+49.0 Resting heart rate(count/min) -2.9% MoM (prev: 50.0), (n=30)
+6071.0 Step count(count) 15.5% MoM (prev: 5255.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2021-04-01
+30 days of tracked health for M 2021-04-01
+646.0 Active energy burned(Cal) -5.9% MoM (prev: 687.0), (n=30)
+1849.0 Basal energy burned(Cal) 1.1% MoM (prev: 1829.0), (n=30)
+53.0 Exercise time(min) -18.7% MoM (prev: 65.0), (n=30)
+5.0 Flights climbed(count) -8.1% MoM (prev: 5.0), (n=28)
+50.0 Resting heart rate(count/min) 3.0% MoM (prev: 49.0), (n=28)
+5851.0 Step count(count) -3.6% MoM (prev: 6071.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2021-05-01
+31 days of tracked health for M 2021-05-01
+694.0 Active energy burned(Cal) 7.4% MoM (prev: 646.0), (n=31)
+1837.0 Basal energy burned(Cal) -0.7% MoM (prev: 1849.0), (n=31)
+64.0 Exercise time(min) 22.0% MoM (prev: 53.0), (n=31)
+7.0 Flights climbed(count) 55.8% MoM (prev: 5.0), (n=31)
+52.0 Resting heart rate(count/min) 3.9% MoM (prev: 50.0), (n=31)
+7499.0 Step count(count) 28.2% MoM (prev: 5851.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2021-06-01
+30 days of tracked health for M 2021-06-01
+745.0 Active energy burned(Cal) 7.3% MoM (prev: 694.0), (n=30)
+1837.0 Basal energy burned(Cal) 0.0% MoM (prev: 1837.0), (n=30)
+70.0 Exercise time(min) 8.3% MoM (prev: 64.0), (n=30)
+6.0 Flights climbed(count) -21.8% MoM (prev: 7.0), (n=29)
+48.0 Resting heart rate(count/min) -7.4% MoM (prev: 52.0), (n=30)
+6825.0 Step count(count) -9.0% MoM (prev: 7499.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2021-07-01
+31 days of tracked health for M 2021-07-01
+749.0 Active energy burned(Cal) 0.6% MoM (prev: 745.0), (n=31)
+1846.0 Basal energy burned(Cal) 0.5% MoM (prev: 1837.0), (n=31)
+69.0 Exercise time(min) -1.0% MoM (prev: 70.0), (n=31)
+5.0 Flights climbed(count) -7.3% MoM (prev: 6.0), (n=31)
+50.0 Resting heart rate(count/min) 2.6% MoM (prev: 48.0), (n=31)
+7532.0 Step count(count) 10.4% MoM (prev: 6825.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2021-08-01
+31 days of tracked health for M 2021-08-01
+717.0 Active energy burned(Cal) -4.2% MoM (prev: 749.0), (n=31)
+1848.0 Basal energy burned(Cal) 0.1% MoM (prev: 1846.0), (n=31)
+64.0 Exercise time(min) -6.6% MoM (prev: 69.0), (n=31)
+6.0 Flights climbed(count) 15.4% MoM (prev: 5.0), (n=30)
+48.0 Resting heart rate(count/min) -3.9% MoM (prev: 50.0), (n=29)
+7658.0 Step count(count) 1.7% MoM (prev: 7532.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2021-09-01
+30 days of tracked health for M 2021-09-01
+650.0 Active energy burned(Cal) -9.3% MoM (prev: 717.0), (n=30)
+1847.0 Basal energy burned(Cal) -0.1% MoM (prev: 1848.0), (n=30)
+61.0 Exercise time(min) -4.6% MoM (prev: 64.0), (n=29)
+8.0 Flights climbed(count) 31.0% MoM (prev: 6.0), (n=30)
+50.0 Resting heart rate(count/min) 5.3% MoM (prev: 48.0), (n=30)
+7239.0 Step count(count) -5.5% MoM (prev: 7658.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2021-10-01
+31 days of tracked health for M 2021-10-01
+673.0 Active energy burned(Cal) 3.5% MoM (prev: 650.0), (n=31)
+1849.0 Basal energy burned(Cal) 0.1% MoM (prev: 1847.0), (n=31)
+67.0 Exercise time(min) 8.5% MoM (prev: 61.0), (n=31)
+4.0 Flights climbed(count) -51.8% MoM (prev: 8.0), (n=29)
+49.0 Resting heart rate(count/min) -1.6% MoM (prev: 50.0), (n=31)
+6793.0 Step count(count) -6.2% MoM (prev: 7239.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2021-11-01
+30 days of tracked health for M 2021-11-01
+678.0 Active energy burned(Cal) 0.8% MoM (prev: 673.0), (n=30)
+1838.0 Basal energy burned(Cal) -0.6% MoM (prev: 1849.0), (n=30)
+73.0 Exercise time(min) 9.8% MoM (prev: 67.0), (n=30)
+8.0 Flights climbed(count) 104.7% MoM (prev: 4.0), (n=28)
+50.0 Resting heart rate(count/min) 0.8% MoM (prev: 49.0), (n=30)
+6739.0 Step count(count) -0.8% MoM (prev: 6793.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2021-12-01
+31 days of tracked health for M 2021-12-01
+608.0 Active energy burned(Cal) -10.3% MoM (prev: 678.0), (n=31)
+1855.0 Basal energy burned(Cal) 0.9% MoM (prev: 1838.0), (n=31)
+55.0 Exercise time(min) -25.1% MoM (prev: 73.0), (n=30)
+7.0 Flights climbed(count) -5.0% MoM (prev: 8.0), (n=30)
+51.0 Resting heart rate(count/min) 2.6% MoM (prev: 50.0), (n=30)
+6479.0 Step count(count) -3.8% MoM (prev: 6739.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2022-01-01
+31 days of tracked health for M 2022-01-01
+599.0 Active energy burned(Cal) -1.5% MoM (prev: 608.0), (n=31)
+1835.0 Basal energy burned(Cal) -1.1% MoM (prev: 1855.0), (n=31)
+47.0 Exercise time(min) -14.8% MoM (prev: 55.0), (n=31)
+6.0 Flights climbed(count) -12.8% MoM (prev: 7.0), (n=31)
+52.0 Resting heart rate(count/min) 2.4% MoM (prev: 51.0), (n=30)
+5634.0 Step count(count) -13.0% MoM (prev: 6479.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2022-02-01
+28 days of tracked health for M 2022-02-01
+590.0 Active energy burned(Cal) -1.5% MoM (prev: 599.0), (n=28)
+1864.0 Basal energy burned(Cal) 1.6% MoM (prev: 1835.0), (n=28)
+49.0 Exercise time(min) 5.4% MoM (prev: 47.0), (n=28)
+6.0 Flights climbed(count) -5.6% MoM (prev: 6.0), (n=27)
+51.0 Resting heart rate(count/min) -2.4% MoM (prev: 52.0), (n=27)
+6535.0 Step count(count) 16.0% MoM (prev: 5634.0), (n=28)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2022-03-01
+31 days of tracked health for M 2022-03-01
+596.0 Active energy burned(Cal) 1.0% MoM (prev: 590.0), (n=31)
+1864.0 Basal energy burned(Cal) 0.0% MoM (prev: 1864.0), (n=31)
+61.0 Exercise time(min) 23.5% MoM (prev: 49.0), (n=31)
+5.0 Flights climbed(count) -10.8% MoM (prev: 6.0), (n=31)
+53.0 Resting heart rate(count/min) 3.4% MoM (prev: 51.0), (n=31)
+6828.0 Step count(count) 4.5% MoM (prev: 6535.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2022-04-01
+30 days of tracked health for M 2022-04-01
+596.0 Active energy burned(Cal) -0.0% MoM (prev: 596.0), (n=30)
+1873.0 Basal energy burned(Cal) 0.4% MoM (prev: 1864.0), (n=30)
+62.0 Exercise time(min) 2.6% MoM (prev: 61.0), (n=29)
+5.0 Flights climbed(count) 2.4% MoM (prev: 5.0), (n=29)
+57.0 Resting heart rate(count/min) 8.3% MoM (prev: 53.0), (n=30)
+7334.0 Step count(count) 7.4% MoM (prev: 6828.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2022-05-01
+31 days of tracked health for M 2022-05-01
+683.0 Active energy burned(Cal) 14.7% MoM (prev: 596.0), (n=31)
+1839.0 Basal energy burned(Cal) -1.8% MoM (prev: 1873.0), (n=30)
+67.0 Exercise time(min) 7.9% MoM (prev: 62.0), (n=30)
+7.0 Flights climbed(count) 25.5% MoM (prev: 5.0), (n=31)
+61.0 Resting heart rate(count/min) 7.2% MoM (prev: 57.0), (n=30)
+8357.0 Step count(count) 13.9% MoM (prev: 7334.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2022-06-01
+30 days of tracked health for M 2022-06-01
+660.0 Active energy burned(Cal) -3.3% MoM (prev: 683.0), (n=30)
+1814.0 Basal energy burned(Cal) -1.4% MoM (prev: 1839.0), (n=28)
+62.0 Exercise time(min) -8.0% MoM (prev: 67.0), (n=27)
+6.0 Flights climbed(count) -5.4% MoM (prev: 7.0), (n=28)
+61.0 Resting heart rate(count/min) -0.4% MoM (prev: 61.0), (n=28)
+8297.0 Step count(count) -0.7% MoM (prev: 8357.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2022-07-01
+31 days of tracked health for M 2022-07-01
+736.0 Active energy burned(Cal) 11.5% MoM (prev: 660.0), (n=31)
+1875.0 Basal energy burned(Cal) 3.4% MoM (prev: 1814.0), (n=31)
+64.0 Exercise time(min) 3.7% MoM (prev: 62.0), (n=31)
+8.0 Flights climbed(count) 22.6% MoM (prev: 6.0), (n=29)
+61.0 Resting heart rate(count/min) -0.5% MoM (prev: 61.0), (n=30)
+9810.0 Step count(count) 18.2% MoM (prev: 8297.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2022-08-01
+31 days of tracked health for M 2022-08-01
+754.0 Active energy burned(Cal) 2.5% MoM (prev: 736.0), (n=31)
+1887.0 Basal energy burned(Cal) 0.6% MoM (prev: 1875.0), (n=31)
+68.0 Exercise time(min) 5.2% MoM (prev: 64.0), (n=31)
+10.0 Flights climbed(count) 20.9% MoM (prev: 8.0), (n=27)
+58.0 Resting heart rate(count/min) -4.4% MoM (prev: 61.0), (n=30)
+9490.0 Step count(count) -3.3% MoM (prev: 9810.0), (n=31)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2022-09-01
+30 days of tracked health for M 2022-09-01
+760.0 Active energy burned(Cal) 0.7% MoM (prev: 754.0), (n=30)
+1891.0 Basal energy burned(Cal) 0.2% MoM (prev: 1887.0), (n=30)
+66.0 Exercise time(min) -2.0% MoM (prev: 68.0), (n=30)
+14.0 Flights climbed(count) 44.3% MoM (prev: 10.0), (n=29)
+59.0 Resting heart rate(count/min) 2.0% MoM (prev: 58.0), (n=30)
+8766.0 Step count(count) -7.6% MoM (prev: 9490.0), (n=30)
+nan VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=0)
+nan Mindfulness(min) nan% MoM (prev: nan), (n=0)
+health M 2022-10-01
+31 days of tracked health for M 2022-10-01
+821.0 Active energy burned(Cal) 8.1% MoM (prev: 760.0), (n=31)
+1886.0 Basal energy burned(Cal) -0.3% MoM (prev: 1891.0), (n=31)
+80.0 Exercise time(min) 20.2% MoM (prev: 66.0), (n=31)
+10.0 Flights climbed(count) -24.9% MoM (prev: 14.0), (n=29)
+59.0 Resting heart rate(count/min) -0.1% MoM (prev: 59.0), (n=31)
+8676.0 Step count(count) -1.0% MoM (prev: 8766.0), (n=31)
+48.02 VO2 Max(mL/min·kg) nan% MoM (prev: nan), (n=28)
+8.0 Mindfulness(min) nan% MoM (prev: nan), (n=28)

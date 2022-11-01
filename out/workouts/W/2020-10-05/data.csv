@@ -1,0 +1,13 @@
+Date,Active energy burned(Cal),Activity,Duration(s),Heart rate zone: A Easy (<115bpm)(%),Heart rate zone: B Fat Burn (115-135bpm)(%),Heart rate zone: C Moderate Training (135-155bpm)(%),Heart rate zone: D Hard Training (155-175bpm)(%),Heart rate zone: E Extreme Training (>175bpm)(%),Heart rate: Average(count/min),Heart rate: Maximum(count/min),METs Average(kcal/hr·kg)
+2020-10-05 08:26:44,52.487,Cycling,720.487,0.0,1.0,0.0,0.0,0.0,132.26,132.26,5.534
+2020-10-06 08:38:39,73.182,Cycling,865.809,0.0,0.5,0.0,0.5,0.0,144.26,158.622,6.534
+2020-10-06 17:45:17,62.036,Rowing,428.565,0.0,0.0,1.0,0.0,0.0,143.014,143.014,8.929
+2020-10-06 18:19:20,9.0,Running (Indoor),99.0,0.0,0.0,1.0,0.0,0.0,143.0,143.0,
+2020-10-06 18:19:48,11.882,Running (Indoor),78.695,0.0,0.0,1.0,0.0,0.0,144.0,145.0,10.275
+2020-10-06 18:22:40,103.379,Running (Indoor),508.48,0.0,0.0,0.0,1.0,0.0,172.903,172.903,11.933
+2020-10-06 18:22:53,100.0,Running (Indoor),419.0,,,,,,,,
+2020-10-07 18:29:38,68.97,Cycling,499.421,0.0,0.0,1.0,0.0,0.0,143.084,143.084,8.685
+2020-10-08 08:16:37,61.175,Cycling,530.86,0.0,0.0,1.0,0.0,0.0,142.792,142.792,7.663
+2020-10-10 17:29:15,228.0,Functional Strength Training (Indoor),2700.0,1.0,0.0,0.0,0.0,0.0,95.0,114.0,
+2020-10-11 13:50:33,152.0,Functional Strength Training (Indoor),1800.0,0.667,0.333,0.0,0.0,0.0,107.333,123.0,
+2020-10-11 14:30:57,101.0,Functional Strength Training (Indoor),1200.0,0.5,0.5,0.0,0.0,0.0,114.25,126.0,
